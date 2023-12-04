@@ -1,0 +1,191 @@
+language-name: hu_hu
+decimal-format: 0,00
+prefix: <bold><white>[</white></bold><gold>CombatLogX</gold><bold><white>]
+broadcast:
+  on-load: <bold><green>A CombatLogX sikeresen betöltődött.
+  on-enable: <bold><green>A CombatLogX sikeresen engedélyezve.
+  on-disable: <bold><red>A CombatLogX sikeresen letiltva.
+placeholder:
+  time-left-zero: '0'
+  unknown-enemy: Ismeretlen
+  status:
+    fighting: <red>Harcol
+    idle: <green>Tétlen
+    in-combat: <green>Igen
+    not-in-combat: <red>Nem
+  toggle:
+    enabled: <green>BE
+    disabled: <red>KI
+  pvp-status:
+    enabled: <green>BE
+    disabled: <red>KI
+combat-timer:
+  expire: <green>Már nem vagy harcban.
+  enemy-death: <green>Már nem vagy harcban, mert az ellenséged meghalt.
+error:
+  player-only: <red>Csak a játékosok hajthatják végre ezt a parancsot.
+  invalid-target: <gray>{target}</gray><red> nincs online vagy nem létezik.
+  no-permission: '<red>Hiáznyzó Engedély: </red><gray>{permission}'
+  target-not-in-combat: <gray>{target}</gray><red> nincs harcban.
+  self-not-in-combat: <red>Nem vagy harcban.
+  unknown-expansion: <red>A(z) </red><gray>{target}</gray><red> nem egy bővítmény,
+    vagy nincs telepítve.
+command:
+  combatlogx:
+    help-message-list:
+      - <white>
+      - '<bold><gold>CombatLogX Parancs Segítség:'
+      - '  <bold><white>/combatlogx help</white></bold><gray>: Megmutatja ezt a súgó
+      oldalt.'
+      - '  <bold><white>/combatlogx reload</white></bold><gray>: Újra betölti a config.yml-t,
+      language.yml-t és minden bővítmény konfigurációs fájlt.'
+      - '  <bold><white>/combatlogx about \<expansion></white></bold><gray>: Ellenőrzi
+      a bővítménnyel kapcsolatos információkat.'
+      - '  <bold><white>/combatlogx tag \<player></white></bold><gray>: Kényszerít egy
+      játékost a harcra.'
+      - '  <bold><white>/combatlogx toggle bossbar/actionbar/scoreboard</white></bold><gray>:
+      Engedélyez vagy letilt egy értesítési típust.'
+      - '  <bold><white>/combatlogx untag \<player></white></bold><gray>: Kikényszerít
+      egy játékost a harcból.'
+      - '  <bold><white>/combatlogx version</white></bold><gray>: Ellenőrzi a CombatLogX
+      verzióját.'
+      - <white>
+    reload-success:
+      - <green>Az összes konfigurációs fájlt sikeresen újra betöltötted a CombatLogX-ből.
+      - <green>Az összes nyelvi fájlt sikeresen újra betöltötted a CombatLogX-ből.
+      - <green>Az összes konfigurációs fájlt sikeresen újra betöltötted a CombatLogX
+        bővítményekből.
+    tag-player: <green>Sikeresen harcba kényszerítetted </green><gray>{target}</gray><green>-t.
+    tag-failure: <gray>{target}</gray><red>-t nem lehetett harcba állítani. (Talán
+      van egy megkerülése?)
+    untag-player: <green>Sikeresen kikényszerítetted </green><gray>{target}</gray><green>-t
+      a harcból.
+    toggle-bossbar: '<bold><gray>Boss Sáv: {status}'
+    toggle-actionbar: '<bold><gray>Action Sáv: {status}'
+    toggle-scoreboard: '<gray>Scoreboard: {status}'
+  combat-timer:
+    time-left-self: <green>Még </green><gray>{time_left} másodperc</gray><green> van
+      hátra.
+    time-left-other: <gray>{target}</gray><green>-nek/-nak még </green><gray>{time_left}
+      másodperc</gray><green> van hátra.
+tagged:
+  unknown: <red>Most harcban vagy! Ne jelentkezz ki.
+  attacked:
+    player: <white>{enemy}</white><red> megtámadott. Ne jelentkezz ki!
+    mob: <red>Megtámadott egy </red><white>{mob_type}</white><red>. Ne jelentkezz
+      ki!
+  attacker:
+    player: <red>Megtámadtad </red><white>{enemy}</white><red>-t. Ne jelentkezz ki!
+    mob: <red>Megtámadtál egy </red><white>{mob_type}</white><red>-t. Ne jelentkezz
+      ki!
+expansion:
+  cheat-prevention:
+    command-blocked: <red>A(z) </red><green>{command}</green><red> parancshoz nincs
+      hozzáférésed harc közben.
+    no-riptide: <red>A szökőár varázslat harc közben le van tiltva.
+    no-totem: <red>Harc közben nem engedélyezett az életmentés toteme.
+    no-entity-interaction: <red>Harc közben nem engedélyezett használni ezt az élőlényt.
+    no-chat: <red>Harc közben nem engedélyezett chat üzeneteket küldeni.
+    game-mode:
+      force-switch: <red>A játékmódod megváltozott erre </red><white>{game_mode}</white><red>.
+      no-switch: <red>Harc közben nem engedélyezett játékmódot váltani.
+    flight:
+      force-disabled: <red>A repülési képességed törlésre került.
+      no-flying: <red>Harc közben nem engedélyezett a repülés.
+    elytra:
+      force-disabled: <red>A kitinszárnyad letiltásra került.
+      no-gliding: <red>Harc közben nem engedélyezett kitinszárnyat használni.
+    teleportation:
+      block-portal: <red>Harc közben nem engedélyezett portált használni.
+      block-pearl: <red>Harc közben nem engedélyezett endergyöngyöket használni.
+      block-other: <red>Harc közben nem engedélyezett a teleportálás.
+    inventory:
+      force-closed: <red>Az eszköztárad bezárásra került.
+      no-opening: <red>Harc közben nem engedélyezett eszköztárakat megnyitni.
+    blocks:
+      prevent-breaking: <red>Harc közben nem engedélyezett blokkokat kiütni.
+      prevent-placing: <red>Harc közben nem engedélyezett blokkokat lerakni.
+      prevent-interaction: <red>Harc közben nem engedélyezett blokkokat használni.
+      prevent-portal-creation: <red>Harc közben nem engedélyezett portált létrehozni.
+    items:
+      no-pickup: <red>Harc közben nem engedélyezett tárgyakat felvenni.
+      no-dropping: <red>Harc közben nem engedélyezett tárgyakat kidobni.
+    buckets:
+      no-empty: <red>Harc közben nem engedélyezett kiüríteni a vödröket.
+      no-fill: <red>Harc közben nem engedélyezett megtölteni a vödröket.
+  damage-tagger:
+    unknown-damage: <red>Sérülést szenvedtél! Ne jelentkezz ki!
+    damage-type:
+      contact: <red>Megszúrt egy kaktusz. Ne jelentkezz ki!
+      suffocation: <red>Beragadtál egy falba. Ne jelentkezz ki!
+      fall: <red>Esési sérülést szenvedtél. Ne jelentkezz ki!
+      fire: <red>Tűzbe sétáltál. Ne jelentkezz ki!
+      fire-tick: <red>Égsz. Ne jelentkezz ki!
+      lava: <red>Lávában forrsz. Ne jelentkezz ki!
+      drowning: <red>Fulladozol. Ne jelentkezz ki!
+      block-explosion: <red>Megsérültél egy robbanásban. Ne jelentkezz ki!
+      lightning: <red>Beléd csapott egy villám! Ne jelentkezz ki!
+      starvation: <red>Túl éhes vagy. Ne jelentkezz ki!
+      poison: <red>Méregkárosodást szenvedtél. Ne jelentkezz ki!
+      magic: <red>Valaki megdobott egy bájitallal. Ne jelentkezz ki!
+      wither: <red>Elsorvadsz. Ne jelentkezz ki!
+      falling-block: <red>Egy blokk esett rád. Ne jelentkezz ki!
+      custom: <red>Egyedi sérülést szenvedtél. Ne jelentkezz ki!
+      fly-into-wall: <red>Kinetikus energiát tapasztaltál. Ne jelentkezz ki!
+      hot-floor: <red>A padló láva! Ne jelentkezz ki!
+      cramming: <red>Téged összezsúfoltak. Ne jelentkezz ki!
+  newbie-helper:
+    togglepvp:
+      self: '<gray>PVP: {status}'
+      admin: <yellow>{target}</yellow><gray> pvp-je átállítva erre {status}</gray><gray>.
+      cooldown: <red>A parancs újbóli használatához várnod kell </red><gray>{time_left}
+        másodpercet</gray><red>.
+    no-pvp:
+      self: <red>Nem ütheted meg ezt a játékost, ameddig a PvP-d le van tiltva.
+      other: <red>Ennek a játékosnak le van tiltva a PvP-je.
+      protected: <red>Ez a játékos védett, még nem engedélyezett megtámadni őt!
+    protection-disabled:
+      attacker: <red>Megtámadtál valakit, az újonc védelmed letiltásra került.
+      expired: <red>Az újonc védelmed lejárt.
+    check-format:
+      - '<gray>{target} </gray><white>&információi </white><bold><white>:'
+      - <bold><white>Védelem </white></bold><gray>{protected}
+      - '<bold><white>PvP: </white></bold><gray>{pvp}'
+  loot-protection:
+    enemy-died: <white>{enemy} </white><green>meghalt. A zsákmány </green><white>{time}
+      másodpercig</white><green> védett.
+    protected: <red>Ez a tárgy jelenleg védett. Várj </red><white>{time} másodpercet,
+      </white><red>hogy feltudd venni.
+  citizens-compatibility:
+    prevent-join: <red>Addig nem csatlakozhatsz, ameddig a klónod meg nem ölték vagy
+      el nem tűnt.
+  disguise-compatibility:
+    remove-disguise: <red>Az álcád eltávolításra került.
+  essentials-compatibility:
+    prevent-teleport-request-self: <red>Harc közben nem engedélyezett teleport kéréseket
+      létrehozni.
+    prevent-teleport-request-other: <red>Harc közben nem engedélyezett teleport kérést
+      küldeni egy játékosnak.
+  region-protection:
+    factions-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    griefdefender-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    griefprevention-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    kingdomsx-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    lands-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    konquest-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    redprotect-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    residence-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    towny-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    ultimateclaims-no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    protectionstones:
+      prevent-area-creation: <red>Harc közben nem engedélyezett védett területet létrehozni.
+      no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    preciousstones:
+      prevent-field-creation: <red>Harc közben nem engedélyezett védőmezőt létrehozni.
+      no-entry: <red>Harc közben nem engedélyezett belépni erre a területre.
+    worldguard:
+      no-entry-mob-combat: <red>Harc közben nem engedélyezett belépni egy non-mob-combat
+        területre.
+      no-entry-player-combat: <red>Harc közben nem engedélyezett belépni egy non-player-combat
+        területre.
+      no-entry-unknown-combat: <red>Harc közben nem engedélyezett belépni erre a területre.

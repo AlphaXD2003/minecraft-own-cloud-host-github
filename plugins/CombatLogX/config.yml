@@ -1,0 +1,137 @@
+# CombatLogX Configuration File
+# This file is in YAML format.
+# YAML Format Information: https://yaml.org/
+# Make sure your editor is setup to use spaces instead of TAB characters.
+# You should also ensure that this file is saved as UTF-8.
+
+# DO NOT change this value or your config may be corrupted
+generated-by-version: "11.4.0.1.1193"
+
+# Should debug messages be sent to the console?
+# This option should be enabled if you are reporting an error or bug.
+# Default: false
+debug-mode: false
+
+# These are toggles for the different broadcast messages
+broadcast:
+  on-load: true
+  on-enable: true
+  on-disable: true
+
+# This is a list of worlds that CombatLogX will ignore when tagging players.
+# World names are case-sensitive. "world" is not the same as "WoRlD"
+# Make sure you are not using the world aliases from Multiverse
+#
+# Empty list example
+# disabled-world-list: []
+#
+# YAML List format example
+# disabled-world-list:
+# - "disabled_world_1"
+# - "DiSaBlEd_WoRlD_2"
+disabled-world-list: [ ]
+
+# This option changes the 'disabled-world-list' to a list of enabled worlds.
+# You can use this when you have fewer combat worlds than disabled worlds.
+# Default: false
+disabled-world-list-inverted: false
+
+# CombatLogX can link pets, such as wolves, cats, and other animals that can be tamed, to their owner.
+# This will only link the attacker, not the entity that was attacked.
+# Default: true
+link-pets: true
+
+# CombatLogX can link projectiles, such as arrows from skeletons, to their shooter.
+# This will only link the attacker, not the entity that was attacked.
+# Default: true
+link-projectiles: true
+
+# Which projectiles will be ignored when the 'link-projectiles' option is enabled?
+# If 'link-projectiles' is false, all projectiles will be ignored.
+# You can find a list of valid projectile types on the Spigot javadocs:
+# https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+ignored-projectiles:
+  - EGG
+  - ENDER_PEARL
+  - SNOWBALL
+
+# CombatLogX can link a fishing rod to the entity that cast it.
+# This will only link the attacker, not the entity that was attacked.
+# Default: true
+link-fishing-rod: true
+
+# CombatLogX can sometimes link TNT to the entity that caused it to explode.
+# This will only link the attacker, not the entity that was attacked.
+# Default: true
+link-tnt: true
+
+timer:
+  # CombatLogX has two different types of timers that you can select.
+  #
+  # GLOBAL:
+  # Every player will be tagged for the length of the 'default-timer' value.
+  #
+  # PERMISSION:
+  # Each player will be tagged for a different amount of time based on a permission.
+  # Permission Format: "combatlogx.timer.<seconds>"
+  # Permission Example: "combatlogx.timer.30"
+  # Any player that does not have a permission will be tagged with the 'default-timer' value.
+  #
+  # Default: GLOBAL
+  type: GLOBAL
+
+  # This is the default amount of time that players will be tagged (in seconds).
+  # This value will be used if the timer type is GLOBAL or if a permission cannot be detected.
+  # Default: 10
+  default-timer: 10
+
+# Which permission will prevent players from being tagged into combat?
+# You must add this permission manually.
+# OPs do not have this permission by default.
+#
+# Setting the value of this option to "" will disable the bypass feature.
+# Default: "combatlogx.bypass"
+bypass-permission: "combatlogx.bypass"
+
+# Should CombatLogX tag players when they shoot themselves with a projectile?
+# Default: false
+self-combat: false
+
+# Should CombatLogX remove players from combat when they are killed?
+# Default: true
+untag-on-death: true
+
+# Should CombatLogX remove players from combat when their enemy is killed?
+# This also removed combat if the enemy is a creeper and decides to explode.
+# Default: true
+untag-on-enemy-death: true
+
+# Should CombatLogX attempt to remove any damage cooldown effects from players during login and teleport events?
+# Default: true
+remove-no-damage-cooldown: true
+
+# How long must players wait between requests?
+# This cooldown is for the `/clx forgive request' command.
+# Default: 30 (seconds)
+forgive-request-cooldown: 30
+
+# How long does a request last before it expires?
+# This cooldown is for the `/clx forgive request' command.
+# Default: 10 (seconds)
+forgive-request-expire: 10
+
+# What is the minimum server TPS to allow tagging?
+minimum-tps: 15.0
+
+# Which tag reasons are allowed?
+# You can see a full list here:
+# https://github.com/SirBlobman/CombatLogX/blob/main/api/src/main/java/com/github/sirblobman/combatlogx/api/object/TagReason.java
+# Default: all
+enabled-tag-reasons:
+  - "*"
+
+## END OF CONFIG.YML
+## YOU ARE NOT FINISHED
+## Don't forget to configure your expansions and other files
+## commands.yml, language.yml, punish.yml
+## /plugins/CombatLogX/expansions/

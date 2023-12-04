@@ -1,0 +1,369 @@
+lang:
+  en:
+    general:
+      prefix: '&0[&bPR&0]&r'
+      no-permission: '&4You do not have permissions to execute this command!'
+      permission-not-found: '&cPermission node ''[permission]'' not found!'
+      rank-not-found: '&cRank ''[rank]'' not found!'
+      player-not-found: '&cPlayer ''[target]'' not found!'
+      player-not-online: '&cPlayer ''[target]'' is not online!'
+      console-is-no-player: '&cThe console is not a player and has no ranks!'
+      player-rank-has-expired: '&aYour rank [rank] has expired!'
+      player-rank-expired-console: '&cRemoved expired rank [rank] from [player]'
+    messages:
+      signs:
+        created: '&aNew sign command created'
+        unknown-command: '&cUnknown sign command'
+      usertags:
+        not-found: '&cUsertag [usertag] not found!'
+    commands:
+      addoninfo:
+        arguments: <addon_name>
+        description: Show information about a installed add-on
+        failed-addon-not-found: '&cAn add-on called [addon] does not exist'
+      addonmanager:
+        arguments: ''
+        description: Manage the PowerRanks add-ons
+        failed-addon-not-found: '&cAn add-on called [addon] does not exist'
+        terms-accepted: '&aAdd-on manager terms accepted!'
+        terms-declined: '&cAdd-on manager terms declined, to use the add-on manager
+          please accept the terms'
+        download-not-available: '&cThis add-on can''t be downloaded right now'
+        download-incompatible: '&cThis add-on is incompatible with the currently installed
+          PowerRanks version'
+        download-complete: '&aSuccessfully downloaded add-on: [addon]. Do ''/pr addoninfo
+          [addon]'' for more info'
+        download-failed: '&cDownload failed for add-on: [addon]'
+        uninstall-complete: '&aSuccessfully uninstalled add-on: [addon]'
+      listaddons:
+        arguments: ''
+        description: List all installed add-ons
+      addbuyablerank:
+        arguments: <rank_name> <buyablerank_name>
+        description: Add a rank to the buyable list of a rank
+        success-add: '&aAdded buyable rank ''[rank]'' to: [target_rank]'
+        failed-add: '&cError adding buyable rank ''[rank]'' to: [target_rank]'
+      delbuyablerank:
+        arguments: <rank_name> <buyablerank_name>
+        description: Remove a rank from the buyable list of a rank
+        success-del: '&aRemoved buyable rank ''[rank]'' from: [target_rank]'
+        failed-del: '&cError removing buyable rank ''[rank]'' from: [target_rank]'
+      buyrank:
+        arguments: '[rank_name] [confirm]'
+        description: Buy a rank
+        buy-not-available: '&cBuying ranks is not available on this server.'
+        success-buy: '&aYou have bought the rank [rank]'
+        failed-buy-not-enough-money: '&cInsufficient funds to buy the rank [rank]'
+      rankup:
+        arguments: ''
+        description: Buy a rank
+        buy-not-available: '&cBuying ranks is not available on this server.'
+      setbuycommand:
+        arguments: <rank_name> <command including spaces>
+        description: Set the command that will be executed after that rank is bought
+        success-set: '&aChanged buy command to ''[buycommand]'' on rank: [rank]'
+        failed-set: '&cFailed to set buy command to ''[buycommand]'' on rank: [rank]'
+      setbuycost:
+        arguments: <rank_name> <cost>
+        description: Set the buy cost of a rank
+        success-set: '&aChanged buy cost to ''[cost]'' on rank: [rank]'
+        failed-set: '&cFailed to set buy cost to ''[cost]'' on rank: [rank]'
+      setbuydescription:
+        arguments: <rank_name> <description including spaces>
+        description: Set the description of a buyable rank
+        success-set: '&aChanged buy description to ''[description]'' on rank: [rank]'
+        failed-set: '&cFailed to set buy description to ''[description]'' on rank:
+          [rank]'
+      config:
+        arguments: <removeworldtag / (enable/disable chat_formatting/tablist_formatting/op/casesensitive_permissions)
+          / set (playtime_update_interval <seconds> / autosave_files_interval <seconds>
+          / language <string>)>
+        description: Edit fields in the configuration file
+        removed-world-tag: '&aThe world tag has been removed!'
+        state-changed: '&eChanged [config_target] from &c[old_state] &eto &a[new_state]'
+        numbers-only: '&cOnly numbers are allowed!'
+      tablist:
+        arguments: <(enable/disable tablist_sorting/reverse_tablist_sorting) / set
+          (sorting_update_interval <seconds> / header_footer_update_interval <ticks>)
+          / animation ...>
+        description: Edit fields in the tablist configuration file
+        state-changed: '&eChanged [config_target] from &c[old_state] &eto &a[new_state]'
+        numbers-only: '&cOnly numbers are allowed!'
+        animation:
+          arguments: <list>
+          unknown-animation: '&cUnknown animation name'
+          already-exists: '&cAn animation with that name already exists'
+          does-not-exists: '&cAn animation with that name does not exists'
+          created: '&aAnimation created'
+          deleted: '&aAnimation deleted'
+      factoryreset:
+        arguments: '[reset-ID]'
+        description: Reset the configuration and remove all rank/player data
+      help:
+        arguments: '[page]'
+        description: Shows this menu
+      pluginhook:
+        arguments: '[enable/disable] [plugin_name]'
+        description: Enable or disable a plugin for PowerRanks to hook in to
+        state-changed: '&eChanged [config_target] from &c[old_state] &eto &a[new_state]'
+        unknown-plugin: '&cUnknown plugin!'
+        unknown-state: '&cUnknown state!'
+      reload:
+        arguments: '[config/plugin/addons/all]'
+        description: Reload (parts of) PowerRanks
+        warning: '&4Reloading is not recommended and can cause unforseen problems.
+          Restart the server instead!'
+        config-start: '&2Reloading config...'
+        config-done: '&2Reloaded config!'
+        plugin-start: '&2Reloading plugin...'
+        plugin-done: '&2Reloaded plugin!'
+        addons-start: '&2Reloading add-ons...'
+        addons-done: '&2Reloaded add-ons!'
+        tablist-start: '&2Reloading tablist...'
+        tablist-done: '&2Reloaded tablist!'
+      stats:
+        arguments: ''
+        description: Show stats about PowerRanks
+      verbose:
+        arguments: <start [filter]/startlive [filter]/stop/save/clear>
+        description: Enable verbose logging, may result in lower performance! Only
+          use for bug reporting. Use the filter to filter on a specific permission
+        started: '&aVerbose logging started! &cWarning: enabling verbose may decrease
+          server performance, only use verbose for bug reporting!'
+        stopped: '&aVerbose logging stopped! To save the log use the command: [command]
+          save'
+        already-running: '&cVerbose logging is already running!'
+        not-running: '&cVerbose logging is not running!'
+        cleared: '&aVerbose logging cleared!'
+        saved: '&aVerbose log saved!'
+        failed-saving: '&cError saving verbose log! Did you start logging?'
+        must-stop-before-saving: '&cCannot save log wile verbose is running!'
+      addrank:
+        arguments: <player_name> <rank_name>
+        description: Add a rank to someone
+        success-executor: '&aAdded rank [rank] to [player]'
+        failed-executor: '&cFailed to add the rank [rank] to [player]'
+        failed-already-has-rank: '&c[player] already has the rank [rank]'
+        success-receiver: '&aYou have been granted the rank [rank]'
+      addownrank:
+        arguments: <rank_name>
+        description: Add a rank to yourself
+        success-executor: '&aChanged your rank to [rank]'
+        failed-executor: '&cFailed to set your rank to: [rank]'
+        success-receiver: '&aYou have been granted the rank [rank]'
+      setrank:
+        arguments: <player_name> <rank_name>
+        description: Set someone's rank and remove all other ranks
+        success-executor: '&aChanged [player]''s rank to [rank]'
+        failed-executor: '&cFailed to set ''[player]'' to rank: [rank]'
+        success-receiver: '&aYour rank has changed to [rank]'
+      setownrank:
+        arguments: <rank_name>
+        description: Set your own rank and remove all other ranks
+        success-executor: '&aChanged your rank to [rank]'
+        failed-executor: '&cFailed to set your rank to: [rank]'
+        success-receiver: '&aYour rank has changed to [rank]'
+      delrank:
+        arguments: <player_name> <rank_name>
+        success-executor: '&aRemoved the rank [rank] from [player]'
+        failed-executor: '&cFailed to remove the rank [rank] from [player]'
+        success-receiver: '&aThe rank [rank] has been revoked from you'
+      checkrank:
+        arguments: <player_name>
+        description: Check someone's rank
+        success-self: '&aYour ranks are: [ranks]'
+        success-self-none: '&eYou have no ranks'
+        success-target: '&a[target]''s ranks are: [ranks]'
+        success-target-none: '&e[target] has no ranks'
+      addplayerperm:
+        arguments: <player_name> <permission.node> [allowed]
+        description: Add a permission to a player
+        success: '&aPermission [permission] added to player: [target]'
+        failed: '&cFailed to add the permission [permission] to [target]'
+      delplayerperm:
+        arguments: <player_name> <permission.node> [allowed]
+        description: Remove a permission from a player
+        success: '&aPermission [permission] removed from player: [target]'
+        failed: '&cFailed to remove the permission [permission] from [target]'
+      listplayerpermissions:
+        arguments: <player_name>
+        description: List all permissions of a player
+      playerinfo:
+        arguments: <player_name>
+        description: Show information about a player
+      nick:
+        arguments: '[player_name] <nickname>'
+        setown:
+          success: '&aYour nickname has been set to: [nickname]'
+          failed: '&cFailed to set your nickname to: [nickname]'
+        setother:
+          success: '&a[target]''s nickname has been set to: [nickname]'
+          failed: '&cFailed to set [target]''s nickname to: [nickname]'
+      haspermission:
+        arguments: <player_name> <permission.node>
+        description: Check if a player has a certain permission
+      addinheritance:
+        arguments: <rank_name> <inheritance_rank_name>
+        description: Add a inheritance to a rank
+        success: '&aInheritance [inheritance] added to rank: [rank]'
+      delinheritance:
+        arguments: <rank_name> <inheritance_rank_name>
+        description: Remove a inheritance from a rank
+        success: '&aInheritance [inheritance] removed from rank: [rank]'
+      addperm:
+        arguments: <rank_name> <permission.node> [allowed]
+        description: Add a permission to a rank
+        success: '&aPermission [permission] added to rank: [rank]'
+        success-all: '&aPermission [permission] added to all ranks'
+        failed: '&cFailed to add the permission [permission] to [rank]'
+      delperm:
+        arguments: <rank_name> <permission.node>
+        description: Remove a permission from a rank
+        success: '&aPermission [permission] removed from rank: [rank]'
+        success-all: '&aPermission [permission] removed from all ranks'
+        failed: '&cFailed to remove the permission [permission] from [rank]'
+      createrank:
+        arguments: <rank_name>
+        description: Create a new rank
+        success: '&aRank [rank] created'
+        warning-color: '&cWarning the created rank contains characters related to
+          colors, if this is intended you can ignore this message. Color codes in
+          the rank name do not work, change the prefix instead.'
+        warning-character: '&cWarning the created rank contains special characters,
+          if this is intended you can ignore this message.'
+        failed: '&cCould not create rank [rank]'
+      deleterank:
+        arguments: <rank_name>
+        description: Delete a rank
+        success: '&aRank [rank] deleted'
+        failed: '&cCould not delete rank [rank]'
+      listdefaultranks:
+        arguments: ''
+        description: List all default ranks new players get
+      listpermissions:
+        arguments: <rank_name>
+        description: List all permissions in a rank
+      listranks:
+        arguments: ''
+        description: List all ranks
+      rankinfo:
+        arguments: <rank_name> [page]
+        description: Show information about a rank
+      renamerank:
+        arguments: <rank_name> <new_rank_name>
+        description: Rename a rank
+        success: '&aRank [rank] renamed to [new_rank]!'
+        failed: '&cFailed to rename rank [rank] to [new_rank]!'
+      setchatcolor:
+        arguments: <rank_name> <color_code>
+        description: Change the chat color of a rank
+        success: '&aChanged chat color to ''[color]'''' on rank [rank]'
+      setnamecolor:
+        arguments: <rank_name> <color_code>
+        description: Change the name color of a rank
+        success: '&aChanged name color to ''[color]'''' on rank [rank]'
+      setdefault:
+        arguments: <rank_name> <true/false>
+        description: Set the default rank for new players
+        success-added: '&aAdded [rank] as default for new players'
+        success-removed: '&aRemoved [rank] as default for new players'
+      setprefix:
+        arguments: <rank_name> <new ... prefix>
+        description: Change the prefix of a rank
+        success: '&aChanged prefix to ''[prefix]'' on rank: [rank]'
+        success-clear: '&aCleared the prefix on rank: [rank]'
+      setsuffix:
+        arguments: <rank_name> <new ... suffix>
+        description: Change the suffix of a rank
+        success: '&aChanged suffix to ''[suffix]'' on rank: [rank]'
+        success-clear: '&aCleared the suffix on rank: [rank]'
+      setweight:
+        arguments: <rank_name> <number>
+        description: Change the weight of the rank for permission handeling. Higher
+          weight equals more priority.
+        success: '&aThe weight of rank [rank] has been changed to: [weight]'
+        numbers-only: '&cOnly numbers are allowed!'
+      clearusertag:
+        arguments: '[player_name] <tag_name>'
+        description: Remove a usertag
+        disabled: '&cCan''t clear a player''s usertag. Usertags are disabled!'
+        success: '&aCleared [target]''s usertag!'
+        failed: '&cFailed to clear [target]''s usertag!'
+      createusertag:
+        arguments: <tag_name> <text>
+        description: Create a new usertag
+        disabled: '&cCan''t create a new usertag. Usertags are disabled!'
+        success: '&aUsertag [usertag] successfully created with value: [text]'
+        failed: '&cFailed creating usertag [usertag] with value: [text]'
+      editusertag:
+        arguments: <tag_name> <text>
+        description: Edit a usertag
+        disabled: '&cCan''t edit a usertag. Usertags are disabled!'
+        success: '&aUsertag [usertag] successfully changed to value: [text]'
+        failed: '&cFailed to edit [usertag] to value: [text]'
+      listusertags:
+        arguments: ''
+        description: List all usertags
+        disabled: '&cCan''t list usertags. Usertags are disabled!'
+      removeusertag:
+        arguments: <tag_name>
+        description: Delete a usertag
+        disabled: '&cCan''t remove a usertag. Usertags are disabled!'
+        not-found: '&cUsertag [usertag] not found!'
+        success: '&aUsertag [usertag] successfully removed'
+        failed: '&cFailed removing usertag [usertag]'
+      setusertag:
+        arguments: '[player_name] <tag_name>'
+        description: Assign a usertag to an player
+        disabled: '&cCan''t set a player''s usertag. Usertags are disabled!'
+        not-found: '&cUsertag [usertag] not found!'
+        success: '&aSet [target]''s usertag to: [usertag]'
+        failed: '&cFailed to change [target]''s usertag to: [usertag]'
+      addusertag:
+        arguments: '[player_name] <tag_name>'
+        description: Add a usertag to an player
+        disabled: '&cCan''t add a player''s usertag. Usertags are disabled!'
+        not-found: '&cUsertag [usertag] not found!'
+        success: '&aAdded usertag [usertag] to: [target]'
+        failed: '&cFailed to add usertag [usertag] to: [target]'
+      delusertag:
+        arguments: '[player_name] <tag_name>'
+        description: Remove an usertag from a player
+        disabled: '&cCan''t remove a player''s usertag. Usertags are disabled!'
+        not-found: '&cUsertag [usertag] not found!'
+        success: '&aRemoved usertag [usertag] from: [target]'
+        failed: '&cFailed to removed usertag [usertag] from: [target]'
+      webeditor:
+        arguments: <start/load [id]>
+        description: Upload/download your server data to/from the PowerRanks web-editor
+        preparing-session: '&aPreparing web editor...'
+        timed-out: '&cThe web editor has timed out! Please try again later.'
+        downloading-data: '&aDownloading data from the web editor...'
+        success-downloaded: '&aFinished downloading data from the web editor! &cIt
+          is recommended to restart your server.'
+        downloaded-invalid-data: '&cInvalid web editor data!'
+        failed-downloaded: '&cFailed to download data from the web editor!'
+        incompatible-version: '&cIncompattible PowerRanks version! (editor: [downloaded_version]
+          | server: [version])'
+        download-stats: '&aLoaded [rank_count] ranks and [player_count] players from
+          the web editor!'
+      we:
+        arguments: <start/load [id]>
+        description: Upload/download your server data to/from the PowerRanks web-editor
+        preparing-session: '&aPreparing web editor...'
+        timed-out: '&cThe web editor has timed out! Please try again later.'
+        downloading-data: '&aDownloading data from the web editor...'
+        success-downloaded: '&aFinished downloading data from the web editor! &cIt
+          is recommended to restart your server.'
+        downloaded-invalid-data: '&cInvalid web editor data!'
+        failed-downloaded: '&cFailed to download data from the web editor!'
+        incompatible-version: '&cIncompattible PowerRanks version! (editor: [downloaded_version]
+          | server: [version])'
+        download-stats: '&aLoaded [rank_count] ranks and [player_count] players from
+          the web editor!'
+      dump:
+        arguments: ''
+        description: Upload your server data to the PowerRanks server for debugging
+        preparing-session: '&aPreparing upload...'
+        timed-out: '&cThe upload has timed out! Please try again later.'
+version: 1.10.9

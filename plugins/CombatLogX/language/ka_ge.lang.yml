@@ -1,0 +1,192 @@
+language-name: ka_ge
+decimal-format: '0.00'
+prefix: <bold><white>[</white></bold><gold>CombatLogX</gold><bold><white>]
+broadcast:
+  on-load: <bold><green>CombatLogX წარმატებით ჩაიტვირთა.
+  on-enable: <bold><green>CombatLogX წარმატებით ჩაირთო.
+  on-disable: <bold><red>CombatLogX წარმატებით გამოირთო.
+placeholder:
+  time-left-zero: '0'
+  unknown-enemy: უცნობი
+  status:
+    fighting: <red>იბრძვის
+    idle: <green>უსაქმურადაა
+    in-combat: <green>დიახ
+    not-in-combat: <red>არა
+  toggle:
+    enabled: <green>ჩართვა
+    disabled: <red>გამორთვა
+  pvp-status:
+    enabled: <green>ჩართვა
+    disabled: <red>გამორთვა
+combat-timer:
+  expire: <green>თქვენ აღარ იმყოფებით ბრძოლაში.
+  enemy-death: <green>თქვენ აღარ იმყოფებით ბრძოლაში, რადგან თქვენი მტერი მოკვდა.
+error:
+  player-only: <green>მხოლოდ მოთამაშეებს შეუძლიათ ამ ბრძანების შესრულება.
+  invalid-target: <gray>{target} </gray><red>არ იმყოფება ხაზზე ან არ არსებობს.
+  no-permission: '<red>დაკარგული ნებართვა: </red><gray>{permission}'
+  target-not-in-combat: <gray>{target}</gray><red> არ იმყოფება ბრძოლაში.
+  self-not-in-combat: <red>თქვენ არ იმყოფებით ბრძოლაში.
+  unknown-expansion: <gray>{target} </gray><red>არ არის გაფართოვება ან არ არის დაყენებული.
+command:
+  combatlogx:
+    help-message-list:
+      - <white>
+      - '<bold><gold>CombatLogX ბრძანებათა სია:'
+      - '  <bold><white>/combatlogx help</white></bold><gray>: ხედავთ ამ დახმარების
+      გვერდს.'
+      - '  <bold><white>/combatlogx reload</white></bold><gray>: ახორციელებს კონფიგურაციის,
+      ენის და ყველა გაფართოვებათა კონფიგურაციის გადატვირთვას.'
+      - '  <bold><white>/combatlogx about \<expansion></white></bold><gray>: ამოწმებს
+      ინფორმაციას გაფართოვების შესახებ.'
+      - '  <bold><white>/combatlogx tag \<player></white></bold><gray>: ძალით შეჰყავს
+      მოთამაშე ბრძოლაში.'
+      - '  <bold><white>/combatlogx toggle bossbar/actionbar/scoreboard</white></bold><gray>:
+      გამორთეთ ან ჩართეთ შეტყობინების ნიმუში.'
+      - '  <bold><white>/combatlogx untag \<player></white></bold><gray>: ძალით გამოჰყავს
+      მოთამაშე ბრძოლიდან.'
+      - '  <bold><white>/combatlogx version</white></bold><gray>: ამოწმებს CombatLogX
+      -ის ვერსიას.'
+      - <white>
+    reload-success:
+      - <green>კონფიგურაცია წარმატებით გადაიტვირთა.
+      - <green>ენის ფაილები წარმატებით გადაიტვირთა.
+      - <green>გაფართოვებების კონფიგურაციათა ფაილები წარმატებით გადაიტვირთა.
+    tag-player: <green>მოთამაშე </green><gray>{target} </gray><green>-(ი)ს ბრძოლაში
+      შეყვანა ძალით განხორციელდა.
+    tag-failure: <gray>{target} </gray><red>ვერ დაიდგმება ბრძოლის დროს. (იქნებ მათ
+      აქვთ შემოვლითი გზა?)
+    untag-player: <green>მოთამაშე </green><gray>{target} </gray><green>-(ი)ს ბრძოლიდან
+      გამოყვანა ძალით განხორციელდა.
+    toggle-bossbar: '<bold><gray>სამართავი ზოლი: {status}'
+    toggle-actionbar: '<bold><gray>სამოქმედო ზოლი: {status}'
+    toggle-scoreboard: '<gray>საკონტროლო დაფა: {status}'
+  combat-timer:
+    time-left-self: <green>თქვენ დარჩენილი გაქვთ </green><gray>{time_left} წამი</gray><green>.
+    time-left-other: <gray>{target} </gray><green>-(ი)ს დარჩენილი აქვს </green><gray>{time_left}
+      წამი</gray><green>.
+tagged:
+  unknown: <red>თქვენ უკვე ბრძოლაში იმყოფებით! არ გახვიდეთ.
+  attacked:
+    player: <red>თქვენ შემოგიტიათ </red><white>{enemy} </white><red>-(მ)ა. არ გახვიდეთ!
+    mob: <red>თქვენ შემოგიტიათ </red><white>{mob_type} </white><red>-(მ)ა. არ გახვიდეთ!
+  attacker:
+    player: <red>თქვენ უტევთ </red><white>{enemy} </white><red>-(ს). არ გახვიდეთ!
+    mob: <red>თქვენ შეუტიეთ </red><white>{mob_type} </white><red>-(ს). არ გახვიდეთ!
+expansion:
+  cheat-prevention:
+    command-blocked: <red>თქვენ არ შეგიძლიათ </red><green>{command} </green><red>ბრძანების
+      გამოყნება ბრძოლის დროს.
+    no-riptide: <red>მოჯადოვებათა ტალღა გამორთულია ბრძოლის დროს.
+    no-totem: <red>თქვენ არ შეგიძლიათ უკვდავების ტოტემის გამოყენება ბრძოლის დროს.
+    no-entity-interaction: <red>თქვენ არ შეგიძლიათ იმ მობის გამოყენება ბრძოლის დროს.
+    no-chat: <red>თქვენ არ შეგიძლიათ ჩათში შეტყობინებების გაგზავნა ბრძოლის დროს.
+    game-mode:
+      force-switch: <red>თქვენი სათამაშო-რეჟიმი შეიცვალა </red><white>{game_mode}
+        </white><red>-ზე.
+      no-switch: <red>თქვენ არ შეგიძლიათ სათამაშო-რეჟიმის გამოცვლა ბრძოლის დროს.
+    flight:
+      force-disabled: <red>თქვენი შესაძლებლობა, რომ გეფრინათ წაიშალა.
+      no-flying: <red>თქვენ არ შეგიძლიათ ფრენა ბრძოლის დროს.
+    elytra:
+      force-disabled: <red>თქვენი ელიტრა გამოირთო.
+      no-gliding: <red>თქვენ არ შეგიძლიათ ელიტრის გამოყენება ბრძოლის დროს.
+    teleportation:
+      block-portal: <red>თქვენ არ შეგიძლიათ პორტალის გამოყენება ბრძოლის დროს.
+      block-pearl: <red>თქვენ არ შეგიძლიათ ენდერის თვალის გამოყენება ბრძოლის დროს.
+      block-other: <red>თქვენ არ შეგიძლიათ ტელეპორტაცია ბრძოლის დროს.
+    inventory:
+      force-closed: <red>თქვენი ინვენტარი დაიხურა.
+      no-opening: <red>თქვენ არ შეგიძლიათ ინვენტარის გახსნა ბრძოლის დროს.
+    blocks:
+      prevent-breaking: <red>თქვენ არ შეგიძლიათ ბლოკების მონგრევა ბრძოლის დროს.
+      prevent-placing: <red>თქვენ არ შეგიძლიათ ბლოკების დადგმა ბრძოლის დროს.
+      prevent-interaction: <red>თქვენ არ შეგიძლიათ ბლოკების გამოყენება ბრძოლის დროს.
+      prevent-portal-creation: <red>თქვენ არ შეგიძლიათ პორტალების შექმნა ბრძოლის დროს.
+    items:
+      no-pickup: <red>თქვენ არ შეგიძლიათ ნივთების აღება ბრძოლის დროს.
+      no-dropping: <red>თქვენ არ შეგიძლიათ ნივთების დაგდება ბრძოლის დროს.
+    buckets:
+      no-empty: <red>თქვენ არ შეგიძლიათ სათლების დაცლა ბრძოლის დროს.
+      no-fill: <red>თქვენ არ შეგიძლიათ სათლების შევსება ბრძოლის დროს.
+  damage-tagger:
+    unknown-damage: <red>თქვენ დაზიანება მიიღეთ! არ გახვიდეთ!
+    damage-type:
+      contact: <red>თქვენ კაქტუსმა გიჩხვლიტათ. არ გახვიდეთ!
+      suffocation: <red>თქვენ კედელში იხრჩობით. არ გახვიდეთ!
+      fall: <red>თქვენ დაზიანება მიიღეთ დაცემისგან. არ გახვიდეთ!
+      fire: <red>თქვენ ცეცხლში გაიარეთ. არ გახვიდეთ!
+      fire-tick: <red>თქვენ იწვით. არ გახვიდეთ!
+      lava: <red>თქვენ ლავაში იხარშებით. არ გახვიდეთ!
+      drowning: <red>თქვენ იხრჩობით. არ გახვიდეთ!
+      block-explosion: <red>თქვენ აფეთქებამ დაგაზიანათ. არ გახვიდეთ!
+      lightning: <red>თქვენ დარტყმული იქენით! არ გახვიდეთ!
+      starvation: <red>თქვენ საკმაოდ მშიერი ხართ. არ გახვიდეთ!
+      poison: <red>თქვენ მოწამვლისგან დაზიანება მიიღეთ. არ გახვიდეთ!
+      magic: <red>ვიღაცამ თქვენ წამალი გესროლათ. არ გახვიდეთ!
+      wither: <red>თქვენ ჭკნებით. არ გახვიდეთ!
+      falling-block: <red>თქვენ ბლოკი დაგეცათ ზედ. არ გახვიდეთ!
+      custom: <red>თქვენ მიიღეთ ჩვეულებისამებრი ზიანი. არ გახვიდეთ!
+      fly-into-wall: <red>თქვენ გამოსცადეთ კინეტიკური ენერგია. არ გახვიდეთ!
+      hot-floor: <red>იატაკი ლავაა! არ გახვიდეთ!
+      cramming: <red>თქვენი სისხლი დაღვრილი იქნა. არ გახვიდეთ!
+  newbie-helper:
+    togglepvp:
+      self: '<gray>ბრძოლა: {status}'
+      admin: <gray>თქვენ </gray><yellow>{target} </yellow><gray>-(ი)ს საბრძოლო სტატუსი
+        შეცვალეთ {status} </gray><gray>-ზე.
+      cooldown: <red>თქვენ უნდა დაიცადოთ </red><gray>{time_left} წამი</gray><red>,
+        ამ ბრძანების ხელახლა გამოსაყენებლად.
+    no-pvp:
+      self: <red>თქვენ არ შეგიძლიათ ამ მოთამაშეზე შეტევა, როცა თქვენი საბრძოლო სტატუსი
+        გამორთულია.
+      other: <red>ამ მოთამაშეს გამორთული აქვს საბრძოლო სტატუსი.
+      protected: <red>ეს მოთამაშე დაცულია, თქვენ კი არ შეგიძლიათ მასზე შეტევა ჯერ-ჯერობით!
+    protection-disabled:
+      attacker: <red>თქვენ სხვას დაესხით თავს, თქვენი ახალბედა დაცვა კი უკვე გამორთულია.
+      expired: <red>თქვენს ახალბედა დაცვას ვადა ამოეწურა.
+    check-format:
+      - '<bold><white>ინფორმაცია </white></bold><gray>{target} </gray><bold><white>-(ი)სთვის:'
+      - '<bold><white>დაცვა: </white></bold><gray>{protected}'
+      - '<bold><white>ბრძოლა: </white></bold><gray>{pvp}'
+  loot-protection:
+    enemy-died: <white>{enemy} </white><green>მოკვდა. ნაძარცვი კი დაცული იქნება მომდევნო
+      </green><white>{time} წამის </white><green>განმავლობაში.
+    protected: <red>ეს ნივთი ამჟამად დაცულია, დაიცადეთ </red><white>{time} წამი</white><red>,
+      სანამ აღებას შეძლებთ.
+  citizens-compatibility:
+    prevent-join: <red>თქვენ ვერ შეძლებთ სერვერზე შემოსვლას, სანამ თქვენი NPC არ იქნება
+      მოკლული ან გამქრალი.
+  disguise-compatibility:
+    remove-disguise: <red>თქვენი შენიღბვა წაიშალა.
+  essentials-compatibility:
+    prevent-teleport-request-self: <red>თქვენ არ შეგიძლიათ მოითხოვოთ ტელეპორტაცია
+      ბრძოლის დროს.
+    prevent-teleport-request-other: <red>თქვენ არ შეგიძლიათ გაუგზავნოთ ტელეპორტაციის
+      მოთხოვნა მოთამაშეს, რომელიც ბრძოლაში იმყოფება.
+  region-protection:
+    factions-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    griefdefender-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    griefprevention-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    kingdomsx-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    lands-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    konquest-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    redprotect-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    residence-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    towny-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    ultimateclaims-no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    protectionstones:
+      prevent-area-creation: <red>თქვენ არ შეგიძლიათ დაცული არეალის შექმნა ბრძოლის
+        დროს.
+      no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    preciousstones:
+      prevent-field-creation: <red>თქვენ არ შეგიძლიათ დაცული მინდვრის შექმნა ბრძოლის
+        დროს.
+      no-entry: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.
+    worldguard:
+      no-entry-mob-combat: <red>თქვენ არ შეგიძლიათ შეხვიდეთ არა-საბრძოლო ზონაში ბრძოლის
+        დროს.
+      no-entry-player-combat: <red>თქვენ არ შეგიძლიათ შეხვიდეთ არა-საბრძოლო ზონაში
+        ბრძოლის დროს.
+      no-entry-unknown-combat: <red>თქვენ არ შეგიძლიათ იმ არეალში შესვლა ბრძოლის დროს.

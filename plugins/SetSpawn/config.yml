@@ -1,0 +1,82 @@
+############################
+#SetSpawn plugin by iJ0hny.#
+#Version: 4.8              #
+#Make sure to leave your   #
+#thoughts on a review.     #
+############################
+
+#The message that a player receives when they execute a command but have no permission for it
+No-Permission-Message: '&0[&fSetSpawn&0]&r: &4You are not permitted to do this!'
+
+#The message that a player receives when he is teleported at the spawn.
+Spawn-Message:
+  Enabled: true
+  Message: '&0[&fSetSpawn&0]&r: &2Welcome to the spawn!'
+
+#The message that a player receives when he executes /spawn command.
+Teleport-Message:
+  Enabled: true
+  #The message below will stop showing for people with spawn.bypass permission.
+  Disabled-for-Bypass: true
+  Message: '&0[&fSetSpawn&0]&r: &2Teleporting to the spawn...'
+
+#Cooldown for /spawn command.
+#Delay is in SECONDS! If you want 1 minute ie. type 60 etc.
+#%del% can be used to get the delay remaining for player to use /spawn again.
+Cooldown-For-Spawn-Cmd:
+  Enabled: true
+  Enabled-Message: true
+  Message: '&0[&fSetSpawn&0]&r: &cWait %del% more seconds before using /spawn again!'
+  Delay: 10
+
+#The message that a player receives when he moves during a teleport cooldown.
+Cancel-On-Move:
+  Enabled: true
+  Enabled-Message: true
+  Message: '&0[&fSetSpawn&0]&r: &4Teleportation cancelled!'
+
+#The effect that is set off when player arrives at the spawn location.
+Spawn-Effect:
+  Enabled: true
+  Effect-Name: ENDER_SIGNAL
+
+#The sound that is played when player arrives at the spawn location.
+Spawn-Sound:
+  Enabled: true
+  Sound-Name: ENTITY_ENDER_PEARL_THROW
+
+#Teleport players to spawn when they fall into void.
+Void-To-Spawn:
+  Enabled: true
+  Enabled-Message: true
+  Message: '&0[&fSetSpawn&0]&r: &2Teleported to spawn from void.'
+
+#Teleport players to spawn with /spawn %targetname%.
+#Sender is the one teleporting the target to spawn.
+#Target is the one being teleported to the spawn.
+#%targetname% can be used in the message-sender (nowhere else) to get the target's in-game name.
+#%sendername% can be used in the message-target (nowhere else) to get the sender's in-game name.
+Force-Spawn:
+  Enabled-message-target: true
+  Message-target: '&0[&fSetSpawn&0]&r: &eYou have been teleported to the spawn by &2%sendername%'
+  Enabled-message-sender: true
+  Message-sender: '&0[&fSetSpawn&0]&r: &eYou have teleported &2%targetname% &eto the spawn!'
+  Player-Not-Online-Message: '&0[&fSetSpawn&0]&r: &cThat player is not online!'
+
+#The amount of seconds when a player executes /spawn util they teleport to it.
+Cooldown: 5
+
+#Messages that admin receives.
+Set-Spawn-Message: '&0[&fSetSpawn&0]&r: &eYou have set the spawn!'
+Set-First-Join-Spawn-Message: '&0[&fSetSpawn&0]&r: &eYou have set the first join spawn!'
+No-Spawn-Message: '&0[&fSetSpawn&0]&r: &cThere has no spawn been set yet!'
+Reload-Message: '&0[&fSetSpawn&0]&r: &2Config Reloaded!'
+
+#Teleport player to spawn on their join.
+On-Join-Spawn: true
+#Telport player to the first join spawn on their first join on the server.
+On-First-Join-Spawn: true
+#Teleport player to the spawn on respawn.
+Respawn-At-Spawn: true
+#Ignore bed-spawn on player respawn [teleport to spawn if the option above (Respawn-At-Spawn) is true].
+Override-Bedspawn-On-Respawn: true

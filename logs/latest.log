@@ -1,208 +1,277 @@
-[15:09:34] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:09:37] [ServerMain/INFO]: Loaded 7 recipes
-[15:09:38] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[15:09:38] [Server thread/INFO]: Loading properties
-[15:09:38] [Server thread/INFO]: This server is running CraftBukkit version 3919-Spigot-dba3cdc-e42510b (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
-[15:09:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:09:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:09:39] [Server thread/INFO]: Debug logging is disabled
-[15:09:39] [Server thread/INFO]: Default game type: SURVIVAL
-[15:09:39] [Server thread/INFO]: Generating keypair
-[15:09:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:09:39] [Server thread/INFO]: Using epoll channel type
-[15:09:40] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.1
-[15:09:40] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.1 is now loaded. Registering protocol transformers and injecting...
-[15:09:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[15:09:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.1
-[15:09:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:41] [Server thread/INFO]: Preparing level "world"
-[15:09:41] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:09:41] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:41] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:41] [Server thread/INFO]: View Distance: 10
-[15:09:41] [Server thread/INFO]: Simulation Distance: 10
-[15:09:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:41] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:41] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:41] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:09:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:42] [Server thread/INFO]: View Distance: 10
-[15:09:42] [Server thread/INFO]: Simulation Distance: 10
-[15:09:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:42] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:42] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:09:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:47] [Server thread/INFO]: View Distance: 10
-[15:09:47] [Server thread/INFO]: Simulation Distance: 10
-[15:09:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:47] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:47] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:57] [Server thread/INFO]: Time elapsed: 9539 ms
-[15:09:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:01] [Server thread/INFO]: Time elapsed: 4302 ms
-[15:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[15:10:05] [Server thread/INFO]: Time elapsed: 4088 ms
-[15:10:05] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.1
-[15:10:05] [Server thread/WARN]: [ViaVersion] Couldn't find reflection methods/fields to access Channel from player.
-Login race condition fixer will be disabled.
- Some plugins that use ViaAPI on join event may work incorrectly.
-java.lang.NoSuchFieldException: NetworkManager
-	at com.viaversion.viaversion.bukkit.listeners.JoinListener.findField(JoinListener.java:80) ~[?:?]
-	at com.viaversion.viaversion.bukkit.listeners.JoinListener.<clinit>(JoinListener.java:50) ~[?:?]
-	at com.viaversion.viaversion.ViaVersionPlugin.onEnable(ViaVersionPlugin.java:109) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:577) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:400) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-[15:10:05] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
-[15:10:05] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.1
-[15:10:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:10:05] [Server thread/INFO]: Done (24.123s)! For help, type "help"
-[15:10:05] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[15:12:42] [User Authenticator #1/INFO]: UUID of player subhamoyGhosh is e08bc1be-f2c5-38bd-949f-fb8b9dd1263a
-[15:12:43] [Server thread/INFO]: subhamoyGhosh joined the game
-[15:12:43] [Server thread/INFO]: subhamoyGhosh[/[0:0:0:0:0:0:0:1%0]:51252] logged in with entity id 141 at ([world]17.5, 83.0, 18.5)
-[15:13:10] [Server thread/INFO]: Made subhamoyGhosh a server operator
-[15:13:20] [Server thread/INFO]: subhamoyGhosh issued server command: /gamemode creative
-[15:13:20] [Server thread/INFO]: [subhamoyGhosh: Set own game mode to Creative Mode]
-[15:14:12] [Server thread/WARN]: subhamoyGhosh moved too quickly! -12.018311805504027,-5.056851103310194,-6.257776375549014
-[15:14:58] [Server thread/INFO]: subhamoyGhosh lost connection: Disconnected
-[15:14:58] [Server thread/INFO]: subhamoyGhosh left the game
+[06:10:12] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:10:15] [ServerMain/INFO]: Loaded 7 recipes
+[06:10:15] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[06:10:15] [Server thread/INFO]: Loading properties
+[06:10:15] [Server thread/INFO]: This server is running Paper version git-Paper-309 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 2182d47)
+[06:10:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:10:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:10:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[06:10:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[06:10:17] [Server thread/INFO]: Default game type: SURVIVAL
+[06:10:17] [Server thread/INFO]: Generating keypair
+[06:10:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:10:17] [Server thread/INFO]: Using epoll channel type
+[06:10:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:10:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[06:10:18] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R2.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[06:10:21] [Server thread/WARN]: Legacy plugin SimpleTpa v6.4 does not specify an api-version.
+[06:10:22] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.8.1
+[06:10:22] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.1 is now loaded. Registering protocol transformers and injecting...
+[06:10:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[06:10:22] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[06:10:22] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[06:10:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[06:10:23] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
+[06:10:23] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.2) has not yet been tested! Proceed with caution.
+[06:10:24] [Server thread/ERROR]:   [ProtocolLib] INTERNAL ERROR: Cannot load ProtocolLib.
+  If this problem hasn't already been reported, please open a ticket
+  at https://github.com/dmulloy2/ProtocolLib/issues with the following data:
+  Stack Trace:
+  java.lang.IllegalArgumentException: Unable to find a field that matches {modifiers=[required: 10000, banned: 1000], type={ type input instanceof interface java.util.Map }}
+  	at ProtocolLib.jar//com.comphenix.protocol.reflect.FuzzyReflection.getField(FuzzyReflection.java:352)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.packet.PacketRegistry.createNewRegister(PacketRegistry.java:188)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.packet.PacketRegistry.initialize(PacketRegistry.java:292)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.packet.PacketRegistry.getClientPacketTypes(PacketRegistry.java:327)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.PacketFilterManager.<init>(PacketFilterManager.java:120)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.PacketFilterBuilder.build(PacketFilterBuilder.java:121)
+  	at ProtocolLib.jar//com.comphenix.protocol.ProtocolLib.onLoad(ProtocolLib.java:183)
+  	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59)
+  	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18)
+  	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39)
+  	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36)
+  	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:514)
+  	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:273)
+  	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1086)
+  	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+  	at java.base/java.lang.Thread.run(Thread.java:840)
+  Dump:
+  Parameters: 
+    [NULL]
+  Sender:
+    com.comphenix.protocol.ProtocolLib@c4634f0[
+      statistics=<null>
+      packetTask=<null>
+      tickCounter=0
+      configExpectedMod=-1
+      updater=com.comphenix.protocol.updater.SpigotUpdater@3eff1676
+      redirectHandler=<null>
+      scheduler=com.comphenix.protocol.scheduler.DefaultScheduler@6a3c2054
+      commandProtocol=<null>
+      commandPacket=<null>
+      commandFilter=<null>
+      packetLogging=<null>
+      skipDisable=false
+      isEnabled=false
+      loader=io.papermc.paper.plugin.manager.DummyBukkitPluginLoader@66947931
+      server=CraftServer{serverName=Paper,serverVersion=git-Paper-309,minecraftVersion=1.20.2}
+      file=plugins/ProtocolLib.jar
+      description=org.bukkit.plugin.PluginDescriptionFile@1d42c11e
+      pluginMeta=org.bukkit.plugin.PluginDescriptionFile@1d42c11e
+      dataFolder=plugins/ProtocolLib
+      classLoader=PluginClassLoader{plugin=ProtocolLib v5.1.0, pluginEnabled=false, url=plugins/ProtocolLib.jar}
+      naggable=true
+      newConfig=YamlConfiguration[path='', root='YamlConfiguration']
+      configFile=plugins/ProtocolLib/config.yml
+      logger=com.destroystokyo.paper.utils.PaperPluginLogger@536fd26c
+    ]
+  Version:
+    ProtocolLib v5.1.0
+  Java Version:
+    17.0.9
+  Server:
+    git-Paper-309 (MC: 1.20.2)
+
+[06:10:24] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[06:10:24] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.18
+[06:10:24] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.4.377
+[06:10:24] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.17+6544-56d0383
+[06:10:25] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2aceec0e]
+[06:10:25] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v6.4
+[06:10:25] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.4.3.4
+[06:10:25] [Server thread/INFO]: [TradeSystem] Loading server plugin TradeSystem v2.5.2
+[06:10:25] [Server thread/INFO]: [SetHome-Config] Loading server plugin SetHome-Config v2.3
+[06:10:25] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.8.1
+[06:10:25] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.4.0.1.1193
+[06:10:25] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
+[06:10:25] [Server thread/INFO]: [CombatLogX] Loading expansions...
+[06:10:25] [Server thread/INFO]: [CombatLogX] There were no expansions to load.
+[06:10:25] [Server thread/INFO]: [StackMob] Loading server plugin StackMob v5.8.8
+[06:10:25] [Server thread/INFO]: [SetSpawn] Loading server plugin SetSpawn v4.8
+[06:10:25] [Server thread/INFO]: [SpigotPing] Loading server plugin SpigotPing v2.6
+[06:10:25] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v4.4.1
+[06:10:25] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.1.1
+[06:10:25] [Server thread/INFO]: [Hibernate] Loading server plugin Hibernate v2.1.0
+[06:10:25] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.34
+[06:10:25] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.92
+[06:10:25] [Server thread/INFO]: [PowerRanks] Loading server plugin PowerRanks v1.10.9
+[06:10:25] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[06:10:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:10:25] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[06:10:25] [Server thread/ERROR]: ******************************************************
+[06:10:25] [Server thread/ERROR]: *** ProtocolLib does not support plugin reloaders! ***
+[06:10:25] [Server thread/ERROR]: *** Please use the built-in reload command!        ***
+[06:10:25] [Server thread/ERROR]: ******************************************************
+[06:10:25] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
+[06:10:25] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.4.377
+[06:10:25] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
+[06:10:25] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[06:10:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.17+6544-56d0383
+[06:10:26] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[06:10:26] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[06:10:26] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R2.PaperweightAdapter as the Bukkit adapter
+[06:10:27] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.9
+[06:10:27] [Server thread/INFO]: [PowerRanks] 
+[06:10:27] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
+[06:10:27] [Server thread/INFO]: [PowerRanks] Loading config file
+[06:10:27] [Server thread/INFO]: [PowerRanks] Loading language file
+[06:10:27] [Server thread/INFO]: [PowerRanks] Loading usertags file
+[06:10:27] [Server thread/INFO]: [PowerRanks] Loading tablist file
+[06:10:27] [Server thread/INFO]: [PowerRanks] 
+[06:10:27] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
+[06:10:27] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
+[06:10:27] [Server thread/INFO]: [PowerRanks] 
+[06:10:27] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
+[06:10:27] [Server thread/INFO]: [PowerRanks] Loading player & rank data
+[06:10:27] [Server thread/INFO]: [PowerRanks] 
+[06:10:27] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
+[06:10:27] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
+[06:10:27] [Server thread/INFO]: [PowerRanks] PlaceholderAPI found!
+[06:10:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: powerranks [1.10.9]
+[06:10:28] [Server thread/INFO]: [PowerRanks] 
+[06:10:28] [Server thread/INFO]: [PowerRanks] §b  ██████  ██████ §a  PowerRanks v1.10.9
+[06:10:28] [Server thread/INFO]: [PowerRanks] §b  ██   ██ ██   ██§a  Running on Paper v309
+[06:10:28] [Server thread/INFO]: [PowerRanks] §b  ██████  ██████ §a  Startup time: 717ms
+[06:10:28] [Server thread/INFO]: [PowerRanks] §b  ██      ██   ██§a  Loaded 4 ranks and 2 players (YAML) 
+[06:10:28] [Server thread/INFO]: [PowerRanks] §b  ██      ██   ██§c  
+[06:10:28] [Server thread/INFO]: [PowerRanks] 
+[06:10:28] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
+[06:10:28] [Server thread/INFO]: [PowerRanks] Checking for updates...
+[06:10:28] [Server thread/INFO]: Preparing level "world"
+[06:10:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:10:29] [Server thread/INFO]: Time elapsed: 254 ms
+[06:10:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:10:29] [Server thread/INFO]: Time elapsed: 75 ms
+[06:10:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:10:29] [Server thread/INFO]: Time elapsed: 63 ms
+[06:10:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.1
+[06:10:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
+[06:10:29] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[06:10:30] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:10:30] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.18
+[06:10:30] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[06:10:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: supervanish [6.2.18]
+[06:10:30] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
+[06:10:30] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4*
+[06:10:30] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[06:10:30] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 6.4
+[06:10:30] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[06:10:30] [Server thread/INFO]: [CMILib] Enabling CMILib v1.4.3.4
+[06:10:32] [Server thread/INFO]: Server version: v1_20_R2 - 1.20.2 - paper
+[06:10:33] [Server thread/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.4.3.4]
+[06:10:33] [Server thread/INFO]: PlaceholderAPI hooked.
+[06:10:33] [Server thread/INFO]: Updated (EN) language file. Took 118ms
+[06:10:33] [Server thread/INFO]: [TradeSystem] Enabling TradeSystem v2.5.2
+[06:10:34] [Server thread/INFO]:  
+[06:10:34] [Server thread/INFO]: __________________________________________________________
+[06:10:34] [Server thread/INFO]:  
+[06:10:34] [Server thread/INFO]:                        TradeSystem [2.5.2]
+[06:10:34] [Server thread/INFO]:  
+[06:10:34] [Server thread/INFO]: Status:
+[06:10:34] [Server thread/INFO]:  
+[06:10:34] [Server thread/INFO]: MC-Version: 1.20.2 (R0.1-SNAPSHOT, Paper)
+[06:10:34] [Server thread/INFO]:  
+[06:10:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tradesystem [1.2]
+[06:10:34] [Server thread/INFO]:   > Loading sounds
+[06:10:34] [Server thread/INFO]:   > Loading blacklist
+[06:10:34] [Server thread/INFO]:     ...got 3 blocked item(s)
+[06:10:34] [Server thread/INFO]:   > Loading layouts
+[06:10:34] [Server thread/INFO]:     ...got 2 layout(s)
+[06:10:34] [Server thread/INFO]:   > Queuing database initializing task
+[06:10:35] [Server thread/INFO]:  
+[06:10:35] [Server thread/INFO]: Finished (1056ms)
+[06:10:35] [Server thread/INFO]:  
+[06:10:35] [Server thread/INFO]: __________________________________________________________
+[06:10:35] [Server thread/INFO]:  
+[06:10:35] [Server thread/INFO]: [SetHome-Config] Enabling SetHome-Config v2.3
+[06:10:35] [Server thread/INFO]: [SetHome] Enabled!
+[06:10:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.1
+[06:10:35] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.4.0.1.1193
+[06:10:35] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
+[06:10:35] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
+[06:10:35] [Server thread/INFO]: CombatLogX was loaded successfully.
+[06:10:35] [Server thread/INFO]: [CombatLogX] Enabling expansions...
+[06:10:35] [Server thread/INFO]: [CombatLogX] There were no expansions to enable.
+[06:10:35] [Server thread/INFO]: CombatLogX was enabled successfully.
+[06:10:35] [Server thread/INFO]: [StackMob] Enabling StackMob v5.8.8
+[06:10:35] [Server thread/INFO]: [StackMob] StackMob v5.8.8 by antiPerson and contributors.
+[06:10:35] [Server thread/INFO]: [StackMob] GitHub: https://github.com/Nathat23/StackMob-5 Discord: https://discord.gg/fz9xzuB
+[06:10:35] [Server thread/INFO]: [StackMob] Loading config files...
+[06:10:35] [Server thread/INFO]: [StackMob] Registering hooks and trait checks...
+[06:10:35] [Server thread/INFO]: [StackMob] Registering events, commands and tasks...
+[06:10:36] [Server thread/INFO]: [StackMob] Detected CraftBukkit NMS version V1_20_R2
+[06:10:36] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v4.8
+[06:10:36] [Server thread/INFO]: [SetSpawn] Enabled!
+[06:10:36] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[06:10:36] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[06:10:36] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.4.1
+[06:10:36] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.1.1
+[06:10:36] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[06:10:36] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 26 unique blocks.
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 23 unique blocks.
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registering commands
+[06:10:36] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[06:10:36] [Server thread/INFO]: [VeinMiner] Registering events
+[06:10:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.1.1]
+[06:10:36] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
+[06:10:36] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[06:10:36] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[06:10:36] [Server thread/INFO]: [Hibernate] Enabling Hibernate v2.1.0
+[06:10:36] [Server thread/INFO]: [spark] Enabling spark v1.10.34
+[06:10:36] [ForkJoinPool.commonPool-worker-1/INFO]: [StackMob] No update is currently available.
+[06:10:36] [ForkJoinPool.commonPool-worker-2/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[06:10:36] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[06:10:36] [Server thread/INFO]: [spark] Starting background profiler...
+[06:10:36] [ForkJoinPool.commonPool-worker-2/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
+[06:10:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.34]
+[06:10:37] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[06:10:37] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.92
+[06:10:37] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[06:10:37] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[06:10:37] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[06:10:37] [Server thread/INFO]: --------------------
+[06:10:37] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[06:10:37] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[06:10:37] [Server thread/INFO]: --------------------
+[06:10:38] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[06:10:38] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[06:10:38] [Server thread/INFO]: Running delayed init tasks
+[06:10:38] [Server thread/INFO]: [Hibernate] Saving worlds before Hibernation
+[06:10:38] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[06:10:38] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[06:10:38] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[06:10:38] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
+[06:10:38] [Craft Scheduler Thread - 8 - TradeSystem/INFO]: [TradeSystem] Database was started successfully.
+[06:10:38] [Server thread/INFO]: [Hibernate] Worlds saved!
+[06:10:38] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[06:10:38] [Server thread/INFO]: Done (22.223s)! For help, type "help"
+[06:10:38] [Server thread/INFO]: Timings Reset
+[06:10:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[06:10:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
+[06:10:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.4.377
+[06:10:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.3.371
+[06:10:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
+[06:10:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5205ms or 104 ticks behind
+[06:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 572357ms or 11447 ticks behind
+[06:30:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 571866ms or 11437 ticks behind
+[06:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 571863ms or 11437 ticks behind
+[06:50:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 571781ms or 11435 ticks behind
+[07:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 571807ms or 11436 ticks behind
+[07:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 571771ms or 11435 ticks behind
+[07:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 571807ms or 11436 ticks behind

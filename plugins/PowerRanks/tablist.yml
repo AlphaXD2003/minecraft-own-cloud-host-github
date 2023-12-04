@@ -1,0 +1,33 @@
+sorting:
+  enabled: true
+  reverse: true
+  update-interval: 5
+header-footer:
+  enabled: false
+  update-interval: 1
+  header:
+  - '{animation:demo}'
+  - ''
+  - '[gradient=#01b0fb,#f50be5]----------------[/gradient][gradient=#f50be5,#01b0fb]----------------[/gradient]'
+  footer:
+  - '[gradient=#01b0fb,#f50be5]----------------[/gradient][gradient=#f50be5,#01b0fb]----------------[/gradient]'
+  - ''
+  - '[gradient=#5ffb15,#b8fd24]default header footer, change in tablist.yml[/gradient]'
+  animations:
+    demo:
+      delay: 5
+      frames:
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#FFFFFFP#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#FFFFFFo#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#FFFFFFw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#FFFFFFe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#FFFFFFr#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#FFFFFFR#fb541fa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#FFFFFFa#fb3824n#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#FFFFFFn#fc1c29k#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#FFFFFFk#fd002es'
+      - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#FFFFFFs'

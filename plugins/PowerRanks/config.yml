@@ -1,0 +1,63 @@
+general:
+  language: en
+  autosave-files-interval: 600
+  playtime-update-interval: 60
+  case-sensitive-permissions: false
+  disable-op: false
+bungeecord:
+  enabled: false
+  server-name: Global
+  uuid: 297b69b1-c3d8-49eb-9f99-17244796766d
+storage:
+  type: YAML
+  mysql:
+    host: 127.0.0.1
+    port: 3306
+    database: powerranks
+    username: username
+    password: password
+    ssl: false
+    verbose: false
+chat:
+  enabled: true
+  format: '&r[usertag] [prefix] [player] [suffix]&r: [msg]'
+tablist_modification:
+  enabled: true
+  format: '&r[usertag] [prefix] [player] [suffix]'
+nametagedit:
+  prefix: '[usertag] [prefix]'
+  suffix: '[suffix]'
+signs:
+  enabled: true
+  title_format: '&0[&b%plugin_name%&0]'
+plugin_hook:
+  vault_economy: true
+  vault_permissions: true
+  vault_permissions_experimental: true
+  placeholderapi: true
+  deluxetags: false
+  nametagedit: true
+placeholderapi:
+  inject_powerranks_color: false
+  multi_rank_separator: ' '
+announcements:
+  rankup:
+    enabled: false
+    format: '[powerranks_prefix] &6[player]''s rank has been changed to [rank]'
+  promote:
+    enabled: false
+    format: '[powerranks_prefix] &6[player] has been promoted to [rank]'
+  demote:
+    enabled: false
+    format: '[powerranks_prefix] &6[player] has been demoted to [rank]'
+updates:
+  enable_update_checking: true
+  automatic_download_updates: false
+  automatic_update_config_files: true
+addon_manager:
+  accepted_terms: false
+rankup:
+  buy_command:
+    enabled: false
+    command: say %playername% just bought the rank %rankname%
+version: 1.10.9

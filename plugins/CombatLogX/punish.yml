@@ -1,0 +1,51 @@
+# Should CombatLogX punish players when they log out during combat?
+# It is not recommended to disable this option unless you are testing something.
+# Default: true
+on-disconnect: true
+
+# Should CombatLogX punish players when they are kicked from the game?
+# Getting kicked from the game is usually not the fault of the player.
+# Default: false
+on-kick: false
+
+# Should CombatLogX punish players when their timer expires?
+# This option is not recommended unless you are testing something.
+# Default: false
+on-expire: false
+
+# Which kick reasons should not punish players?
+# This option is only used when the 'on-kick' option is set to true.
+# Default: ["troll", "kicked by SirBlobman"]
+kick-ignore-list:
+  - "troll"
+  - "kicked by SirBlobman"
+
+# Should the kick ignore list be converted into a kick requirement list?
+# Default: false
+kick-ignore-list-inverted: false
+
+# When should CombatLogX kill the player?
+# QUIT: CombatLogX will kill the player the moment they log out.
+# JOIN: CombatLogX will kill the player as soon as they log back in.
+# NEVER: CombatLogX will never kill the player.
+# Default: QUIT
+kill-time: QUIT
+
+# This is a list of custom death messages that CombatLogX will use when killing a player.
+# A message will be selected from this list randomly.
+#
+# Valid Placeholders:
+# {combatlogx_player} - The name of the player that died.
+# {combatlogx_current_enemy_name} - The name of the last enemy that tagged the player. The enemy can be unknown.
+#
+# If you don't want any custom messages, set this to an empty list
+# custom-death-message-list: []
+custom-death-message-list:
+  - "{combatlogx_player} was killed for logging out during combat."
+  - "{combatlogx_player} instantly died due to logging out during combat."
+
+# Should CombatLogX keep track of the amount of times each player was punished?
+# Default: true
+enable-punishment-counter: true
+
+## If you are searching for the punishment commands, check the 'commands.yml' file.

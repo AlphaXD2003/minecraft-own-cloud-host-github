@@ -1,0 +1,20 @@
+{
+    "worldedit.fast.disabled": "Тиз шарт сүндерелде.",
+    "worldedit.size.type": "Төр: {0}",
+    "worldedit.size.size": "Зурлык: {0}",
+    "worldedit.count.counted": "Сан: {0}",
+    "worldedit.chunkinfo.chunk": "Чанк: {0}, {1}",
+    "worldedit.chunkinfo.old-filename": "Иске формат: {0}",
+    "worldedit.removeabove.removed": "{0} блок бетерелде.",
+    "worldedit.removebelow.removed": "{0} блок бетерелде.",
+    "worldedit.removenear.removed": "{0} блок бетерелде.",
+    "worldedit.tool.deltree.not-tree": "Бу агач түгел.",
+    "worldedit.tool.info.blockstate.hover": "Блок халәте",
+    "worldedit.error.no-file-selected": "Файл сайланмады.",
+    "worldedit.selection.ellipsoid.info.center": "Үзәк: {0}",
+    "worldedit.selection.cylinder.info.center": "Үзәк: {0}",
+    "worldedit.sideeffect.update": "Яңарту",
+    "worldedit.sideeffect.state.on": "Кушык",
+    "worldedit.sideeffect.state.off": "Сүнек",
+    "worldedit.cli.unknown-command": "Билгесез боерык!"
+}

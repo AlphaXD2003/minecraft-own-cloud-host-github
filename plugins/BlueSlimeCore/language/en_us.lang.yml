@@ -1,0 +1,88 @@
+## Extra Information:
+## This is the default language file for BlueSlimeCore.
+## The default language is "en_us", also known as English (United States).
+## Context for translators will be added as YAML comments above the string.
+
+## The color scheme for messages is white, green, and red.
+## Command feedback that is successful should always be green.
+## Error messages should always be red.
+## Variables in messages can be green or yellow.
+
+## Messages use the MiniMessage format in non-strict mode.
+## More information about MiniMessage can be found here:
+## https://docs.adventure.kyori.net/minimessage/format.html
+
+---
+language-name: "en_us"
+decimal-format: "0.00"
+
+language-test:
+  invalid-language: "<red>The target does not have a valid language.</red>"
+  language-code: "<green>Language Code: <gray>{language_code}</gray></green>"
+  java-locale: "<green>Java Locale: <gray>{java_locale}</gray></green>"
+  message: "<green>Message Test</green>"
+  broadcast: "<bold><green>Broadcast Test</green></bold>"
+  action-bar: "<green>Action Bar Test</green>"
+  sound:
+    sound: "minecraft:block.beacon.activate"
+    category: "master"
+    volume: 1.0
+    pitch: 1.0
+  title:
+    title: "<green>Title Test</green>"
+    subtitle: "<green>Subtitle Test</green>"
+    fade-in: 20
+    stay: 20
+    fade-out: 20
+  complete: "<green>The language test is finished.</green>"
+
+error:
+  player-only: "<red>That command can only be executed by a player.</red>"
+  console-only: "<red>That command can only be executed in the server console.</red>"
+  invalid-held-item: "<red>You must be holding a valid item to use this command.</red>"
+  invalid-world: "<red>You must be in a valid world to execute this command.</red>"
+  world-required: "<red>The server must have at least one world to use this command.</red>"
+  no-permission: "<red>Missing Permission: <gray>{permission}</gray>.</red>"
+  invalid-target: "<red><gray>{target}</gray> is not online or does not exist.</red>"
+
+command:
+  global-gamerule:
+    unknown-gamerule: "<red>Unknown gamerule type <gray>{value}</gray>.</red>"
+    list-title: "<white><bold>Game Rule Values for <gray>{rule}</gray>:</bold></white>"
+    list-line-format: "<gray><bold>{world}:</bold></gray> <white>{value}</white>"
+    success-count: "<green>Successfully changed game rule <gray>{rule}</gray> to value <gray>{value}</gray> in <gray>{count}</gray> worlds.</green>"
+    failure-count: "<red>Failed to change game rule <gray>{rule}</gray> in <gray>{count}</gray> worlds.</red>"
+
+  debug-event:
+    invalid-priority: "<red>Unknown EventPriority type <gray>{value}</gray>.</red>"
+    invalid-event-class: "<red>Unknown or invalid event class <gray>{value}</gray>.</red>"
+    reflection-error: "<red>Failed to debug that event. Check the server console for errors.</red>"
+    results-title: "<white>Debug Results for event <gray>{event}</gray> and priority <gray>{priority}</gray>:</white>"
+    results-none: "<red>Event <gray>{event}</gray> does not have any listeners with priority <gray>{priority}</gray>.</red>"
+
+  blueslimecore:
+    help:
+      title: "<white><bold>BlueSlimeCore Commands:</bold></white>"
+      command-list:
+        - "<aqua>/bscore help</aqua><gray>: Show this list of commands.</gray>"
+        - "<aqua>/bscore reload</aqua><gray>: Reload the configuration files for BlueSlimeCore.</gray>"
+        - "<aqua>/bscore language-test [player]</aqua><gray>: Send language test messages."
+        - "<aqua>/debug-event</aqua><gray>: Show information about which classes are listing to an event (console only)</gray>"
+        - "<aqua>/global-gamerule</aqua><gray>: Change a gamerule for every world on the server.</gray>"
+        - "<aqua>/item-info</aqua><gray>: Show information about the material and damage of an item.</gray>"
+        - "<aqua>/item-to-base64</aqua><gray>: Convert an item to a binary base64 string.</gray>"
+        - "<aqua>/item-to-nbt</aqua><gray>: Convert an item to its NBT format.</gray>"
+        - "<aqua>/item-to-yml</aqua><gray>: Convert an item to a serialized Bukkit YAML format.</gray>"
+        - ""
+    reload-success: "<green>Successfully reloaded the configuration file</green>"
+
+  item-info:
+    modern:
+      - ""
+      - "<white><bold>XMaterial:</bold></aqua> <gray>{xmaterial}</gray>"
+      - "<white><bold>Bukkit Material:</bold></aqua> <gray>{material}</gray>"
+      - "<white><bold>Vanilla ID:</bold></aqua> <gray>{vanilla}</gray>"
+    legacy:
+      - ""
+      - "<aqua><bold>Deprecated ID:</bold></aqua> <gray>{material_id}</gray>"
+      - "<aqua><bold>Deprecated Data:</bold></aqua> <gray>{data}</gray>"
