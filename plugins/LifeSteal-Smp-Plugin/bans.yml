@@ -1,0 +1,11 @@
+banTimes:
+  default:
+    ban-message: "§cYou have been eliminated!" # Player kick message, required
+
+    broadcast-ban: true # Broadcast ban to all players, required, false can be used to disable
+    broadcast-ban-message: "§c%player% was eliminated!" # Broadcast ban message, required if broadcast-ban is true
+
+    permission: some.permission # Required, can be set as "" to disable, this banTime will not be used if the player does not have this permission
+
+    permanent: false # Required, true if the ban is permanent, false if it is temporary
+    time: "24:00:00.0000" # Required if permanent is false, time until the ban is lifted, format: "HH:mm:ss.SSSS"

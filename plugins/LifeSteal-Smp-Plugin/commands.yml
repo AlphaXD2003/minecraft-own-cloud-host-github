@@ -1,0 +1,99 @@
+withdrawCommand:
+  name: lswithdraw
+  perms: lssmp.withdraw
+  withdrawEliminates: false
+  messages:
+    withdraw: §6You have withdrawn %amount% heart(s)!
+    withdrawnTooMuch: §cWithdraw count is too high! Lower it to at least %max%!
+    withdrawnTooLittle: §cWithdraw count is too little! Withdraw at least one heart!
+    notEnoughSpace: §cYou do not have enough space to fit %amount% heart(s) in your
+      inventory!
+upgradeCommand:
+  name: lsupgrade
+  perms: lssmp.upgrade
+  messages:
+    warning: §c§lWARNING!§r§c Using this command will reset your configs and restart
+      the server, type "/lsupgrade confirm" if you are sure.
+    noUpgradeNeeded: '&aNo upgrade needed! Type "/lsupgrade force" to force an upgrade!'
+reviveCommand:
+  name: lsrevive
+  perms: lssmp.revive
+  messages:
+    revivedAllPlayers: §aRevived all players!
+    revivedPlayers: §aRevived %s players!
+  reviveAllCommand:
+    name: all
+    perms: lssmp.revive.all
+resetCommand:
+  name: lsreset
+  perms: lssmp.reset
+  messages:
+    resetAllPlayers: §aReset all players!
+    resetPlayers: §aReset %s players!
+  resetAllCommand:
+    name: all
+    perms: lssmp.reset.all
+debugCommand:
+  name: lsdebug
+  perms: lssmp.debug
+  messages:
+    reload: §6Reloaded LSSMP
+reloadCommand:
+  name: lsreload
+  perms: lssmp.reload
+  messages:
+    reload: §6Reloaded LSSMP
+recipeCommand:
+  name: lsrecipe
+  perms: lssmp.recipe
+configCommand:
+  name: lsconfig
+  perms: lssmp.config
+  messages:
+    configGetMessage: §7[§6%config%§7] §b%path% §fis %value%
+    configSetMessage: §7[§6%config%§7] §b%path% §fwas set to %value%
+    value: §a%s
+    stringValue: §a"%s§a"
+  configGetCommand:
+    name: get
+    perms: lssmp.config.get
+  configSetCommand:
+    name: set
+    perms: lssmp.config.set
+healthCommand:
+  name: lshealth
+  perms: lssmp.health
+  messages:
+    getMessage: §3%s §6has §a%s §4❤
+    setMessage: §3%s §6now has §a%s §4❤ §6(Was §a%s §4❤§6)
+    setInWorldMessage: §3%s §6now has §a%s §4❤ §6in §3%s §6(Was §a%s §4❤§6)
+    addMessage: §3%s §a+%s§4❤ §6(§c%s§4❤ §6-> §a%s§4❤§6)
+    subMessage: §3%s §c-%s§4❤ §6(§a%s§4❤ §6-> §c%s§4❤§6)
+    unknownWorld: §cCould not find world §3%s
+  healthSubCommand:
+    name: sub
+    perms: lssmp.health.sub
+  healthSetCommand:
+    name: set
+    perms: lssmp.health.set
+  healthGetCommand:
+    name: get
+    perms: lssmp.health.get
+  healthAddCommand:
+    name: add
+    perms: lssmp.health.add
+permSetupCommand:
+  name: lsperms
+  perms: lssmp.perms
+giveCommand:
+  name: lsgive
+  perms: lssmp.give
+eliminateCommand:
+  name: lseliminate
+  perms: lssmp.eliminate
+  messages:
+    eliminatedAllPlayers: §cEliminated all players!
+    eliminatedPlayers: §cEliminated %s players!
+  eliminateAllCommand:
+    name: all
+    perms: lssmp.eliminate.all

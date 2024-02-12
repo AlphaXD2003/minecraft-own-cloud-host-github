@@ -1,0 +1,58 @@
+Plugin:
+  
+  plugin-enabled: '[P]&a Le plugin a été activé avec succès.'
+  plugin-link: '[P]&a Lien avec&6 %Link%&a réussi !'
+  plugin-update: |-
+    [P]&a Nouvelle version disponible :&6 %NewVersion%&a !
+    [P]&a Vous êtes actuellement sur la version :&6 %Version%&a !
+    [P]&a Téléchargez la dernière version sur :
+    [P]&6 %Path%
+  plugin-data: '[P]&c A connection to the data storage could not be established. Please check the server console!'
+  plugin-version: '[P]&c Ce plugin ne peut pas être utilisé avec cette version de serveur ! (&b%Version%&c)'
+  plugin-reload: '[P]&a Le plugin a été rechargé avec succès.'
+  plugin-disabled: '[P]&a Le plugin a été désactivé avec succès.'
+  plugin-prefix: '&7[&6GSit&7]'
+
+
+
+Messages:
+  
+  command-permission-error: '[P]&c Vous n''avez pas la permission d''utiliser cette commande !'
+  command-sender-error: '[P]&c Cet expéditeur ne peut pas exécuter cette commande !'
+  command-version-error: |-
+    [P]&c Version de serveur obsolète ! (&b%Version%&c)
+    [P]&c Mettez à jour le serveur pour utiliser cette fonctionnalité !
+  
+  command-gsit-toggle-on: '[P]&a Vous avez activé les interactions par clic pour s’asseoir.'
+  command-gsit-toggle-off: '[P]&a Vous avez désactivé les interactions par clic pour s’asseoir.'
+  command-gsit-playertoggle-on: '[P]&a Vous pouvez maintenant vous asseoir en cliquant.'
+  command-gsit-playertoggle-off: '[P]&a Vous ne pouvez plus vous asseoir en cliquant.'
+  command-gcrawl-toggle-on: '[P]&a Vous avez activé le double-sneak pour ramper.'
+  command-gcrawl-toggle-off: '[P]&a Vous avez désactivé le double-sneak pour ramper.'
+  
+  action-sit-now-error: '[P]&c Vous ne pouvez pas vous asseoir maintenant !'
+  action-sit-world-error: '[P]&c Vous ne pouvez pas vous asseoir dans ce monde !'
+  action-sit-location-error: '[P]&c Vous ne pouvez pas vous asseoir ici !'
+  action-sit-safe-error: '[P]&c Il est dangereux de s''asseoir ici !'
+  action-sit-region-error: '[P]&c Vous ne pouvez pas vous asseoir dans cette zone !'
+  action-sit-kick-error: '[P]&c Quelqu''un est déjà assis là !'
+  action-sit-error: '[P]&c Due to an error you can''t sit here!'
+  action-sit-info: '&aUtiliser votre touche&6 <lang:key.sneak>&a pour vous lever.'
+  
+  action-playersit-info: '&aUtiliser votre touche&6 <lang:key.sneak>&a pour vous lever.'
+  
+  action-pose-now-error: '[P]&c Vous ne pouvez pas vous allonger maintenant !'
+  action-pose-world-error: '[P]&c Vous ne pouvez pas vous allonger maintenant !'
+  action-pose-location-error: '[P]&c Vous ne pouvez pas vous allonger ici !'
+  action-pose-safe-error: '[P]&c Il est dangereux de vous allonger ici !'
+  action-pose-region-error: '[P]&c Vous ne pouvez pas vous allonger dans cette zone !'
+  action-pose-kick-error: '[P]&c Quelqu''un est déjà allonger là !'
+  action-pose-error: '[P]&c Due to an error you can''t pose here!'
+  action-pose-info: '&aUtiliser votre touche&6 <lang:key.sneak>&a pour vous lever.'
+  
+  action-crawl-now-error: '[P]&c Vous ne pouvez pas ramper maintenant !'
+  action-crawl-world-error: '[P]&c Vous ne pouvez pas ramper dans ce monde !'
+  action-crawl-region-error: '[P]&c Vous ne pouvez pas ramper dans cette zone !'
+  action-crawl-info: '&aUtiliser votre touche&6 <lang:key.sneak>&a pour vous lever.'
+  
+  action-blocked-error: '[P]&c Vous n''êtes pas autorisé à utiliser cette commande pour le moment !'
