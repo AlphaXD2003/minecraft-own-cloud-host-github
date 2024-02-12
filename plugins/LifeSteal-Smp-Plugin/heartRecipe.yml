@@ -1,0 +1,23 @@
+options:
+  type: red dye
+  outputAmount: 1
+  shaped: true
+recipe:
+  '1':
+    item: heart fragment item
+  '2':
+    item: diamond block
+  '3':
+    item: heart fragment item
+  '4':
+    item: diamond block
+  '5':
+    item: netherite ingot
+  '6':
+    item: diamond block
+  '7':
+    item: heart fragment item
+  '8':
+    item: diamond block
+  '9':
+    item: heart fragment item

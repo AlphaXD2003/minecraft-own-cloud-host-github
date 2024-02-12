@@ -1,0 +1,23 @@
+options:
+  type: beacon
+  outputAmount: 1
+  shaped: true
+recipe:
+  '1':
+    item: air
+  '2':
+    item: netherite ingot
+  '3':
+    item: air
+  '4':
+    item: netherite ingot
+  '5':
+    item: beacon
+  '6':
+    item: netherite ingot
+  '7':
+    item: air
+  '8':
+    item: netherite ingot
+  '9':
+    item: air

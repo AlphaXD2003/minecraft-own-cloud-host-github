@@ -1,0 +1,23 @@
+# Remove the comments from the text under this line to enable
+
+# killed:
+#   if:
+#     condition:
+#       operation:
+#         left: "{{player's uuid}}"
+#         operator: "=="
+#         right: "{{killed uuid}}"
+#     then:
+#       execute:
+#         command: "say {{player's displayName}} killed themselves!"
+#         as: "console"
+#
+# eliminated:
+#   execute:
+#     command: "say {{player's displayName}} was eliminated!"
+#     as: "console"
+#
+# revived:
+#   execute:
+#       command: "say {{player's displayName}} was revived!"
+#       as: "console"

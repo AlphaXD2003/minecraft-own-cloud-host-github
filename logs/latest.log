@@ -1,208 +1,303 @@
-[15:09:34] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:09:37] [ServerMain/INFO]: Loaded 7 recipes
-[15:09:38] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[15:09:38] [Server thread/INFO]: Loading properties
-[15:09:38] [Server thread/INFO]: This server is running CraftBukkit version 3919-Spigot-dba3cdc-e42510b (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
-[15:09:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:09:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:09:39] [Server thread/INFO]: Debug logging is disabled
-[15:09:39] [Server thread/INFO]: Default game type: SURVIVAL
-[15:09:39] [Server thread/INFO]: Generating keypair
-[15:09:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:09:39] [Server thread/INFO]: Using epoll channel type
-[15:09:40] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.1
-[15:09:40] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.1 is now loaded. Registering protocol transformers and injecting...
-[15:09:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[15:09:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.1
-[15:09:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:41] [Server thread/INFO]: Preparing level "world"
-[15:09:41] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:09:41] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:41] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:41] [Server thread/INFO]: View Distance: 10
-[15:09:41] [Server thread/INFO]: Simulation Distance: 10
-[15:09:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:41] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:41] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:41] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:09:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:42] [Server thread/INFO]: View Distance: 10
-[15:09:42] [Server thread/INFO]: Simulation Distance: 10
-[15:09:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:42] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:42] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:09:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:47] [Server thread/INFO]: View Distance: 10
-[15:09:47] [Server thread/INFO]: Simulation Distance: 10
-[15:09:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:47] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:47] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:57] [Server thread/INFO]: Time elapsed: 9539 ms
-[15:09:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:01] [Server thread/INFO]: Time elapsed: 4302 ms
-[15:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[15:10:05] [Server thread/INFO]: Time elapsed: 4088 ms
-[15:10:05] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.1
-[15:10:05] [Server thread/WARN]: [ViaVersion] Couldn't find reflection methods/fields to access Channel from player.
-Login race condition fixer will be disabled.
- Some plugins that use ViaAPI on join event may work incorrectly.
-java.lang.NoSuchFieldException: NetworkManager
-	at com.viaversion.viaversion.bukkit.listeners.JoinListener.findField(JoinListener.java:80) ~[?:?]
-	at com.viaversion.viaversion.bukkit.listeners.JoinListener.<clinit>(JoinListener.java:50) ~[?:?]
-	at com.viaversion.viaversion.ViaVersionPlugin.onEnable(ViaVersionPlugin.java:109) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:577) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:400) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-[15:10:05] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
-[15:10:05] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.1
-[15:10:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:10:05] [Server thread/INFO]: Done (24.123s)! For help, type "help"
-[15:10:05] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[15:12:42] [User Authenticator #1/INFO]: UUID of player subhamoyGhosh is e08bc1be-f2c5-38bd-949f-fb8b9dd1263a
-[15:12:43] [Server thread/INFO]: subhamoyGhosh joined the game
-[15:12:43] [Server thread/INFO]: subhamoyGhosh[/[0:0:0:0:0:0:0:1%0]:51252] logged in with entity id 141 at ([world]17.5, 83.0, 18.5)
-[15:13:10] [Server thread/INFO]: Made subhamoyGhosh a server operator
-[15:13:20] [Server thread/INFO]: subhamoyGhosh issued server command: /gamemode creative
-[15:13:20] [Server thread/INFO]: [subhamoyGhosh: Set own game mode to Creative Mode]
-[15:14:12] [Server thread/WARN]: subhamoyGhosh moved too quickly! -12.018311805504027,-5.056851103310194,-6.257776375549014
-[15:14:58] [Server thread/INFO]: subhamoyGhosh lost connection: Disconnected
-[15:14:58] [Server thread/INFO]: subhamoyGhosh left the game
+[11:33:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:33:26] [ServerMain/INFO]: Loaded 1174 recipes
+[11:33:26] [ServerMain/INFO]: Loaded 1271 advancements
+[11:33:26] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:33:26] [Server thread/INFO]: Loading properties
+[11:33:26] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 581fb30)
+[11:33:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:33:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:33:27] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:33:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[11:33:28] [Server thread/INFO]: Default game type: SURVIVAL
+[11:33:28] [Server thread/INFO]: Generating keypair
+[11:33:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:33:28] [Server thread/INFO]: Using epoll channel type
+[11:33:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:33:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:33:28] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11:33:31] [Server thread/WARN]: Legacy plugin AntiCheatPlus v2.1.4 does not specify an api-version.
+[11:33:31] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
+[11:33:31] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.19+6642-415ef95
+[11:33:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@bb9a458]
+[11:33:32] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.2
+[11:33:32] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
+[11:33:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:33:33] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:33:33] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[11:33:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[11:33:33] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[11:33:33] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.1
+[11:33:33] [Server thread/INFO]: [AntiCheatPlus] Loading server plugin AntiCheatPlus v2.1.4
+[11:33:33] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.7.0
+[11:33:33] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[11:33:33] [Server thread/INFO]: [LifeSteal-Smp-Plugin] Loading server plugin LifeSteal-Smp-Plugin v2.3.21
+[11:33:33] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.117
+[11:33:34] [Server thread/INFO]: [OnePlayerSleep] Loading server plugin OnePlayerSleep v1.3
+[11:33:34] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[11:33:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:33:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.19+6642-415ef95
+[11:33:34] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:33:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:33:34] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[11:33:35] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.117
+[11:33:35] [Server thread/INFO]:         __    
+[11:33:35] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.117
+[11:33:35] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[11:33:35] [Server thread/INFO]: 
+[11:33:35] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:33:35] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:33:36] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:33:36] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:33:36] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1497ms)
+[11:33:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:33:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:33:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:33:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:33:36] [Server thread/INFO]: Preparing level "world"
+[11:33:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:33:36] [Server thread/INFO]: View Distance: 10
+[11:33:36] [Server thread/INFO]: Simulation Distance: 10
+[11:33:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:33:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:33:36] [Server thread/INFO]: Mob Spawn Range: 6
+[11:33:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:33:36] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:33:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:33:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[11:33:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:33:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:33:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:33:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:33:36] [Server thread/INFO]: Max TNT Explosions: 100
+[11:33:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:33:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:33:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:33:37] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:33:37] [Server thread/INFO]: View Distance: 10
+[11:33:37] [Server thread/INFO]: Simulation Distance: 10
+[11:33:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:33:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:33:37] [Server thread/INFO]: Mob Spawn Range: 6
+[11:33:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:33:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:33:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:33:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[11:33:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:33:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:33:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:33:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:33:37] [Server thread/INFO]: Max TNT Explosions: 100
+[11:33:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:33:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:33:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:33:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:33:38] [Server thread/INFO]: Time elapsed: 283 ms
+[11:33:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:33:39] [Server thread/INFO]: Time elapsed: 848 ms
+[11:33:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
+[11:33:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
+[11:33:39] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[11:33:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[11:33:39] [Server thread/INFO]: [WorldGuard] Loading region data...
+[11:33:39] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
+[11:33:39] [Server thread/INFO]: [AntiCheatPlus] Enabling AntiCheatPlus v2.1.4*
+[11:33:39] [Server thread/ERROR]: Error occurred while enabling AntiCheatPlus v2.1.4 (Is it up to date?)
+java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(java.io.InputStream)'
+	at net.dynamicdev.anticheat.config.ConfigurationFile.<init>(ConfigurationFile.java:62) ~[AntiCheatPlus.jar:?]
+	at net.dynamicdev.anticheat.config.ConfigurationFile.<init>(ConfigurationFile.java:50) ~[AntiCheatPlus.jar:?]
+	at net.dynamicdev.anticheat.config.ConfigurationFile.<init>(ConfigurationFile.java:46) ~[AntiCheatPlus.jar:?]
+	at net.dynamicdev.anticheat.config.files.Config.<init>(Config.java:60) ~[AntiCheatPlus.jar:?]
+	at net.dynamicdev.anticheat.config.Configuration.<init>(Configuration.java:54) ~[AntiCheatPlus.jar:?]
+	at net.dynamicdev.anticheat.manage.AntiCheatManager.<init>(AntiCheatManager.java:51) ~[AntiCheatPlus.jar:?]
+	at net.dynamicdev.anticheat.AntiCheat.onEnable(AntiCheat.java:65) ~[AntiCheatPlus.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:287) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:188) ~[paper-1.20.4.jar:git-Paper-416]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.4.jar:git-Paper-416]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-1.20.4.jar:git-Paper-416]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugins(CraftServer.java:548) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:671) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:431) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-416]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:39] [Server thread/INFO]: [AntiCheatPlus] Disabling AntiCheatPlus v2.1.4
+[11:33:39] [Server thread/ERROR]: Error occurred while disabling AntiCheatPlus v2.1.4
+java.lang.NullPointerException: Cannot invoke "net.dynamicdev.anticheat.config.Configuration.getLevels()" because "net.dynamicdev.anticheat.AntiCheat.config" is null
+	at net.dynamicdev.anticheat.AntiCheat.onDisable(AntiCheat.java:99) ~[AntiCheatPlus.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:290) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:223) ~[paper-1.20.4.jar:git-Paper-416]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.20.4.jar:git-Paper-416]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:537) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:192) ~[paper-1.20.4.jar:git-Paper-416]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.4.jar:git-Paper-416]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-1.20.4.jar:git-Paper-416]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugins(CraftServer.java:548) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:671) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:431) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-416]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:39] [Server thread/INFO]: [GSit] Enabling GSit v1.7.0
+[11:33:39] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[11:33:39] [Server thread/INFO]: [GSit] Link with ViaVersion successful!
+[11:33:39] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[11:33:39] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[11:33:40] [Server thread/INFO]: [LifeSteal-Smp-Plugin] Enabling LifeSteal-Smp-Plugin v2.3.21
+[11:33:40] [Thread-12/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[11:33:40] [Thread-12/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[11:33:42] [Thread-12/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: beginning-same.joinmc.link
+[11:33:42] [Thread-12/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[11:33:42] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3*
+[11:33:42] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[11:33:42] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[11:33:42] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[11:33:42] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[11:33:42] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[11:33:42] [Thread-12/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[11:33:42] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[11:33:42] [Server thread/INFO]: Running delayed init tasks
+[11:33:42] [Server thread/INFO]: Done (15.621s)! For help, type "help"
+[11:33:42] [Server thread/INFO]: Timings Reset
+[11:33:42] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[11:33:42] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[11:35:12] [User Authenticator #0/INFO]: UUID of player NOTSUNNY_GAMER is d55df4b5-4784-3671-94f1-187a542cd55c
+[11:35:12] [Server thread/INFO]: NOTSUNNY_GAMER joined the game
+[11:35:12] [Server thread/INFO]: NOTSUNNY_GAMER[/[0:0:0:0:0:0:0:1%0]:35196] logged in with entity id 251 at ([world]-1288.032581615784, 80.86859856141189, 407.99295728919134)
+[11:37:42] [Server thread/INFO]: NOTSUNNY_GAMER lost connection: Disconnected
+[11:37:42] [Server thread/INFO]: NOTSUNNY_GAMER left the game
+[11:37:44] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:41:44] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:45:44] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:49:45] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:53:45] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:57:46] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:01:46] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:05:46] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:09:47] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:13:47] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:17:47] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:21:48] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:25:48] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:29:49] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:33:49] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:37:50] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:41:50] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:45:51] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:49:51] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:53:51] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:57:52] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:01:52] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:05:53] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:06:42] [User Authenticator #1/INFO]: UUID of player NoT_Char1ie is 16b514ac-2835-3662-8f94-22e6076ff05c
+[13:06:43] [Server thread/INFO]: NoT_Char1ie joined the game
+[13:06:43] [Server thread/INFO]: NoT_Char1ie[/[0:0:0:0:0:0:0:1%0]:34202] logged in with entity id 798 at ([world]-1263.9147917334046, 79.49482113909427, 394.56092532675603)
+[13:06:46] [Server thread/INFO]: NoT_Char1ie lost connection: Disconnected
+[13:06:46] [Server thread/INFO]: NoT_Char1ie left the game
+[13:09:53] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:13:53] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:17:54] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:21:54] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:25:55] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:29:55] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:33:55] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:37:56] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:41:56] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:45:57] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:49:57] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:53:57] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:57:58] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[13:59:36] [User Authenticator #2/INFO]: UUID of player Muhammad is 5af1bec6-9b24-3868-ba8a-dfee0b68ca40
+[13:59:36] [Server thread/INFO]: Disconnecting Muhammad (/[0:0:0:0:0:0:0:1%0]:40914): You are not whitelisted on this server!
+[13:59:36] [Server thread/INFO]: Muhammad (/[0:0:0:0:0:0:0:1%0]:40914) lost connection: You are not whitelisted on this server!
+[13:59:45] [User Authenticator #2/INFO]: UUID of player Muhammad is 5af1bec6-9b24-3868-ba8a-dfee0b68ca40
+[13:59:45] [Server thread/INFO]: Disconnecting Muhammad (/[0:0:0:0:0:0:0:1%0]:39548): You are not whitelisted on this server!
+[13:59:45] [Server thread/INFO]: Muhammad (/[0:0:0:0:0:0:0:1%0]:39548) lost connection: You are not whitelisted on this server!
+[14:01:58] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:05:59] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:10:00] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:14:00] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:18:01] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:22:01] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:26:01] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:30:02] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:34:02] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:38:02] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:41:03] [User Authenticator #3/INFO]: UUID of player NoT_Char1ie is 16b514ac-2835-3662-8f94-22e6076ff05c
+[14:41:03] [Server thread/INFO]: NoT_Char1ie joined the game
+[14:41:03] [Server thread/INFO]: NoT_Char1ie[/[0:0:0:0:0:0:0:1%0]:60392] logged in with entity id 861 at ([world]-1263.9147917334046, 79.0, 394.56092532675603)
+[14:41:38] [Server thread/INFO]: NoT_Char1ie lost connection: Disconnected
+[14:41:38] [Server thread/INFO]: NoT_Char1ie left the game
+[14:42:03] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:46:03] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:50:04] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:54:04] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:58:04] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:02:05] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:06:05] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:10:05] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:14:06] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:18:06] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:22:09] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:26:10] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:30:10] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:34:11] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:38:11] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:42:12] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:46:12] [Thread-12/INFO]: [gg.playit.control.ChannelSetup] send keep alive

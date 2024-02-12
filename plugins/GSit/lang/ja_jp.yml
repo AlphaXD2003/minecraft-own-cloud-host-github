@@ -1,0 +1,58 @@
+Plugin:
+  
+  plugin-enabled: '[P]&a プラグインは正常に有効になりました。'
+  plugin-link: '[P]&6 %Link%&a と正常に連携されました！'
+  plugin-update: |-
+    [P]&a 新しいバージョンが使用可能になりました:&6 %NewVersion%&a！
+    [P]&a 現在使われているバージョン:&6 %Version%&a！
+    [P]&a ここから最新版をダウンロード:
+    [P]&6 %Path%
+  plugin-data: '[P]&c A connection to the data storage could not be established. Please check the server console!'
+  plugin-version: '[P]&c このプラグインは、このサーバーバージョンでは使えません！ (&b%Version%&c)'
+  plugin-reload: '[P]&a The plugin was successfully reloaded.'
+  plugin-disabled: '[P]&a プラグインは正常に無効になりました。'
+  plugin-prefix: '&7[&6GSit&7]'
+
+
+
+Messages:
+  
+  command-permission-error: '[P]&c このコマンドを実行する権限を持っていません！'
+  command-sender-error: '[P]&c その人はそのコマンドを実行することができません！'
+  command-version-error: |-
+    [P]&c 古いサーバーバージョンです！ (&b%Version%&c)
+    [P]&c この機能を使うためにサーバーを更新してください！
+  
+  command-gsit-toggle-on: '[P]&a クリックインタラクションによるシットを有効にしました。'
+  command-gsit-toggle-off: '[P]&a クリックインタラクションによるシットを無効にしました。'
+  command-gsit-playertoggle-on: '[P]&a クリックインタラクションによるプレイヤーシットを有効にしました。'
+  command-gsit-playertoggle-off: '[P]&a クリックインタラクションによるプレイヤーシットを無効にしました。'
+  command-gcrawl-toggle-on: '[P]&a You have enabled double-sneak for crawl.'
+  command-gcrawl-toggle-off: '[P]&a You have disabled double-sneak for crawl.'
+  
+  action-sit-now-error: '[P]&c 今座ることはできません！'
+  action-sit-world-error: '[P]&c このワールドで座ることはできません！'
+  action-sit-location-error: '[P]&c そこで座ることはできません！'
+  action-sit-safe-error: '[P]&c ここに座るのは安全ではありません！'
+  action-sit-region-error: '[P]&c この領域で座ることはできません！'
+  action-sit-kick-error: '[P]&c そこには既に誰かが座っています！'
+  action-sit-error: '[P]&c Due to an error you can''t sit here!'
+  action-sit-info: '&6 <lang:key.sneak>&a キーで立ち上がる。'
+  
+  action-playersit-info: '&6 <lang:key.sneak>&a キーで立ち上がる。'
+  
+  action-pose-now-error: '[P]&c 今ポーズをとることはできません！'
+  action-pose-world-error: '[P]&c このワールドでポーズをとることはできません！'
+  action-pose-location-error: '[P]&c そこでポーズをとることはできません！'
+  action-pose-safe-error: '[P]&c ここでポーズをとることは安全ではありません！'
+  action-pose-region-error: '[P]&c この領域でポーズをとることはできません！'
+  action-pose-kick-error: '[P]&c そこでは既に誰かがポーズをとっています！'
+  action-pose-error: '[P]&c Due to an error you can''t pose here!'
+  action-pose-info: '&6 <lang:key.sneak>&a キーでポーズをやめる。'
+  
+  action-crawl-now-error: '[P]&c 今クロールをすることはできません！'
+  action-crawl-world-error: '[P]&c このワールドでクロールをすることはできません！'
+  action-crawl-region-error: '[P]&c この領域でクロールをすることはできません！'
+  action-crawl-info: '&6 <lang:key.sneak>&a キーで立ち上がる。'
+  
+  action-blocked-error: '[P]&c 現在、このコマンドを実行することは許可されていません！'

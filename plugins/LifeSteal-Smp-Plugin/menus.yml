@@ -1,0 +1,10 @@
+reviveBeacon:
+  head:
+    headName: <<green>><<bold>>Revive <<red>>%player name%
+    lore:
+    - ''
+    - <<green>><<bold>>Banned for <<red>>%ban time%
+    messages:
+      notEliminated: '[[bold]]<<red>>The player <<green>>%player name% <<red>>is not
+        eliminated.'
+      revived: '[[bold]]<<green>>Revived <<red>>%player name%'

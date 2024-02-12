@@ -1,0 +1,155 @@
+Lang:
+  
+  # Defines the plugin language
+  lang: en_us
+  
+  # Defines whether the client language should be used, if it is available
+  client-lang: true
+
+
+
+Options:
+  
+  # Defines whether the plugin should notify when a new version is available
+  check-for-update: true
+  
+  # Defines whether a player should get up after taking damage
+  get-up-damage: false
+  
+  # Defines whether a player can get up from sitting or posing by sneaking
+  get-up-sneak: true
+  
+  # Defines whether a player is returned to the original location
+  get-up-return: false
+  
+  # Defines whether a player gets up when the block below breaks
+  get-up-break: true
+  
+  # Defines whether a player can sit or pose in an unsafe location
+  allow-unsafe: false
+  
+  # Defines whether more than one player can sit or pose on the same block
+  same-block-rest: false
+  
+  # Defines whether a player is centered on the block when sitting or posing
+  center-block: true
+  
+  Sit:
+    
+    # Defines the blocks a player can sit on by clicking (materials and tags) (* means every block)
+    # Separate a material or tag from its y-offset with a ";" character
+    SitMaterials:
+    - '#stairs'
+    - '#slabs'
+    - '#carpets'
+    - '#wool_carpets'
+    - moss_carpet
+    - big_dripleaf
+    - snow
+    
+    # Defines whether you can sit on stairs and slabs that are not in the bottom part of a block
+    bottom-part-only: true
+    
+    # Defines whether a player needs an empty main hand to sit down by clicking
+    empty-hand-only: true
+    
+    # Defines the maximum range in which a player can sit down by clicking (0 means unlimited)
+    max-distance: 0.0
+    
+    # Defines whether a player should receive a custom message when sitting
+    sit-message: true
+    
+    # Defines whether a player can sit by default without using the sit toggle command
+    default-sit-mode: true
+  
+  
+  
+  PlayerSit:
+    
+    # Defines whether a player can right-click to sit on another player
+    allow-sit: true
+    
+    # Defines whether a player can right-click to sit on an NPC
+    allow-sit-npc: true
+    
+    # Defines the maximum number of players that can be stacked (0 means unlimited)
+    max-stack: 0
+    
+    # Defines whether a player should kick out all passengers when sneaking
+    sneak-ejects: true
+    
+    # Defines whether a player should be placed at the bottom of the player sit stack when dismounting
+    bottom-return: false
+    
+    # Defines whether a player needs an empty main hand to sit on another player
+    empty-hand-only: true
+    
+    # Defines the maximum range in which a player can sit on another player (0 means unlimited)
+    max-distance: 0.0
+    
+    # Defines whether a player should receive a custom message when sitting on top of another player
+    sit-message: true
+    
+    # Defines whether a player can sit on another player by default without using the sit playertoggle command
+    default-sit-mode: true
+  
+  
+  
+  Pose:
+    
+    # Defines whether a player should receive a custom message when posing
+    pose-message: true
+    
+    # Defines whether a player can interact with the environment or other players while posing
+    interact: false
+    
+    # Defines whether to reset the time since a player's last rest (affects phantom spawn timer)
+    lay-rest: true
+    
+    # Defines whether a player makes snoring sounds when lying down
+    lay-snoring-sounds: false
+    
+    # Defines whether snoring sounds are only heard at night
+    lay-snoring-night-only: true
+    
+    # Defines whether a lying player counts for skipping the night (at least one player must be sleeping in a bed to skip the night!)
+    lay-night-skip: true
+  
+  
+  
+  Crawl:
+    
+    # Defines whether a player can get up from crawling by sneaking
+    get-up-sneak: true
+    
+    # Defines whether a player can double-sneak in a short amount of time to start crawling
+    # In order for it to work, you must be looking straight down
+    double-sneak: false
+  
+  
+  
+  # Defines whether a player can only sit or pose in a region where they are trusted
+  trusted-region-only: false
+  
+  # Defines the worlds in which a player cannot sit, pose or crawl
+  WorldBlacklist:
+  - blocked_world
+  
+  # Defines the worlds in which a player can sit, pose or crawl (all other worlds will be blocked when the list is not empty)
+  WorldWhitelist: []
+  
+  # Defines the list of materials on which a player may not sit or pose
+  MaterialBlacklist:
+  - lava
+  
+  # Defines the list of commands that cannot be executed while sitting or posing
+  CommandBlacklist:
+  - skin
+  - nick
+  
+  # Defines whether the plugin uses an extended compatibility mode for all features
+  # Enable this option only if, for example, anti-cheat plugins report false feedback
+  enhanced-compatibility: false
+  
+  # Defines the list of active feature flags (most likely unofficial features for individual use)
+  FeatureFlags: []
