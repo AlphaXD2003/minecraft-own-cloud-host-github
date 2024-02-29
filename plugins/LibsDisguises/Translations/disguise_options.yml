@@ -1,0 +1,666 @@
+# To use translations in Lib's Disguises, you must have the purchased plugin
+# To translate, follow this example 'Original Message': 'My New Message'
+# The Original Message is used as a yaml config key to get your new message!
+# To use hex color codes, use <#hexcolor> where hexcolor is the 6 char code
+# Found in the disguise options for Insentient and uses a boolean
+"setAI": "setAI"
+
+# Found in the disguise options for Allay and uses a boolean
+"setCanDuplicate": "setCanDuplicate"
+
+# Found in the disguise options for Allay and uses a boolean
+"setDancing": "setDancing"
+
+# Found in the disguise options for Insentient and uses a boolean
+"setEnraged": "setEnraged"
+
+# Found in the disguise options for Insentient and uses a MainHand
+"setMainHand": "setMainHand"
+
+# Found in the disguise options for Living Entity and uses a int
+"setArrowsSticking": "setArrowsSticking"
+
+# Found in the disguise options for Living Entity and uses a BlockPosition
+"setBedPosition": "setBedPosition"
+
+# Found in the disguise options for Living Entity and uses a float
+"setHealth": "setHealth"
+
+# Found in the disguise options for Living Entity and uses a boolean
+"setMainHandRaised": "setMainHandRaised"
+
+# Found in the disguise options for Living Entity and uses a double
+"setMaxHealth": "setMaxHealth"
+
+# Found in the disguise options for Living Entity and uses a boolean
+"setOffhandRaised": "setOffhandRaised"
+
+# Found in the disguise options for Living Entity and uses a Color
+"setParticlesColor": "setParticlesColor"
+
+# Found in the disguise options for Living Entity and uses a boolean
+"setPotionParticlesAmbient": "setPotionParticlesAmbient"
+
+# Found in the disguise options for Living Entity and uses a boolean
+"setRightClicking": "setRightClicking"
+
+# Found in the disguise options for Living Entity and uses a boolean
+"setSpinning": "setSpinning"
+
+# Found in the disguise options for Entity and uses a boolean
+"setAddEntityAnimations": "setAddEntityAnimations"
+
+# Found in the disguise options for Entity and uses multiple ItemStacks
+"setArmor": "setArmor"
+
+# Found in the disguise options for Entity and uses a ItemStack
+"setBoots": "setBoots"
+
+# Found in the disguise options for Entity and uses a BarColor
+"setBossBarColor": "setBossBarColor"
+
+# Found in the disguise options for Entity and uses a BarStyle
+"setBossBarStyle": "setBossBarStyle"
+
+# Found in the disguise options for Entity and uses a boolean
+"setBurning": "setBurning"
+
+# Found in the disguise options for Entity and uses a ItemStack
+"setChestplate": "setChestplate"
+
+# Found in the disguise options for Entity and uses a String
+"setCustomName": "setCustomName"
+
+# Found in the disguise options for Entity and uses a boolean
+"setCustomNameVisible": "setCustomNameVisible"
+
+# Found in the disguise options for Entity and uses a String
+"setDisguiseName": "setDisguiseName"
+
+# Found in the disguise options for Entity and uses a boolean
+"setDynamicName": "setDynamicName"
+
+# Found in the disguise options for Entity and uses a EntityPose
+"setEntityPose": "setEntityPose"
+
+# Found in the disguise options for Entity and uses a long
+"setExpires": "setExpires"
+
+# Found in the disguise options for Entity and uses a boolean
+"setFlyingWithElytra": "setFlyingWithElytra"
+
+# Found in the disguise options for Entity and uses a ChatColor
+"setGlowColor": "setGlowColor"
+
+# Found in the disguise options for Entity and uses a boolean
+"setGlowing": "setGlowing"
+
+# Found in the disguise options for Entity and uses a boolean
+"setHearSelfDisguise": "setHearSelfDisguise"
+
+# Found in the disguise options for Entity and uses a ItemStack
+"setHelmet": "setHelmet"
+
+# Found in the disguise options for Entity and uses a boolean
+"setHideArmorFromSelf": "setHideArmorFromSelf"
+
+# Found in the disguise options for Entity and uses a boolean
+"setHideHeldItemFromSelf": "setHideHeldItemFromSelf"
+
+# Found in the disguise options for Entity and uses a boolean
+"setHidePlayer": "setHidePlayer"
+
+# Found in the disguise options for Entity and uses a boolean
+"setInvisible": "setInvisible"
+
+# Found in the disguise options for Entity and uses a ItemStack
+"setItemInMainHand": "setItemInMainHand"
+
+# Found in the disguise options for Entity and uses a ItemStack
+"setItemInOffHand": "setItemInOffHand"
+
+# Found in the disguise options for Entity and uses a ItemStack
+"setLeggings": "setLeggings"
+
+# Found in the disguise options for Entity and uses a float
+"setNameYModifier": "setNameYModifier"
+
+# Found in the disguise options for Entity and uses a boolean
+"setNoGravity": "setNoGravity"
+
+# Found in the disguise options for Entity and uses a NotifyBar
+"setNotifyBar": "setNotifyBar"
+
+# Found in the disguise options for Entity and uses a Float
+"setPitchLock": "setPitchLock"
+
+# Found in the disguise options for Entity and uses a boolean
+"setPitchLocked": "setPitchLocked"
+
+# Found in the disguise options for Entity and uses a boolean
+"setSelfDisguiseVisible": "setSelfDisguiseVisible"
+
+# Found in the disguise options for Entity and uses a boolean
+"setSleeping": "setSleeping"
+
+# Found in the disguise options for Entity and uses a boolean
+"setSneaking": "setSneaking"
+
+# Found in the disguise options for Entity and uses a String
+"setSoundGroup": "setSoundGroup"
+
+# Found in the disguise options for Entity and uses a boolean
+"setSprinting": "setSprinting"
+
+# Found in the disguise options for Entity and uses a boolean
+"setSwimming": "setSwimming"
+
+# Found in the disguise options for Entity and uses a boolean
+"setTallDisguisesVisible": "setTallDisguisesVisible"
+
+# Found in the disguise options for Entity and uses a int
+"setTicksFrozen": "setTicksFrozen"
+
+# Found in the disguise options for Entity and uses a boolean
+"setUpsideDown": "setUpsideDown"
+
+# Found in the disguise options for Entity and uses a Float
+"setYawLock": "setYawLock"
+
+# Found in the disguise options for Entity and uses a boolean
+"setYawLocked": "setYawLocked"
+
+# Found in the disguise options for Entity and uses a float
+"setYModifier": "setYModifier"
+
+# Found in the disguise options for AreaEffectCloud and uses a Color
+"setColor": "setColor"
+
+# Found in the disguise options for AreaEffectCloud and uses a boolean
+"setIgnoreRadius": "setIgnoreRadius"
+
+# Found in the disguise options for AreaEffectCloud and uses a WrappedParticle
+"setParticle": "setParticle"
+
+# Found in the disguise options for AreaEffectCloud and uses a float
+"setRadius": "setRadius"
+
+# Found in the disguise options for ArmorStand and uses a EulerAngle
+"setBody": "setBody"
+
+# Found in the disguise options for ArmorStand and uses a EulerAngle
+"setHead": "setHead"
+
+# Found in the disguise options for ArmorStand and uses a EulerAngle
+"setLeftArm": "setLeftArm"
+
+# Found in the disguise options for ArmorStand and uses a EulerAngle
+"setLeftLeg": "setLeftLeg"
+
+# Found in the disguise options for ArmorStand and uses a boolean
+"setMarker": "setMarker"
+
+# Found in the disguise options for ArmorStand and uses a boolean
+"setNoBasePlate": "setNoBasePlate"
+
+# Found in the disguise options for ArmorStand and uses a EulerAngle
+"setRightArm": "setRightArm"
+
+# Found in the disguise options for ArmorStand and uses a EulerAngle
+"setRightLeg": "setRightLeg"
+
+# Found in the disguise options for ArmorStand and uses a boolean
+"setShowArms": "setShowArms"
+
+# Found in the disguise options for ArmorStand and uses a boolean
+"setSmall": "setSmall"
+
+# Found in the disguise options for Arrow and uses a boolean
+"setCritical": "setCritical"
+
+# Found in the disguise options for Arrow and uses a int
+"setPierceLevel": "setPierceLevel"
+
+# Found in the disguise options for Ageable and uses a boolean
+"setBaby": "setBaby"
+
+# Found in the disguise options for Axolotl and uses a boolean
+"setPlayingDead": "setPlayingDead"
+
+# Found in the disguise options for Axolotl and uses a Variant
+"setVariant": "setVariant"
+
+# Found in the disguise options for Bat and uses a boolean
+"setHanging": "setHanging"
+
+# Found in the disguise options for Bee and uses a int
+"setBeeAnger": "setBeeAnger"
+
+# Found in the disguise options for Bee and uses a boolean
+"setFlipped": "setFlipped"
+
+# Found in the disguise options for Bee and uses a boolean
+"setHasNectar": "setHasNectar"
+
+# Found in the disguise options for Bee and uses a boolean
+"setHasStung": "setHasStung"
+
+# Found in the disguise options for Blaze and uses a boolean
+"setBlazing": "setBlazing"
+
+# Found in the disguise options for Display and uses a Billboard
+"setBillboard": "setBillboard"
+
+# Found in the disguise options for BlockDisplay and uses a BlockData
+"setBlock": "setBlock"
+
+# Found in the disguise options for Display and uses a float
+"setDisplayHeight": "setDisplayHeight"
+
+# Found in the disguise options for Display and uses a float
+"setDisplayWidth": "setDisplayWidth"
+
+# Found in the disguise options for Display and uses a Color
+"setGlowColorOverride": "setGlowColorOverride"
+
+# Found in the disguise options for Display and uses a int
+"setInterpolationDelay": "setInterpolationDelay"
+
+# Found in the disguise options for Display and uses a int
+"setInterpolationDuration": "setInterpolationDuration"
+
+# Found in the disguise options for Display and uses a Quaternionf
+"setLeftRotation": "setLeftRotation"
+
+# Found in the disguise options for Display and uses a Quaternionf
+"setRightRotation": "setRightRotation"
+
+# Found in the disguise options for Display and uses a Vector3f
+"setScale": "setScale"
+
+# Found in the disguise options for Display and uses a float
+"setShadowRadius": "setShadowRadius"
+
+# Found in the disguise options for Display and uses a float
+"setShadowStrength": "setShadowStrength"
+
+# Found in the disguise options for Display and uses a int
+"setTeleportDuration": "setTeleportDuration"
+
+# Found in the disguise options for Display and uses a Transformation
+"setTransformation": "setTransformation"
+
+# Found in the disguise options for Display and uses a Vector3f
+"setTranslation": "setTranslation"
+
+# Found in the disguise options for Display and uses a float
+"setViewRange": "setViewRange"
+
+# Found in the disguise options for Boat and uses a int
+"setBoatShake": "setBoatShake"
+
+# Found in the disguise options for Boat and uses a TreeSpecies
+"setBoatType": "setBoatType"
+
+# Found in the disguise options for Boat and uses a float
+"setDamage": "setDamage"
+
+# Found in the disguise options for Boat and uses a boolean
+"setLeftPaddling": "setLeftPaddling"
+
+# Found in the disguise options for Boat and uses a boolean
+"setRightPaddling": "setRightPaddling"
+
+# Found in the disguise options for Camel and uses a boolean
+"setDashing": "setDashing"
+
+# Found in the disguise options for Horse and uses a boolean
+"setEating": "setEating"
+
+# Found in the disguise options for Horse and uses a boolean
+"setGrazing": "setGrazing"
+
+# Found in the disguise options for Horse and uses a boolean
+"setRearing": "setRearing"
+
+# Found in the disguise options for Horse and uses a boolean
+"setReproduced": "setReproduced"
+
+# Found in the disguise options for Horse and uses a boolean
+"setSaddled": "setSaddled"
+
+# Found in the disguise options for Horse and uses a boolean
+"setTamed": "setTamed"
+
+# Found in the disguise options for Cat and uses a DyeColor
+"setCollarColor": "setCollarColor"
+
+# Found in the disguise options for Cat and uses a boolean
+"setLookingUp": "setLookingUp"
+
+# Found in the disguise options for Cat and uses a boolean
+"setLyingDown": "setLyingDown"
+
+# Found in the disguise options for Tameable and uses a boolean
+"setSitting": "setSitting"
+
+# Found in the disguise options for Cat and uses a Type
+"setType": "setType"
+
+# Found in the disguise options for Spider and uses a boolean
+"setClimbing": "setClimbing"
+
+# Found in the disguise options for Creeper and uses a boolean
+"setIgnited": "setIgnited"
+
+# Found in the disguise options for Creeper and uses a boolean
+"setPowered": "setPowered"
+
+# Found in the disguise options for ChestedHorse and uses a boolean
+"setCarryingChest": "setCarryingChest"
+
+# Found in the disguise options for Zombie and uses a boolean
+"setConverting": "setConverting"
+
+# Found in the disguise options for Item and uses a ItemStack
+"setItemStack": "setItemStack"
+
+# Found in the disguise options for Guardian and uses a boolean
+"setRetractingSpikes": "setRetractingSpikes"
+
+# Found in the disguise options for Guardian and uses a int
+"setTarget": "setTarget"
+
+# Found in the disguise options for EnderCrystal and uses a BlockPosition
+"setBeamTarget": "setBeamTarget"
+
+# Found in the disguise options for EnderCrystal and uses a boolean
+"setShowBottom": "setShowBottom"
+
+# Found in the disguise options for EnderDragon and uses a int
+"setPhase": "setPhase"
+
+# Found in the disguise options for Enderman and uses a boolean
+"setAggressive": "setAggressive"
+
+# Found in the disguise options for Raider and uses a boolean
+"setCastingSpell": "setCastingSpell"
+
+# Found in the disguise options for FallingBlock and uses a BlockData
+"setBlockData": "setBlockData"
+
+# Found in the disguise options for FallingBlock and uses a boolean
+"setGridLocked": "setGridLocked"
+
+# Found in the disguise options for Firework and uses a int
+"setAttachedEntity": "setAttachedEntity"
+
+# Found in the disguise options for Firework and uses a ItemStack
+"setFirework": "setFirework"
+
+# Found in the disguise options for Firework and uses a boolean
+"setShotAtAngle": "setShotAtAngle"
+
+# Found in the disguise options for FishingHook and uses a boolean
+"setHooked": "setHooked"
+
+# Found in the disguise options for FishingHook and uses a int
+"setHookedId": "setHookedId"
+
+# Found in the disguise options for Fox and uses a boolean
+"setAngry": "setAngry"
+
+# Found in the disguise options for Fox and uses a boolean
+"setCrouching": "setCrouching"
+
+# Found in the disguise options for Fox and uses a boolean
+"setHeadTilted": "setHeadTilted"
+
+# Found in the disguise options for Fox and uses a boolean
+"setSpringing": "setSpringing"
+
+# Found in the disguise options for Fox and uses a boolean
+"setTipToeing": "setTipToeing"
+
+# Found in the disguise options for ItemFrame and uses a ItemStack
+"setItem": "setItem"
+
+# Found in the disguise options for ItemFrame and uses a int
+"setRotation": "setRotation"
+
+# Found in the disguise options for GlowSquid and uses a int
+"setDarkTicksRemaining": "setDarkTicksRemaining"
+
+# Found in the disguise options for Goat and uses a boolean
+"setHasLeftHorn": "setHasLeftHorn"
+
+# Found in the disguise options for Goat and uses a boolean
+"setHasRightHorn": "setHasRightHorn"
+
+# Found in the disguise options for Goat and uses a boolean
+"setScreaming": "setScreaming"
+
+# Found in the disguise options for Hoglin and uses a boolean
+"setShaking": "setShaking"
+
+# Found in the disguise options for Horse and uses a ItemStack
+"setHorseArmor": "setHorseArmor"
+
+# Found in the disguise options for Horse and uses a Style
+"setStyle": "setStyle"
+
+# Found in the disguise options for Interaction and uses a float
+"setInteractionHeight": "setInteractionHeight"
+
+# Found in the disguise options for Interaction and uses a float
+"setInteractionWidth": "setInteractionWidth"
+
+# Found in the disguise options for Interaction and uses a boolean
+"setResponsive": "setResponsive"
+
+# Found in the disguise options for IronGolem and uses a GolemCrack
+"setCracks": "setCracks"
+
+# Found in the disguise options for ItemDisplay and uses a ItemDisplayTransform
+"setItemDisplayTransform": "setItemDisplayTransform"
+
+# Found in the disguise options for Llama and uses a DyeColor
+"setCarpet": "setCarpet"
+
+# Found in the disguise options for Llama and uses a int
+"setStrength": "setStrength"
+
+# Found in the disguise options for Slime and uses a int
+"setSize": "setSize"
+
+# Found in the disguise options for Slime and uses a int
+"setUnsafeSize": "setUnsafeSize"
+
+# Found in the disguise options for Minecart and uses a int
+"setBlockOffset": "setBlockOffset"
+
+# Found in the disguise options for Minecart and uses a boolean
+"setViewBlockInCart": "setViewBlockInCart"
+
+# Found in the disguise options for MinecartFurnace and uses a boolean
+"setFueled": "setFueled"
+
+# Found in the disguise options for Ocelot and uses a boolean
+"setTrusting": "setTrusting"
+
+# Found in the disguise options for Painting and uses a Art
+"setArt": "setArt"
+
+# Found in the disguise options for Panda and uses a Gene
+"setGene": "setGene"
+
+# Found in the disguise options for Panda and uses a int
+"setHeadShaking": "setHeadShaking"
+
+# Found in the disguise options for Panda and uses a Gene
+"setHiddenGene": "setHiddenGene"
+
+# Found in the disguise options for Panda and uses a Gene
+"setMainGene": "setMainGene"
+
+# Found in the disguise options for Panda and uses a boolean
+"setSneeze": "setSneeze"
+
+# Found in the disguise options for Panda and uses a boolean
+"setTumble": "setTumble"
+
+# Found in the disguise options for Piglin and uses a boolean
+"setUsingCrossbow": "setUsingCrossbow"
+
+# Found in the disguise options for Pillager and uses a boolean
+"setAimingBow": "setAimingBow"
+
+# Found in the disguise options for Player and uses a boolean
+"setCapeEnabled": "setCapeEnabled"
+
+# Found in the disguise options for Player and uses a boolean
+"setDisplayedInTab": "setDisplayedInTab"
+
+# Found in the disguise options for Player and uses a boolean
+"setHatEnabled": "setHatEnabled"
+
+# Found in the disguise options for Player and uses a boolean
+"setJacketEnabled": "setJacketEnabled"
+
+# Found in the disguise options for Player and uses a boolean
+"setLeftPantsEnabled": "setLeftPantsEnabled"
+
+# Found in the disguise options for Player and uses a boolean
+"setLeftShoulderHasParrot": "setLeftShoulderHasParrot"
+
+# Found in the disguise options for Player and uses a Variant
+"setLeftShoulderParrot": "setLeftShoulderParrot"
+
+# Found in the disguise options for Player and uses a boolean
+"setLeftSleeveEnabled": "setLeftSleeveEnabled"
+
+# Found in the disguise options for Player and uses a String
+"setName": "setName"
+
+# Found in the disguise options for Player and uses a boolean
+"setNameVisible": "setNameVisible"
+
+# Found in the disguise options for Player and uses a boolean
+"setRightPantsEnabled": "setRightPantsEnabled"
+
+# Found in the disguise options for Player and uses a boolean
+"setRightShoulderHasParrot": "setRightShoulderHasParrot"
+
+# Found in the disguise options for Player and uses a Variant
+"setRightShoulderParrot": "setRightShoulderParrot"
+
+# Found in the disguise options for Player and uses a boolean
+"setRightSleeveEnabled": "setRightSleeveEnabled"
+
+# Found in the disguise options for Player and uses a WrappedGameProfile
+"setSkin": "setSkin"
+
+# Found in the disguise options for Player and uses a String
+"setTablistName": "setTablistName"
+
+# Found in the disguise options for PlayerDisguise and uses a boolean
+"setDeadmau5Ears": "setDeadmau5Ears"
+
+# Found in the disguise options for PolarBear and uses a boolean
+"setStanding": "setStanding"
+
+# Found in the disguise options for PufferFish and uses a int
+"setPuffState": "setPuffState"
+
+# Found in the disguise options for Sheep and uses a boolean
+"setRainbowWool": "setRainbowWool"
+
+# Found in the disguise options for Sheep and uses a boolean
+"setSheared": "setSheared"
+
+# Found in the disguise options for Shulker and uses a BlockPosition
+"setAttachmentPosition": "setAttachmentPosition"
+
+# Found in the disguise options for Shulker and uses a BlockFace
+"setFacingDirection": "setFacingDirection"
+
+# Found in the disguise options for Shulker and uses a int
+"setShieldHeight": "setShieldHeight"
+
+# Found in the disguise options for Skeleton and uses a boolean
+"setConvertingStray": "setConvertingStray"
+
+# Found in the disguise options for Sniffer and uses a State
+"setSnifferState": "setSnifferState"
+
+# Found in the disguise options for Snowman and uses a boolean
+"setDerp": "setDerp"
+
+# Found in the disguise options for SplashPotion and uses a int
+"setPotionId": "setPotionId"
+
+# Found in the disguise options for SplashPotion and uses a ItemStack
+"setSplashPotion": "setSplashPotion"
+
+# Found in the disguise options for TextDisplay and uses a TextAlignment
+"setAlignment": "setAlignment"
+
+# Found in the disguise options for TextDisplay and uses a Color
+"setBackgroundColor": "setBackgroundColor"
+
+# Found in the disguise options for TextDisplay and uses a boolean
+"setDefaultBackground": "setDefaultBackground"
+
+# Found in the disguise options for TextDisplay and uses a int
+"setLineWidth": "setLineWidth"
+
+# Found in the disguise options for TextDisplay and uses a boolean
+"setSeeThrough": "setSeeThrough"
+
+# Found in the disguise options for TextDisplay and uses a boolean
+"setShadowed": "setShadowed"
+
+# Found in the disguise options for TextDisplay and uses a String
+"setText": "setText"
+
+# Found in the disguise options for Trident and uses a boolean
+"setEnchanted": "setEnchanted"
+
+# Found in the disguise options for TropicalFish and uses a DyeColor
+"setBodyColor": "setBodyColor"
+
+# Found in the disguise options for TropicalFish and uses a Pattern
+"setPattern": "setPattern"
+
+# Found in the disguise options for TropicalFish and uses a DyeColor
+"setPatternColor": "setPatternColor"
+
+# Found in the disguise options for Turtle and uses a boolean
+"setEgg": "setEgg"
+
+# Found in the disguise options for Villager and uses a Type
+"setBiome": "setBiome"
+
+# Found in the disguise options for Villager and uses a int
+"setLevel": "setLevel"
+
+# Found in the disguise options for Villager and uses a Profession
+"setProfession": "setProfession"
+
+# Found in the disguise options for Warden and uses a int
+"setAnger": "setAnger"
+
+# Found in the disguise options for Wither and uses a int
+"setInvulnerability": "setInvulnerability"
+
+# Found in the disguise options for WitherSkull and uses a boolean
+"setBlue": "setBlue"
+
+# Found in the disguise options for Wolf and uses a boolean
+"setBegging": "setBegging"
+
+# Used as a shortcut for setBaby when disguising an entity
+"baby": "baby"
+
+# Used as a shortcut for setBaby(false) when disguising an entity
+"adult": "adult"

@@ -1,0 +1,58 @@
+Plugin:
+  
+  plugin-enabled: '[P]&a Laajennus käynnistyi onnistuneesti.'
+  plugin-link: '[P]&a Yhdistettiin onnistuneesti&6 %Link%&a laajennukseen!'
+  plugin-update: |-
+    [P]&a Uusi versio saatavilla:&6 %NewVersion%&a!
+    [P]&a Käytössä oleva versio:&6 %Version%&a!
+    [P]&a Lataa uusin versio täältä:
+    [P]&6 %Path%
+  plugin-data: '[P]&c A connection to the data storage could not be established. Please check the server console!'
+  plugin-version: '[P]&c Tätä laajennusta ei voi käyttää nykyisellä palvelimen versiolla! (&b%Version%&c)'
+  plugin-reload: '[P]&a The plugin was successfully reloaded.'
+  plugin-disabled: '[P]&a Laajennus sammui onnistuneesti.'
+  plugin-prefix: '&7[&6GSit&7]'
+
+
+
+Messages:
+  
+  command-permission-error: '[P]&c Sinulla ei ole oikeutta tähän komentoon!'
+  command-sender-error: '[P]&c Vain pelaajat voivat käyttää tätä komentoa!'
+  command-version-error: |-
+    [P]&c Outdated Server Version! (&b%Version%&c)
+    [P]&c Update the Server to use this Feature!
+  
+  command-gsit-toggle-on: '[P]&a Istuminen klikkaamalla on nyt käytössä.'
+  command-gsit-toggle-off: '[P]&a Istuminen klikkaamalla on nyt pois käytöstä.'
+  command-gsit-playertoggle-on: '[P]&a Pelaajan päällä istuminen klikkaamalla on nyt käytössä.'
+  command-gsit-playertoggle-off: '[P]&a Pelaajan päällä istuminen klikkaamalla on nyt pois käytöstä.'
+  command-gcrawl-toggle-on: '[P]&a You have enabled double-sneak for crawl.'
+  command-gcrawl-toggle-off: '[P]&a You have disabled double-sneak for crawl.'
+  
+  action-sit-now-error: '[P]&c Et voi istua juuri nyt!'
+  action-sit-world-error: '[P]&c Tässä maailmassa ei voi istua!'
+  action-sit-location-error: '[P]&c Tässä ei voi istua!'
+  action-sit-safe-error: '[P]&c Tässä ei ole turvallista istua!'
+  action-sit-region-error: '[P]&c Tällä alueella ei voi istua!'
+  action-sit-kick-error: '[P]&c Joku istuu jo tässä!'
+  action-sit-error: '[P]&c Due to an error you can''t sit here!'
+  action-sit-info: '&aNouse painamalla&6 <lang:key.sneak>&a -näppäintä.'
+  
+  action-playersit-info: '&aNouse painamalla&6 <lang:key.sneak>&a -näppäintä.'
+  
+  action-pose-now-error: '[P]&c Et voi käyttää tätä ominaisuutta juuri nyt!'
+  action-pose-world-error: '[P]&c Tässä maailmassa ei voi käyttää tätä ominaisuutta!'
+  action-pose-location-error: '[P]&c Tässä ei voi käyttää tätä ominaisuutta!'
+  action-pose-safe-error: '[P]&c Tässä ei ole turvallista!'
+  action-pose-region-error: '[P]&c Tällä alueella ei voi käyttää tätä ominaisuutta!'
+  action-pose-kick-error: '[P]&c Tässä on jo joku!'
+  action-pose-error: '[P]&c Due to an error you can''t pose here!'
+  action-pose-info: '&aNouse painamalla&6 <lang:key.sneak>&a -näppäintä.'
+  
+  action-crawl-now-error: '[P]&c Et voi ryömiä juuri nyt!'
+  action-crawl-world-error: '[P]&c Tässä maailmassa ei voi ryömiä!'
+  action-crawl-region-error: '[P]&c Tällä alueella ei voi ryömiä!'
+  action-crawl-info: '&aNouse painamalla&6 <lang:key.sneak>&a -näppäintä.'
+  
+  action-blocked-error: '[P]&c Et voi käyttää tätä komentoa juuri nyt!'

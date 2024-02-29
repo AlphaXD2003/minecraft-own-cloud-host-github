@@ -1,0 +1,59 @@
+# it_IT.lang
+
+! &bUsing &3"it_IT.lang" &btranslated by &6pompiere1
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% teste
+messages.search: &4Cerca tra&8 %count% teste
+messages.page: Pagina
+messages.price: &aPrezzo: &2
+messages.heads: teste
+messages.head: testa
+messages.other: altro
+messages.loading: &c..Caricamento..
+messages.recentHeads: &aAggiunte di recente
+messages.noPermissionToBuyLore: &cNessun Permesso
+messages.searchCommand: &7/hdb search [input]
+messages.pheadCommand: /phead [nome]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: &cNon hai il permesso per farlo!
+messages.notEnoughMoney: &cNon hai abbastanza soldi per farlo!
+messages.notEnoughSpace: &cNon hai abbastanza spazio nel tuo inventario!
+messages.buyMessage: &aHai comprato %item% &aper &2%price%
+messages.backToMenu: &cTorna al menù
+messages.clickToSearch: &a&n&lClicca qui&b per cercare teste
+messages.noHeadsFound: &eTeste non trovare, riprova!
+messages.moreSpecific: &eGentilmente specifica!
+messages.headsFound: &eTeste trovate!
+messages.searchForHeads: &cCerca teste
+messages.pluginInfo: &cPlugin info
+messages.pluginSuggest: &cPuoi suggerire teste qui
+messages.pluginSuggestLore: &7Gentilmente controlla il database prima!
+messages.chatSearch: &bDigita il tuo input di ricerca
+messages.databaseStillLoading: &cIl database si sta caricando aspetta pochi secondi!
+messages.customCommandItemName: &ctorna al menù principale
+
+category.alphabet: Alfabeto
+category.animals: Animali
+category.blocks: Blocchi
+category.decoration: Decorazioni
+category.food_drinks: Cibo e bevande
+category.humans: Umani
+category.humanoid: Umanoidi
+category.miscellaneous: Vario
+category.monsters: Mostri
+category.plants: Piante
+category.custom: Teste Custom del Server
+category.custom2: Teste Custom del Server 2
+category.custom3: Teste Custom del Server 3
+category.custom5: Teste Custom del Server 5
+category.custom4: Teste Custom del Server 4
+category.online_players: Giocatori online

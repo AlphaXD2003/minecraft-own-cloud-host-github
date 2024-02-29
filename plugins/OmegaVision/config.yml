@@ -1,0 +1,95 @@
+# -------------------------------------------------------------------------------------------
+#
+#  Welcome to OmegaVision's main configuration file.
+#
+#  Here you'll find of the settings and options that you can
+#  customize to your server needs. Most features are customizable
+#  to an extent.
+#
+#  For help you can visit the wiki at: https://omegaweapondev.gitbook.io/plugin-wiki-s/plugins-docs/omegavision
+#  If you have any issues, report them here: https://github.com/OmegaWeaponDev/OmegaVision/issues
+#
+# -------------------------------------------------------------------------------------------
+
+Night_Vision_Settings:
+  # If set to true, players with permission `omegavision.nightvision.login` will log in with night vision
+  # enabled, if they logged out without it still enabled.
+  Night_Vision_Login: true
+
+  # If set to true, players will get particle effects when night vision is applied
+  Particle_Effects: true
+
+  # If set to true, potion effect produce more, translucent, particles.
+  # This does require the Particle_Effect setting to be set to true
+  Particle_Ambient: true
+
+  # If set to true, an icon will display on the screen when night vision is applied
+  Night_Vision_Icon: true
+
+  # If set to true, players will get an actionbar message when they toggle night vision
+  ActionBar_Messages: true
+
+  # If set to true, players will be able to use milk buckets to remove the potion effects
+  # from when they toggle night vision
+  Bucket_Usage: true
+
+  # If set to true, once players use a milk bucket to remove potion effects from night vision
+  # the bucket will be emptied, and they need to refill it again to use it
+  Bucket_Empty: true
+
+  # If set to true, players will keep night vision when they die
+  Keep_Night_Vision_On_Death: true
+
+  # If set to true, players without the permission omegavision.nightvision.cost.bypass will be charged to use the
+  # night vision command.
+  Night_Vision_Cost:
+    Enabled: false
+    Amount: 10.0
+
+# Play a special sound to a player when certain things happen
+# You can find all the sound effects here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+Sound_Effects:
+  # Do you want OmegaVision to play some sound effects?
+  Enabled: true
+  # The sound players hear when they enable night vision
+  Night_Vision_Enable:
+    Enabled: true
+    Sound: ENTITY_SPLASH_POTION_BREAK
+  # The sound players hear when they disable night vision
+  Night_Vision_Disable:
+    Enabled: true
+    Sound: BLOCK_ANVIL_BREAK
+  # The sound players here when they have reached the max command limit
+  Limit_Reached:
+    Enabled: true
+    Sound: ITEM_SHIELD_BLOCK
+  # The sound players here when their limit has reset
+  Limit_Reset:
+    Enabled: true
+    Sound: ENTITY_PLAYER_LEVELUP
+
+# Set the limit for how many times a player can use the night vision toggle command
+# Use the permission `omegavision.limit.bypass` to bypass the limit
+# Applies to toggling it on, not off
+Night_Vision_Limit:
+  # Whether you want to limit the night vision command use or not
+  Enabled: true
+  # The limit amount
+  Limit: 5
+  # The Reset Timer (In minutes)
+  # The timer starts after the limit has been reached
+  Reset_Timer: 5
+
+# If enabled, for any worlds listed here night vision will automatically be disabled,
+World_Disable:
+  Enabled: true
+  Worlds:
+    - world_nether
+    - world_the_end
+
+# If set to true, those with the permission omegavision.update will receive messages
+# when the plugin updates on spigot
+Update_Notify: true
+
+# DO NOT EDIT THIS!
+Config_Version: 2.1

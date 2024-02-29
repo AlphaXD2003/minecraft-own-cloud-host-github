@@ -1,0 +1,83 @@
+# ko_KR.lang
+
+! &b한국어 패치&3"ko_KR.lang" &b번역가 &6인테그랄
+
+# 이 파일은 인게임에서 출력되는 메세지 변경이 가능합니다. & 코드를 입력하여 메세지에 색상코드를 입힐 수 있습니다.
+# 구매 관련된 메세지는 반드시 구문에 %Item%과 %price%를 포함해야 합니다.
+# 블럭갯수와 관련된 메세지는 구문에 %count%을 포함해야 합니다.
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8&o %count%&8개 머리블럭
+messages.search: &4Head Search&8&o %count%&8개 머리블럭
+messages.page: 페이지
+messages.price: &a가격: &2
+messages.heads: &8개
+messages.head: &8개
+messages.other: 기타
+messages.loading: &c..로딩 중..
+messages.recentHeads: &a최근 추가된 블럭
+messages.noPermissionToBuyLore: &c구매 권한없음
+messages.searchCommand: &7/hdb search [이름]
+messages.pheadCommand: /phead [닉네임]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e&o
+
+messages.suggest: &b이 링크에서 추가하고 싶은 머리를 건의할 수 있습니다.:
+messages.submit: &b이 링크에서 머리를 추가할 수 있습니다.:
+messages.noPermission: &c당신은 이 명령어에 대한 권한이 없습니다!
+messages.notEnoughMoney: &c돈이 부족합니다!
+messages.notEnoughSpace: &c인벤토리 공간이 부족합니다!
+messages.buyMessage: %item% &a머리블럭을 &2%price%&a에 구매 하셨습니다.
+messages.backToMenu: &c메뉴로 돌아가기
+messages.clickToSearch: &b검색하려면 &a&n&l여기&b를 클릭하세요.
+messages.noHeadsFound: &e검색된 결과가 없습니다. 다시 입력하세요!
+messages.moreSpecific: &e좀 더 구체적으로 입력해주세요!
+messages.headsFound: &e머리블럭을 찾았습니다!
+messages.searchForHeads: &c검색
+messages.pluginInfo: &c플러그인 정보
+messages.pluginSuggest: &c건의
+messages.pluginSuggestLore: &7중복된 머리블럭이 있는지 먼저 확인하세요!
+messages.chatSearch: &b검색할 단어를 입력하세요.
+messages.databaseStillLoading: &c리로드 중 입니다. 잠시 후 다시 입력하세요!
+messages.customCommandItemName: &c메인 메뉴로 돌아가기
+messages.patience: &c다른 머리블럭을 얻기 전에 잠시만 기다려주세요!
+messages.overflow: &e인벤토리에 공간이 없어서 주어진 머리블럭이 바닥에 떨어졌습니다.
+
+# 카테고리 이름
+
+category.alphabet: 알파벳
+category.animals: 동물
+category.blocks: 블럭
+category.decoration: 장식
+category.food_drinks: 음식/음료
+category.humans: 인간
+category.humanoid: 기계인간
+category.miscellaneous: 기타
+category.monsters: 몬스터
+category.plants: 과일/식물
+category.custom: 사용자 지정
+category.custom2: 사용자 지정2
+category.custom3: 사용자 지정3
+category.custom4: 사용자 지정4
+category.custom5: 사용자 지정5
+category.online_players: 온라인 플레이어
+category.disabled: 비활성화
+
+# 기념일 이름
+
+event.halloween: &e할로윈
+event.christmas: &b크리스마스
+event.newYear: &6새해
+event.valentines: &c발렌타인 데이
+event.4thOfJuly: &c미국 독립기념일
+event.easter: &f부활절
+event.winter: &f겨울
+event.summer: &6여름
+event.MayThe4th: &3스타워즈 데이
+event.piDay: &3파이 데이
+event.pokemon: &6포켓몬 데이
+event.pirate: &c국제 해적처럼 말하기 날
+event.taco: &6타코 데이
+event.mario: &c마리오 데이

@@ -1,0 +1,92 @@
+# en_US.lang
+
+! &bUsing default &3"en_US.lang" &bcreated by &6Arcaniax
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% heads
+messages.search: &4Head Search&8 %count% heads
+messages.page: Page
+messages.price: &aPrice: &2
+messages.heads: heads
+messages.head: head
+messages.other: other
+messages.loading: &c..Loading..
+messages.recentHeads: &aRecently added
+messages.noPermissionToBuyLore: &cNo permission or insufficient funds to buy this head
+messages.searchCommand: &7/hdb search [input]
+messages.pheadCommand: /phead [name]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+messages.error: Error:
+messages.errorColor: &4
+
+messages.suggest: &bYou can suggest heads here:
+messages.submit: &bYou can submit heads here:
+messages.noPermission: &cYou are lacking the permission node:
+messages.notEnoughMoney: &cYou don't have enough money to do this!
+messages.notEnoughSpace: &cYou don't have enough space in your inventory!
+messages.buyMessage: &aYou bought %item% &afor &2%price%
+messages.backToMenu: &cBack to menu
+messages.clickToSearch: &a&n&lClick here&b to search for heads
+messages.noHeadsFound: &eNo heads found, try again!
+messages.moreSpecific: &ePlease be more specific!
+messages.headsFound: &eHeads found!
+messages.searchForHeads: &cSearch for heads
+messages.pluginInfo: &cPlugin info
+messages.pluginSuggest: &cYou can suggest heads here
+messages.pluginSuggestLore: &7Please check the database first!
+messages.chatSearch: &bType in your search input
+messages.databaseStillLoading: &cDatabase is still loading, try again in a second!
+messages.customCommandItemName: &cBack to main menu
+messages.patience: &cPlease wait a moment before getting another head!
+messages.overflow: &eThe head you were given was dropped on the ground since your inventory is full!
+
+
+# INFO COMMAND
+messages.infoVersion: &bPlugin version: &a
+messages.infoHeadAmount: &bThere are &a%amount% &bHeads inside this database.
+messages.infoCreator: &bCreated by &a
+messages.infoDatabaseHost: &bDatabase hosted by &a
+
+# CATEGORY NAMES
+
+category.alphabet: Alphabet
+category.animals: Animals
+category.blocks: Blocks
+category.decoration: Decoration
+category.food_drinks: Food and Drinks
+category.humans: Humans
+category.humanoid: Humanoid
+category.miscellaneous: Miscellaneous
+category.monsters: Monsters
+category.plants: Plants
+category.custom: Custom Server Heads
+category.custom2: Custom Server Heads 2
+category.custom3: Custom Server Heads 3
+category.custom4: Custom Server Heads 4
+category.custom5: Custom Server Heads 5
+category.online_players: Online Players
+category.disabled: Disabled
+
+# EVENT NAMES
+
+event.halloween: &eHalloween
+event.christmas: &bChristmas
+event.newYear: &6Happy new year
+event.valentines: &cValentine's Day
+event.4thOfJuly: &cHappy 4th of July
+event.easter: &fEaster
+event.winter: &fWinter
+event.summer: &6Summer
+event.MayThe4th: &3May the 4th be with you
+event.piDay: &3Pi day
+event.pokemon: &6Pokémon Day
+event.pirate: &cTalk Like a Pirate Day
+event.taco: &6Taco Day
+event.mario: &cMario Day

@@ -1,0 +1,88 @@
+# nl_NL.lang
+
+! &bJe gebruikt &3"nl_NL.lang" &bvertaald door &6Leoooon
+
+# Hier kan je de berichten wijzigen, gebruik & om kleuren te veranderen.
+# buyMessage kan %Item% en %price% bevatten
+# database kan %count% bevatten
+
+messages.prefix: &6HeadDB>
+messages.database: &4Head DB&8 %count% hoofden
+messages.search: &4Hoofd zoek&8 %count% hoofden
+messages.page: Pagina
+messages.price: &aPrijs: &2
+messages.heads: Hoofden
+messages.head: Hoofd
+messages.other: Andere
+messages.loading: &c..Laden..
+messages.recentHeads: &aLaatst toegevoegd
+messages.noPermissionToBuyLore: &cGeen rechten
+messages.searchCommand: &7/hdb search [inhoud]
+messages.pheadCommand: /phead [naam]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+messages.error: Fout:
+messages.errorColor: &4
+
+messages.noPermission: &cJe hebt geen toestemming om dit te doen!
+messages.notEnoughMoney: &cJe hebt niet genoeg geld om dit te doen!
+messages.notEnoughSpace: &cJe hebt niet genoeg plaats in uw inventaris!
+messages.buyMessage: &aJe hebt %item% &avoor &2%price% &agekocht
+messages.backToMenu: &cTerug naar het menu
+messages.clickToSearch: &a&n&lKlik hier&b om naar hoofden te zoeken
+messages.noHeadsFound: &eGeen hoofden gevonden, probeer het opnieuw!
+messages.moreSpecific: &eProbeer meer specifiek te zijn!
+messages.headsFound: &eHoofden gevonden!
+messages.searchForHeads: &cZoek naar hoofden
+messages.pluginInfo: &cPlugin-info
+messages.pluginSuggest: &cHier kan je nieuwe hoofden suggereren
+messages.pluginSuggestLore: &7Controleer eerst de database!
+messages.chatSearch: &bGeef uw zoekopdracht in
+messages.databaseStillLoading: &cDe database wordt nog geladen, probeer het gelijk nog eenmaal!
+messages.customCommandItemName: &cTerug naar het hoofdmenu
+messages.patience: &cWacht even voor je nog een hoofd pakt!
+messages.overflow: &eHet hoofd dat aan je gegeven was valt op de grond omdat je inventaris vol is!
+
+# INFO COMMAND
+messages.infoVersion: &bPlugin versie: &a
+messages.infoHeadAmount: &bEr zijn &a%amount% &bHoofden in deze database.
+messages.infoCreator: &bGemaakt door &a
+messages.infoDatabaseHost: &bDatabase gehost door &a
+
+# CATEGORY NAMES
+
+category.alphabet: Alfabet
+category.animals: Dieren
+category.blocks: Blokken
+category.decoration: Decoratie
+category.food_drinks: Eten en drinken
+category.humans: Mensen
+category.humanoid: Humanoïde
+category.miscellaneous: Overige
+category.monsters: Monsters
+category.plants: Planten
+category.custom: Gebruikersgedefinieerde hoofden
+category.custom2: Gebruikersgedefinieerde hoofden 2
+category.custom3: Gebruikersgedefinieerde hoofden 3
+category.custom4: Gebruikersgedefinieerde hoofden 4
+category.custom5: Gebruikersgedefinieerde hoofden 5
+category.online_players: Online spelers
+
+# EVENT NAMES
+
+event.halloween: &eHalloween
+event.christmas: &bKerstmis
+event.newYear: &6Gelukkig Nieuwjaar!
+event.valentines: &cValentijn
+event.4thOfJuly: &cHappy 4th of July
+event.easter: &fPasen
+event.winter: &fWinter
+event.summer: &6Zomer
+event.MayThe4th: &3May the 4th be with you
+event.piDay: &3Pi dag
+event.pokemon: &6Pokémon Dag
+event.pirate: &cPraat zoals een piraat Dag
+event.taco: &6Taco Dag
+event.mario: &cMario Dag

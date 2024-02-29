@@ -1,0 +1,18 @@
+Configuration:
+  Slap:
+    DamageAtSlap: true
+    HowMuchHeartsDamage: 2
+    canKillPlayer: false
+  Messages:
+    Kiss: 'You have been kissed by '
+    KissedYourself: 'You kissed yourself. Forever alone '
+    KissedAll: 'You kissed everybody, you must have a big heart '
+    YouKissed: 'You just kissed '
+    Slap: 'You have been slapped by '
+    SlappedYourself: 'Wtf are you doing!? You slapped yourself Bro '
+    SlappedAll: 'You slapped everybody. Rage machine, arent we? '
+    YouSlapped: 'You just slapped '
+    Hug: 'You have been hugged by '
+    HuggedYourself: 'You hugged yourself. Forever alone '
+    HuggedAll: 'You hugged everybody, you must have a big heart '
+    YouHugged: 'You just hugged '

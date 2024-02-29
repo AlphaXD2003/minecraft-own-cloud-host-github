@@ -1,0 +1,76 @@
+# If true, UC will use this file to make the main menu.
+# Otherwise, UC will generate the main menu itself like it's always done.
+Enabled: false
+
+# Number of slots in the menu. Must be divisible by 9 and be between 9-54 (inclusive)
+Size: 54
+# Available button types:
+# Command, ClearCosmetic, Keys, OpenChest, OpenCosmeticMenu, RenamePet, ToggleGadgets, ToggleMorphSelfView
+# The only buttons that require more information than the Type field are Command and OpenCosmeticMenu.
+# OpenCosmeticMenu requires a key Menu that references a Category of menu to open.
+# Command runs a command as console when clicked, and is defined like this:
+# (Any options can be omitted except Type (of course) and Material)
+# '0':
+#   Type: Command
+#   Material: BEDROCK
+#   Amount: 1
+#   Name: '&bCool bedrock'
+#   Lore:
+#   - "Lore line 1"
+#   - "Lore line 2 (and so on)"
+#   CustomModelData: 50
+#   CloseAfterClick: true
+#   Command: "sudo %player% c:Hello world!"
+#
+# Slots are numbered starting from 0, so like:
+#  0  1  2  3  4  5  6  7  8
+#  9 10 11 12 13 14 15 16 17
+#  ...
+Slots:
+  '0':
+    Type: Command
+    Material: BEDROCK
+    Amount: 1
+    Name: '&bCool bedrock'
+    Lore:
+      - "&a&lLore line 1"
+      - "&cLore line 2 (and so on)"
+    CustomModelData: 50
+    CloseAfterClick: true
+    Command: "sudo %player% c:Hello world!"
+  '3':
+    Type: OpenChest
+  '5':
+    Type: Keys
+  '18':
+    Type: OpenCosmeticMenu
+    Menu: PETS
+  '20':
+    Type: OpenCosmeticMenu
+    Menu: GADGETS
+  '22':
+    Type: OpenCosmeticMenu
+    Menu: EFFECTS
+  '24':
+    Type: OpenCosmeticMenu
+    Menu: MOUNTS
+  '26':
+    Type: OpenCosmeticMenu
+    Menu: MORPHS
+  '36':
+    Type: OpenCosmeticMenu
+    Menu: HATS
+  '38':
+    Type: OpenCosmeticMenu
+    Menu: SUITS
+  '40':
+    Type: OpenCosmeticMenu
+    Menu: EMOTES
+  '42':
+    Type: OpenCosmeticMenu
+    Menu: PROJECTILE_EFFECTS
+  '44':
+    Type: OpenCosmeticMenu
+    Menu: DEATH_EFFECTS
+  '49':
+    Type: ClearCosmetic

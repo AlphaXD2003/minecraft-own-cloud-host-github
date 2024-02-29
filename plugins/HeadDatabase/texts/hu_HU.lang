@@ -1,0 +1,82 @@
+# hu_HU.lang
+
+! &bAlapértelmezett &3"hu_HU.lang" &bhasználata &6Victor75007 &báltal készített fordítás
+
+# Üzenetek megváltoztatását itt tudod kezelni, a színekhez használhatod a & jelzést.
+# buyMessage üzenetnek tartalmaznia kell a %Item% és %price% helyőrzőket (placeholders)
+# database tartalmazhatja a %count% helyőrző
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% fej
+messages.search: &4Fej keresés&8 %count% fej
+messages.page: Oldal
+messages.price: &aÁr: &2
+messages.heads: fejek
+messages.head: fej
+messages.other: egyéb
+messages.loading: &c..Betöltés..
+messages.recentHeads: &aNemrégiben hozzáadott
+messages.noPermissionToBuyLore: &cHiányzó Jog
+messages.searchCommand: &7/hdb search [input]
+messages.pheadCommand: /phead [name]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bFejeket itt javasolhatsz:
+messages.submit: &bFejeket itt küldhetsz be:
+messages.noPermission: &cEzt nem teheted meg!
+messages.notEnoughMoney: &cNincs elég pénzed ehhez!
+messages.notEnoughSpace: &cNincs elég tárhely az eszköztáradban!
+messages.buyMessage: &aSikeresen megvásároltad a %item% &afejet &2%price% &aáron.
+messages.backToMenu: &cVissza a Menübe
+messages.clickToSearch: &a&n&lKattints ide&b, hogy fejet keress
+messages.noHeadsFound: &eNem található ilyen fej. Próbáld újra!
+messages.moreSpecific: &eKérlek, pontosíts!
+messages.headsFound: &eTalált Fej(ek)!
+messages.searchForHeads: &cKeress fejet
+messages.pluginInfo: &cPlugin info
+messages.pluginSuggest: &cItt javasolhatsz fejeket
+messages.pluginSuggestLore: &7Kérlek, először csekkold le az adatbázist!
+messages.chatSearch: &bÍrd be a keresési adatot
+messages.databaseStillLoading: &cAz adatbázis még tölt, várj néhány másodpercet!
+messages.customCommandItemName: &cVissza a fő menübe
+messages.patience: &cKérlek, várj egy kicsit, mielőtt új fejet kérnél.
+
+# CATEGORY NAMES
+
+category.alphabet: Ábécé
+category.animals: Állatok
+category.blocks: Blokkok
+category.decoration: Dekoráció
+category.food_drinks: Étel és Ital
+category.humans: Emberek
+category.humanoid: Emberszerű
+category.miscellaneous: Vegyes
+category.monsters: Szörnyek
+category.plants: Növények
+category.custom: Egyedi szerver fejek
+category.custom2: Egyedi szerver fejek 2
+category.custom3: Egyedi szerver fejek 3
+category.custom4: Egyedi szerver fejek 4
+category.custom5: Egyedi szerver fejek 5
+category.online_players: Online Játékosok
+category.disabled: Letiltva
+
+# EVENT NAMES
+
+event.halloween: &eHalloween
+event.christmas: &bKarácsony
+event.newYear: &6Új Esztendő
+event.valentines: &cValentin Nap
+event.4thOfJuly: &cJúlius 4.-e
+event.easter: &fHúsvét
+event.winter: &fTél
+event.summer: &6Nyár
+event.MayThe4th: &3Május 4.-e legyen veled
+event.piDay: &3Pi Nap
+event.pokemon: &6Pokémon Nap
+event.pirate: &cKalóz Nap
+event.taco: &6Taco Nap
+event.mario: &cMario Nap

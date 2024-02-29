@@ -1,0 +1,59 @@
+# es_MX.lang
+
+! &bUsing &3"es_MX.lang" &btranslated by &6PandaClod
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% cabezas
+messages.search: &4Busca&8 %count% cabezas
+messages.page: Página
+messages.price: &aPrecio: &2
+messages.heads: cabezas
+messages.head: cabeza
+messages.other: otro
+messages.loading: &c..Cargando..
+messages.recentHeads: &aAñadido recientemente
+messages.noPermissionToBuyLore: &cSin Permiso
+messages.searchCommand: &7/hdb search [entrada]
+messages.pheadCommand: /phead [nombre]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: &c¡No tienes permitido hacer eso!
+messages.notEnoughMoney: &c¡No tienes suficiente dinero para hacer eso!
+messages.notEnoughSpace: &c¡No tienes suficiente espacio en tu inventario!
+messages.buyMessage: &aTú compraste %item% &apor &2%price%
+messages.backToMenu: &cDe vuelta al menu
+messages.clickToSearch: &a&n&lHaz click aqui&b para buscar cabezas
+messages.noHeadsFound: &e¡No se encontraron cabezas, inténtalo de nuevo!
+messages.moreSpecific: &e¡Por favor, se mas específico!
+messages.headsFound: &e¡Cabezas encontradas!
+messages.searchForHeads: &cBusca cabezas
+messages.pluginInfo: &cInformación del plugin
+messages.pluginSuggest: &cPuedes sugerir cabezas aqui
+messages.pluginSuggestLore: &7Por favor, ¡Revise la base de datos primero!
+messages.chatSearch: &bEscriba su entrada de búsqueda
+messages.databaseStillLoading: &cLa base de datos aun esta cargando, ¡Intenta de nuevo en un momento!
+messages.customCommandItemName: &cRegreso al menu principal
+
+category.alphabet: Alfabeto
+category.animals: Animales
+category.blocks: Bloques
+category.decoration: Decoración
+category.food_drinks: Comida y Bebidas
+category.humans: Humanos
+category.humanoid: Humanoides
+category.miscellaneous: Miscelanea
+category.monsters: Mounstruos
+category.plants: Plantas
+category.custom: Cabezas Personalizadas del Servidor
+category.custom2: Cabezas Personalizadas del Servidor 2
+category.custom3: Cabezas Personalizadas del Servidor 3
+category.custom4: Cabezas Personalizadas del Servidor 4
+category.custom5: Cabezas Personalizadas del Servidor 5
+category.online_players: Jugadores en Linea

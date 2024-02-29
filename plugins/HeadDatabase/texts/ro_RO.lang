@@ -1,0 +1,77 @@
+# ro_RO.lang
+
+! &bFolositi &3"ro_RO.lang" &bcreat de &6GabyTM
+
+# Schimbati mesagele de aici, folositi & pentru culori.
+# 'buyMessage' trebuie sa contina %Item% si %price%
+# 'database' poate contine %count%b 
+
+messages.prefix: &6HeadDB> &r
+messages.database:&8%count% de capete in &4Head DB 
+messages.search: &4Head Search&8 %count% heads
+messages.page: Pagina
+messages.price: &aPret: &2
+messages.heads: capete
+messages.head: cap
+messages.other: altele
+messages.loading: &c..Se incarca..
+messages.recentHeads: &aAdaugate recent
+messages.noPermissionToBuyLore: &cFara permisiune
+messages.searchCommand: &7/hdb search [nume]
+messages.pheadCommand: /phead [nume]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bPoti sugera capete aici:
+messages.noPermission: &cNu iti este permis sa faci asata!
+messages.notEnoughMoney: &cNu ai destui bani pentru a face asta!
+messages.notEnoughSpace: &cNu ai destul spatiu in inventarul tau!
+messages.buyMessage: &aAi cumparat %item% &apentru &2%price%
+messages.backToMenu: &cInapoi la meniu
+messages.clickToSearch: &a&n&lapasa aici&b pentru a cauta capete
+messages.noHeadsFound: &eNu au fost gasite capete, incearca din nou!
+messages.moreSpecific: &eVa rugam sa fiti mai specific!
+messages.headsFound: &eCapete gasite!
+messages.searchForHeads: &cCautati capete
+messages.pluginInfo: &cPlugin info
+messages.pluginSuggest: &cPoti sugera capete aici
+messages.pluginSuggestLore: &7Verificati mai intai baza de date!
+messages.chatSearch: &bType in your search input
+messages.databaseStillLoading: &cBaza de data se incarca inca, incercati din nou intr-o secunda!
+messages.customCommandItemName: &cInapoi la meniul principal
+
+# CATEGORY NAMES
+
+category.alphabet: Alfabet
+category.animals: Animale
+category.blocks: Blocuri
+category.decoration: Decor
+category.food_drinks: Mancare si Bautura
+category.humans: Oameni
+category.humanoid: Umanoid
+category.miscellaneous: Diverse
+category.monsters: Monstrii
+category.plants: Plante
+category.custom: Capetele personalizate ale serverului
+category.custom2: Capetele personalizate ale serverului 2
+category.custom3: Capetele personalizate ale serverului 3
+category.custom4: Capetele personalizate ale serverului 4
+category.custom5: Capetele personalizate ale serverului 5
+category.online_players: Jucatori Online
+category.disabled: Dezactivat
+
+# EVENT NAMES
+
+event.halloween: &eHalloween
+event.christmas: &bCraciun
+event.newYear: &6An nou fericit
+event.valentines: &cValentine's Day
+event.4thOfJuly: &c4 iulie fericit
+event.easter: &fPaste
+event.winter: &fIarna
+event.summer: &3Vara
+event.MayThe4th: &3May 4, sa fie cu tine
+event.piDay: &3Ziua Pi
+event.pokemon: &6Ziua Pokémon

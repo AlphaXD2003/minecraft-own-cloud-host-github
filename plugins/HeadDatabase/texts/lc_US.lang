@@ -1,0 +1,82 @@
+# lc_US.lang
+
+! &bUsing &3"lc_US.lang" &btranslated by &6PandaClod
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Hed DB&8 %count% heds
+messages.search: &4Hed Serch&8 %count% heds
+messages.page: Page
+messages.price: &aPrice: &2
+messages.heads: heds
+messages.head: hed
+messages.other: els
+messages.loading: &c..uwu..
+messages.recentHeads: &aBorn yesterday
+messages.noPermissionToBuyLore: &cWont allow dis >:O
+messages.searchCommand: &7/hdb search [input]
+messages.pheadCommand: /phead [name]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bU can suggest heds here:
+messages.submit: &bU can submeet heds here:
+messages.noPermission: &cU cant do dat, it illegal!!
+messages.notEnoughMoney: &cCat bancc says u broke, get more coin!!1!
+messages.notEnoughSpace: &cDelete inventori, heds be more importans uwu!!!1
+messages.buyMessage: &aU buy'd %item% &afor &2%price%
+messages.backToMenu: &cBacc to menu uwu
+messages.clickToSearch: &a&n&lPress dis&b to find the heds owo
+messages.noHeadsFound: &eNo heds found, try again!...u dingus
+messages.moreSpecific: &ePls be specifical!>;(
+messages.headsFound: &eI found dis owo
+messages.searchForHeads: &cSearch 4 heds
+messages.pluginInfo: &cPlugin info 4 no0bz
+messages.pluginSuggest: &cU can place ur ideas owo
+messages.pluginSuggestLore: &7Pls look at databes
+messages.chatSearch: &bType what u want uwu
+messages.databaseStillLoading: &cPls wait, stil doing de loding uwu!
+messages.customCommandItemName: &cBacc 2 main place uwu
+messages.patience: &cPls wait a sec pls before get moar hed!unu
+
+# CATEGORY NAMES
+
+category.alphabet: Leders
+category.animals: Cattos
+category.blocks: Blocc
+category.decoration: Pretty things owo
+category.food_drinks: Borger and Slurpee
+category.humans: Hoomans
+category.humanoid: Hoomanoodles
+category.miscellaneous: ...Stuff
+category.monsters: Big bad wolf unu
+category.plants: lettuce
+category.custom: Custom Server Heds
+category.custom2: Custom Server Heds 2
+category.custom3: Custom Server Heds 3
+category.custom4: Custom Server Heds 4
+category.custom5: Custom Server Heds 5
+category.online_players: Peeple here owo
+category.disabled: unu No work this thing
+
+# EVENT NAMES
+
+event.halloween: &eHalloweenie nwn
+event.christmas: &bSaunty Claus day owo
+event.newYear: &6Happ new year
+event.valentines: &cLovey Dovey Day
+event.4thOfJuly: &cHapp 4th of July
+event.easter: &fEester
+event.winter: &fWeenter cold
+event.summer: &6Sommer warm
+event.MayThe4th: &3May the 4th be with you
+event.piDay: &3Pie day
+event.pokemon: &6Pokémon Day owo
+event.pirate: &cSpeek Like a Sea Man Dude Day, yarr
+event.taco: &6Taco Day owo
+event.mario: &cMario Day nwn

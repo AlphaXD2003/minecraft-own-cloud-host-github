@@ -1,0 +1,78 @@
+# fr_FR.lang
+
+! &bUtilisez &3"fr_FR.lang" &bcréé par &6Knatschkopp et &6Skollrun
+
+# Ici, vous pouvez modifier les messages, utiliser & pour utiliser les couleurs.
+# buyMessage doit contenir %Item% et %price%
+# database peut contenir %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% têtes
+messages.search: &4Recherche&8 %count% têtes
+messages.page: page
+messages.price: &aPrix: &2
+messages.heads: Têtes
+messages.head: Tête
+messages.other: Autre
+messages.loading: &c..Tiroir..
+messages.recentHeads: &aRécemment ajouté
+messages.noPermissionToBuyLore: &cPas de permission
+messages.searchCommand: &7/hdb search [apport]
+messages.pheadCommand: /phead [nom]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bVous pouvez proposer de nouvelles têtes:
+messages.submit: &bVous pouvez suggérer des têtes ici:
+messages.noPermission: &cVous n'avez pas la permission de faire ça!
+messages.notEnoughMoney: &cVous n'avez pas assez d'argent pour faire ça!
+messages.notEnoughSpace: &cVous n'avez pas assez d'espace dans votre inventaire!
+messages.buyMessage: &aVous avez acheté %item% &apour &2%price%
+messages.backToMenu: &cRetour au menu
+messages.clickToSearch: &a&n&lCliquez ici ici&b pour chercher des têtes
+messages.noHeadsFound: &eAucune tête trouvée, veuillez réessayer!
+messages.moreSpecific: &eS'il vous plaît soyez plus spécifique!
+messages.headsFound: &eDes têtes trouvées!
+messages.searchForHeads: &cRecherche de têtes
+messages.pluginInfo: &cInfo plugin
+messages.pluginSuggest: &cIci vous pouvez proposer de nouvelles têtes
+messages.pluginSuggestLore: &7S'il vous plaît vérifiez la base de données d'abord!
+messages.chatSearch: &bEntrez votre recherche
+messages.databaseStillLoading: &cLa base de données est en cours de chargement, essayez à nouveau!
+messages.customCommandItemName: &cRetour au menu principal
+
+# NOMS DE CATÉGORIE
+
+category.alphabet: Alphabet
+category.animals: Animaux
+category.blocks: Blocs
+category.decoration: Décoration
+category.food_drinks: Nourriture et boisson
+category.humans: Personnes
+category.humanoid: Humanoïde
+category.miscellaneous: Divers
+category.monsters: Monstres
+category.plants: Plantes
+category.custom: Têtes personnalisées
+category.custom2: Têtes personnalisées 2
+category.custom3: Têtes personnalisées 3
+category.custom4: Têtes personnalisées 4
+category.custom5: Têtes personnalisées 5
+category.online_players: Joueurs en ligne
+category.disabled: Désactivé
+
+# NOMS DES EVENEMENTS
+
+event.halloween: &eHalloween
+event.christmas: &bNoël
+event.newYear: &6Bonne année
+event.valentines: &cLa Saint Valentin
+event.4thOfJuly: &cJoyeux 4 juillet
+event.easter: &fPâques
+event.winter: &fHiver
+event.summer: &6Été
+event.MayThe4th: &3Que la Force soit avec toi
+event.piDay: &3Jour de pi
+event.pokemon: &6Journée Pokémon

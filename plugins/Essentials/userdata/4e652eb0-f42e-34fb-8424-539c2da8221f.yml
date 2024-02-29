@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709178612637
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709178616441
+  login: 1709178226798
+money: '-1695.0'
+last-account-name: Suvrajit
+lastlocation:
+  world: 1a0965c6-e29f-4a32-8239-01e30e7cdf9f
+  world-name: world
+  x: 26.160054204276133
+  y: 166.24918707874468
+  z: 898.4481260708053
+  yaw: -90.85552978515625
+  pitch: 27.158203125
+logoutlocation:
+  world: 1a0965c6-e29f-4a32-8239-01e30e7cdf9f
+  world-name: world
+  x: 34.192141434355506
+  y: 165.0
+  z: 898.4855021156079
+  yaw: -89.15814208984375
+  pitch: 11.8817138671875
+nickname: §5§lSuv

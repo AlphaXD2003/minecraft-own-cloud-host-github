@@ -1,0 +1,78 @@
+# uk_UA.lang
+
+! &bUsing &3"uk_UA.lang" &btranslated by &6Klapeks and partly edited by Bixi
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% голів
+messages.search: &4Пошук: Знайдено&8 %count% голів
+messages.page: Сторінка
+messages.price: &aЦіна: &2
+messages.heads: голови
+messages.head: голова
+messages.other: інше
+messages.loading: &c..Завантаження..
+messages.recentHeads: &aНещодавно додані
+messages.noPermissionToBuyLore: &cУ вас недостатньо прав!
+messages.searchCommand: &7/hdb search [запит]
+messages.pheadCommand: /phead [ім'я]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bТут ви можете запропонувати голову:
+messages.submit: &bТут ви можете створити голову:
+messages.noPermission: &cВам не дозволено робити це!
+messages.notEnoughMoney: &cВи не маєте грошей, щоб робити це!
+messages.notEnoughSpace: &cВи не маєте свободного місця в своєму інвентарі!
+messages.buyMessage: &aВи купили %item% &aза &2%price%
+messages.backToMenu: &cНазад до меню
+messages.clickToSearch: &a&n&lНатисніть тут&b щоб шукати голови
+messages.noHeadsFound: &eНе знайдено жодної голови, спробуйте ще раз!
+messages.moreSpecific: &eБудьласка, будьте більш конкретним!
+messages.headsFound: &eГолови знайдені!
+messages.searchForHeads: &cПошук голів
+messages.pluginInfo: &cІнформація про плагін
+messages.pluginSuggest: &cТут ви можете запропонувати голови
+messages.pluginSuggestLore: &7Будь ласка, спочатку перевірте базу даних!
+messages.chatSearch: &bВведіть свій пошуковий запит
+messages.databaseStillLoading: &cБаза даних ще завантажується, спробуйте ще раз через декілька секунд!
+messages.customCommandItemName: &cНазад до головного меню
+
+# CATEGORY NAMES
+
+category.alphabet: Алфавіт
+category.animals: Тварини
+category.blocks: Блоки
+category.decoration: Декор
+category.food_drinks: Їжа та напої
+category.humans: Люди
+category.humanoid: Гуманоїди
+category.miscellaneous: Різне
+category.monsters: Монстри
+category.plants: Рослини
+category.custom: Власні голови сервера
+category.custom2: Власні голови сервера 2
+category.custom3: Власні голови сервера 3
+category.custom4: Власні голови сервера 4
+category.custom5: Власні голови сервера 5
+category.online_players: Гравці онлайн
+category.disabled: Вимкнено
+
+# EVENT NAMES
+
+event.halloween: &eХеллоуїн
+event.christmas: &bРіздво
+event.newYear: &6Новий рік
+event.valentines: &cДень святого Валентина
+event.4thOfJuly: &З Днем Незалежності США
+event.easter: &fВеликдень
+event.winter: &fЗима
+event.summer: &6Літо
+event.MayThe4th: &3Да прибуде з тобою сила
+event.piDay: &3День Pi
+event.pokemon: &6День Pokémon'ів

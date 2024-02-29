@@ -1,0 +1,60 @@
+# cs_CZ.lang
+
+! &bPoužíváte &3"cs_CZ.lang" &bpřeloženo od &6Davideko
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% hlav
+messages.search: &4Hledat hlavu&8 %count% hlav
+messages.page: Strana
+messages.price: &aCena: &2
+messages.heads: hlavy
+messages.head: hlava
+messages.other: jiné
+messages.loading: &c..Načítá se..
+messages.recentHeads: &aNedávno přidané
+messages.noPermissionToBuyLore: &cNemáte dovolení
+messages.searchCommand: &7/hdb search [zapsat]
+messages.pheadCommand: /phead [jméno]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: &cNa to nemáte povolení!
+messages.notEnoughMoney: &cNa to nemáte dost peněz!
+messages.notEnoughSpace: &cNa to nemáte dost místa v inventáře!
+messages.buyMessage: &aKoupili jste %item% &aza &2%price%
+messages.backToMenu: &cZpět k menu
+messages.clickToSearch: &a&n&lZmáčkněte tu&b na hledání hlav
+messages.noHeadsFound: &eŽádné hlavy nalezené, prosím zkuste to znovu!
+messages.moreSpecific: &eProsím byďte více konkrétní!
+messages.headsFound: &eHlavy nalezené!
+messages.searchForHeads: &cHledejte hlavy
+messages.pluginInfo: &cInformace o Pluginu
+messages.pluginSuggest: &cTu můžete navrhnout hlavy
+messages.pluginSuggestLore: &7Prosím před tím zkontrolujte database!
+messages.chatSearch: &bZadejte něco na vyhledávádní
+messages.databaseStillLoading: &cDatabase se ještě načítá, zkuste to za chvíly znova!
+messages.customCommandItemName: &cZpět k hlavním menu
+messages.patience: &cProsím počkejte chvíly než by jste brali jinou hlavu!
+
+category.alphabet: Abeceda
+category.animals: Zvířata
+category.blocks: Blocky
+category.decoration: Dekorace
+category.food_drinks: Jídlo a pití
+category.humans: Člověci
+category.humanoid: Humanoidní
+category.miscellaneous: Různé
+category.monsters: Monstra
+category.plants: Rostliny
+category.custom: Vlastní hlavy na Serveru
+category.custom2: Vlastní hlavy na Serveru 2
+category.custom3: Vlastní hlavy na Serveru 3
+category.custom4: Vlastní hlavy na Serveru 4
+category.custom5: Vlastní hlavy na Serveru 5
+category.online_players: Online Hráče

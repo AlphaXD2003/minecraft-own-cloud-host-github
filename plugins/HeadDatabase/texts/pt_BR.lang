@@ -1,0 +1,59 @@
+# pt_BR.lang
+
+! &bUsando a linguagem &3"pt_BR.lang" &btraduzido por &2KUMApt
+
+# Altere aqui as mensagem, você pode usar o símbolo & para usar cores costumizadas.
+# Mensagens de compra devem conter %Item% e %price%
+# Bancos de Dados podem conter %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% Cabeças
+messages.search: &4Encontradas&8 %count% cabeças
+messages.page: Página
+messages.price: &aPreço: &2
+messages.heads: Cabeças
+messages.head: Cabeça
+messages.other: Outras
+messages.loading: &c..A Carregar..
+messages.recentHeads: &aAdicionadas recentemente
+messages.noPermissionToBuyLore: &cSem permissão
+messages.searchCommand: &7/hdb search [entrada]
+messages.pheadCommand: /phead [nome]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: &cVocê não tem permissão para isto!
+messages.notEnoughMoney: &cVocê não tem dinheiro para isto!
+messages.notEnoughSpace: &cO seu inventário está cheio!
+messages.buyMessage: %item% &acomprado(a) por &2%price%
+messages.backToMenu: &cVoltar ao Menu
+messages.clickToSearch: &a&n&lClique aqui&b para procurar as cabeças
+messages.noHeadsFound: &eNão foram encontradas cabeças, tente novamente!
+messages.moreSpecific: &ePPor favor. Seja mais específico!
+messages.headsFound: &eCabeças encontradas!
+messages.searchForHeads: &cPesquisar cabeças.
+messages.pluginInfo: &cInformação do Plugin
+messages.pluginSuggest: &cVocê poderá dar sugestões de cabeças aqui.
+messages.pluginSuggestLore: &7Por favor, verifique o Banco de Dados primeiro!
+messages.chatSearch: &bDigite no chat o que procura.
+messages.databaseStillLoading: &cAinda procurando. Tente novamente dentro de alguns segundos.
+messages.customCommandItemName: &cVoltar ao Menu Principal.
+
+category.alphabet: Alfabeto
+category.animals: Animais
+category.blocks: Blocos
+category.decoration: Decoração
+category.food_drinks: Comida e Bebidas
+category.humans: Humanos
+category.humanoid: Humanóide
+category.miscellaneous: Diversos
+category.monsters: Monstros
+category.plants: Plantas
+category.custom: Cabeças do servidor costumizadas
+category.custom2: Cabeças do servidor costumizadas 2
+category.custom3: Cabeças do servidor costumizadas 3
+category.custom4: Cabeças do servidor costumizadas 4
+category.custom5: Cabeças do servidor costumizadas 5
+category.online_players: Jogadores Online

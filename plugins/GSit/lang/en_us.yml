@@ -1,0 +1,58 @@
+Plugin:
+  
+  plugin-enabled: '[P]&a The plugin was successfully enabled.'
+  plugin-link: '[P]&a Link with&6 %Link%&a successful!'
+  plugin-update: |-
+    [P]&a New version available:&6 %NewVersion%&a!
+    [P]&a Current version:&6 %Version%&a!
+    [P]&a Download the latest version:
+    [P]&6 %Path%
+  plugin-data: '[P]&c A connection to the data storage could not be established. Please check the server console!'
+  plugin-version: '[P]&c The plugin can''t be used with this server version! (&b%Version%&c)'
+  plugin-reload: '[P]&a The plugin was successfully reloaded.'
+  plugin-disabled: '[P]&a The plugin was successfully disabled.'
+  plugin-prefix: '&7[&6GSit&7]'
+
+
+
+Messages:
+  
+  command-permission-error: '[P]&c You don''t have permission to use this command!'
+  command-sender-error: '[P]&c You can''t run this command!'
+  command-version-error: |-
+    [P]&c Outdated server version! (&b%Version%&c)
+    [P]&c Upgrade the server to use this feature!
+  
+  command-gsit-toggle-on: '[P]&a You have enabled&6 sit&a click-interactions.'
+  command-gsit-toggle-off: '[P]&a You have disabled&6 sit&a click-interactions.'
+  command-gsit-playertoggle-on: '[P]&a You have enabled&6 playersit&a click-interactions.'
+  command-gsit-playertoggle-off: '[P]&a You have disabled&6 playersit&a click-interactions.'
+  command-gcrawl-toggle-on: '[P]&a You have enabled&6 crawl&a double-sneak.'
+  command-gcrawl-toggle-off: '[P]&a You have disabled&6 crawl&a double-sneak.'
+  
+  action-sit-now-error: '[P]&c You can''t sit right now!'
+  action-sit-world-error: '[P]&c You can''t sit in this world!'
+  action-sit-location-error: '[P]&c You can''t sit here!'
+  action-sit-safe-error: '[P]&c It''s not safe to sit here!'
+  action-sit-region-error: '[P]&c You can''t sit in this region!'
+  action-sit-kick-error: '[P]&c Someone is already sitting here!'
+  action-sit-error: '[P]&c Due to an error you can''t sit here!'
+  action-sit-info: '&6<lang:key.sneak>&a to get up'
+  
+  action-playersit-info: '&6<lang:key.sneak>&a to get up'
+  
+  action-pose-now-error: '[P]&c You can''t pose right now!'
+  action-pose-world-error: '[P]&c You can''t pose in this world!'
+  action-pose-location-error: '[P]&c You can''t pose here!'
+  action-pose-safe-error: '[P]&c It''s not safe to pose here!'
+  action-pose-region-error: '[P]&c You can''t pose in this region!'
+  action-pose-kick-error: '[P]&c Someone is already posing here!'
+  action-pose-error: '[P]&c Due to an error you can''t pose here!'
+  action-pose-info: '&6<lang:key.sneak>&a to get up'
+  
+  action-crawl-now-error: '[P]&c You can''t crawl right now!'
+  action-crawl-world-error: '[P]&c You can''t crawl in this world!'
+  action-crawl-region-error: '[P]&c You can''t crawl in this region!'
+  action-crawl-info: '&6<lang:key.sneak>&a to get up'
+  
+  action-blocked-error: '[P]&c You are not allowed to run this command right now!'

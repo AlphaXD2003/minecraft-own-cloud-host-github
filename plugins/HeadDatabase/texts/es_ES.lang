@@ -1,0 +1,82 @@
+# es_ES.lang
+
+! &bUsando &3"es_ES.lang" &bcreado y traducido por &6C4BR3R4
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% cabezas
+messages.search: &4Busca&8 %count% cabezas
+messages.page: Página
+messages.price: &aPrecio: &2
+messages.heads: cabezas
+messages.head: cabeza
+messages.other: otro
+messages.loading: &c..Cargando..
+messages.recentHeads: &aAñadido recientemente
+messages.noPermissionToBuyLore: &cSin Permiso
+messages.searchCommand: &7/hdb search [entrada]
+messages.pheadCommand: /phead [nombre]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bAquí puedes sugerir cabezas:
+messages.submit: &bAquí puedes publicar cabezas:
+messages.noPermission: &c¡No tienes permitido hacer eso!
+messages.notEnoughMoney: &c¡No tienes suficiente dinero para hacer eso!
+messages.notEnoughSpace: &c¡No tienes suficiente espacio en tu inventario!
+messages.buyMessage: &aHas comprado %item% &apor &2%price%
+messages.backToMenu: &cVolver al Menú
+messages.clickToSearch: &a&n&lClic aquí&b para buscar cabezas
+messages.noHeadsFound: &e¡No se han encontrado cabezas, inténtalo de nuevo!
+messages.moreSpecific: &e¡Por favor, se más específico!
+messages.headsFound: &e¡Cabezas encontradas!
+messages.searchForHeads: &cBuscar cabezas
+messages.pluginInfo: &cInformación del plugin
+messages.pluginSuggest: &cPuedes sugerir cabezas aquí
+messages.pluginSuggestLore: &7Por favor, ¡Revise la base de datos primero!
+messages.chatSearch: &bEscriba su entrada de búsqueda
+messages.databaseStillLoading: &cLa base de datos aun esta cargando, ¡Intenta de nuevo en un momento!
+messages.customCommandItemName: &cRegreso al menu principal
+messages.patience: &c¡Por favor, espera un momento antes de volver a obtener otra cabeza!
+
+# CATEGORÍAS
+
+category.alphabet: Alfabeto
+category.animals: Animales
+category.blocks: Bloques
+category.decoration: Decoración
+category.food_drinks: Comida y Bebidas
+category.humans: Humanos
+category.humanoid: Humanoides
+category.miscellaneous: Miscelanea
+category.monsters: Mounstruos
+category.plants: Plantas
+category.custom: Cabezas Personalizadas del Servidor
+category.custom2: Cabezas Personalizadas del Servidor 2
+category.custom3: Cabezas Personalizadas del Servidor 3
+category.custom4: Cabezas Personalizadas del Servidor 4
+category.custom5: Cabezas Personalizadas del Servidor 5
+category.online_players: Jugadores en Linea
+category.disabled: Desactivada
+
+# EVENTOS
+
+event.halloween: &eHalloween
+event.christmas: &bNavidad
+event.newYear: &6Feliz Año
+event.valentines: &cSan Valentín
+event.4thOfJuly: &c4 de Julio
+event.easter: &fPascua
+event.winter: &fInvierno
+event.summer: &6Verano
+event.MayThe4th: &34 de Mayo
+event.piDay: &3Día del Pi
+event.pokemon: &6Día de Pokémon
+event.pirate: &cDía del habla como Pirata
+event.taco: &6Día del Taco
+event.mario: &cDía de Mario

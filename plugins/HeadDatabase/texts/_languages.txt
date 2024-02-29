@@ -1,0 +1,22 @@
+Available languages:
+
+en_US: English - UNITED STATES OF AMERICA
+cs_CZ: Czech - CZECHIA
+de_DE: German - GERMANY
+es_ES: Spanish - SPAIN
+es_MX: Spanish - MEXICO
+fr_FR: French - FRANCE
+he_IL: Hebrew - ISRAEL
+hu_HU: Hungarian - HUNGARY
+it_IT: Italian - ITALY
+pl_PL: Polish - POLAND
+pt_BR: Portuguese - BRAZIL
+pt_PT: Portuguese - PORTUGAL
+ru_RU: Russian - RUSSIAN FEDERATION
+ko_KR: Korean - KOREA, REPUBLIC OF
+nl_NL: Dutch - NETHERLANDS
+ro_RO: Romanian - ROMANIA
+uk_UA: Ukrainian - UKRAINE
+zh_CN: Chinese simplified
+
+lc_US: English - LOLCAT (it's a joke)

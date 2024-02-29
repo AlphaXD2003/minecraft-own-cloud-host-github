@@ -1,0 +1,5709 @@
+# To use translations in Lib's Disguises, you must have the purchased plugin
+# To translate, follow this example 'Original Message': 'My New Message'
+# The Original Message is used as a yaml config key to get your new message!
+# To use hex color codes, use <#hexcolor> where hexcolor is the 6 char code
+# A disguise option name, has description View all the paintings you can use for a painting disguise
+"Art": "Art"
+
+# Description for the disguise option Art
+"View all the paintings you can use for a painting disguise": "View all the paintings you can use for a painting disguise"
+
+# Used for the disguise option Art
+"KEBAB": "KEBAB"
+
+# Used for the disguise option Art
+"AZTEC": "AZTEC"
+
+# Used for the disguise option Art
+"ALBAN": "ALBAN"
+
+# Used for the disguise option Art
+"AZTEC2": "AZTEC2"
+
+# Used for the disguise option Art
+"BOMB": "BOMB"
+
+# Used for the disguise option Art
+"PLANT": "PLANT"
+
+# Used for the disguise option Art
+"WASTELAND": "WASTELAND"
+
+# Used for the disguise option Art
+"POOL": "POOL"
+
+# Used for the disguise option Art
+"COURBET": "COURBET"
+
+# Used for the disguise option Art
+"SEA": "SEA"
+
+# Used for the disguise option Art
+"SUNSET": "SUNSET"
+
+# Used for the disguise option Art
+"CREEBET": "CREEBET"
+
+# Used for the disguise option Art
+"WANDERER": "WANDERER"
+
+# Used for the disguise option Art
+"GRAHAM": "GRAHAM"
+
+# Used for the disguise option Art
+"MATCH": "MATCH"
+
+# Used for the disguise option Art
+"BUST": "BUST"
+
+# Used for the disguise option Art
+"STAGE": "STAGE"
+
+# Used for the disguise option Art
+"VOID": "VOID"
+
+# Used for the disguise option Art
+"SKULL_AND_ROSES": "SKULL_AND_ROSES"
+
+# Used for the disguise option Art
+"WITHER": "WITHER"
+
+# Used for the disguise option Art
+"FIGHTERS": "FIGHTERS"
+
+# Used for the disguise option Art
+"POINTER": "POINTER"
+
+# Used for the disguise option Art
+"PIGSCENE": "PIGSCENE"
+
+# Used for the disguise option Art
+"BURNING_SKULL": "BURNING_SKULL"
+
+# Used for the disguise option Art
+"SKELETON": "SKELETON"
+
+# Used for the disguise option Art
+"DONKEY_KONG": "DONKEY_KONG"
+
+# Used for the disguise option Art
+"EARTH": "EARTH"
+
+# Used for the disguise option Art
+"WIND": "WIND"
+
+# Used for the disguise option Art
+"WATER": "WATER"
+
+# Used for the disguise option Art
+"FIRE": "FIRE"
+
+# A disguise option name, has description View all the colors you can use for a horses color
+"Horse Color": "Horse Color"
+
+# Description for the disguise option Horse Color
+"View all the colors you can use for a horses color": "View all the colors you can use for a horses color"
+
+# Used for the disguise option Horse Color
+"WHITE": "WHITE"
+
+# Used for the disguise option Horse Color
+"CREAMY": "CREAMY"
+
+# Used for the disguise option Horse Color
+"CHESTNUT": "CHESTNUT"
+
+# Used for the disguise option Horse Color
+"BROWN": "BROWN"
+
+# Used for the disguise option Horse Color
+"BLACK": "BLACK"
+
+# Used for the disguise option Horse Color
+"GRAY": "GRAY"
+
+# Used for the disguise option Horse Color
+"DARK_BROWN": "DARK_BROWN"
+
+# A disguise option name, has description View all the professions you can set on a Villager and Zombie Villager
+"Villager Profession": "Villager Profession"
+
+# Description for the disguise option Villager Profession
+"View all the professions you can set on a Villager and Zombie Villager": "View all the professions you can set on a Villager and Zombie Villager"
+
+# Used for the disguise option Villager Profession
+"NONE": "NONE"
+
+# Used for the disguise option Villager Profession
+"ARMORER": "ARMORER"
+
+# Used for the disguise option Villager Profession
+"BUTCHER": "BUTCHER"
+
+# Used for the disguise option Villager Profession
+"CARTOGRAPHER": "CARTOGRAPHER"
+
+# Used for the disguise option Villager Profession
+"CLERIC": "CLERIC"
+
+# Used for the disguise option Villager Profession
+"FARMER": "FARMER"
+
+# Used for the disguise option Villager Profession
+"FISHERMAN": "FISHERMAN"
+
+# Used for the disguise option Villager Profession
+"FLETCHER": "FLETCHER"
+
+# Used for the disguise option Villager Profession
+"LEATHERWORKER": "LEATHERWORKER"
+
+# Used for the disguise option Villager Profession
+"LIBRARIAN": "LIBRARIAN"
+
+# Used for the disguise option Villager Profession
+"MASON": "MASON"
+
+# Used for the disguise option Villager Profession
+"NITWIT": "NITWIT"
+
+# Used for the disguise option Villager Profession
+"SHEPHERD": "SHEPHERD"
+
+# Used for the disguise option Villager Profession
+"TOOLSMITH": "TOOLSMITH"
+
+# Used for the disguise option Villager Profession
+"WEAPONSMITH": "WEAPONSMITH"
+
+# A disguise option name, has description View all the biomes you can set on a Villager and Zombie Villager
+"Villager Biome": "Villager Biome"
+
+# Description for the disguise option Villager Biome
+"View all the biomes you can set on a Villager and Zombie Villager": "View all the biomes you can set on a Villager and Zombie Villager"
+
+# Used for the disguise option Villager Biome
+"DESERT": "DESERT"
+
+# Used for the disguise option Villager Biome
+"JUNGLE": "JUNGLE"
+
+# Used for the disguise option Villager Biome
+"PLAINS": "PLAINS"
+
+# Used for the disguise option Villager Biome
+"SAVANNA": "SAVANNA"
+
+# Used for the disguise option Villager Biome
+"SNOW": "SNOW"
+
+# Used for the disguise option Villager Biome
+"SWAMP": "SWAMP"
+
+# Used for the disguise option Villager Biome
+"TAIGA": "TAIGA"
+
+# A disguise option name, has description View the directions usable on player setSleeping and shulker direction
+"Direction": "Direction"
+
+# A disguise option descriptive name
+"Direction (North, East, South, West, Up, Down)": "Direction (North, East, South, West, Up, Down)"
+
+# Description for the disguise option Direction
+"View the directions usable on player setSleeping and shulker direction": "View the directions usable on player setSleeping and shulker direction"
+
+# Used for the disguise option Direction
+"NORTH": "NORTH"
+
+# Used for the disguise option Direction
+"EAST": "EAST"
+
+# Used for the disguise option Direction
+"SOUTH": "SOUTH"
+
+# Used for the disguise option Direction
+"WEST": "WEST"
+
+# Used for the disguise option Direction
+"UP": "UP"
+
+# Used for the disguise option Direction
+"DOWN": "DOWN"
+
+# A disguise option name, has description View the kinds of rabbits you can turn into
+"Rabbit Type": "Rabbit Type"
+
+# Description for the disguise option Rabbit Type
+"View the kinds of rabbits you can turn into": "View the kinds of rabbits you can turn into"
+
+# Used for the disguise option Rabbit Type
+"GOLD": "GOLD"
+
+# Used for the disguise option Rabbit Type
+"KILLER_BUNNY": "KILLER_BUNNY"
+
+# Used for the disguise option Rabbit Type
+"PATCHES": "PATCHES"
+
+# Used for the disguise option Rabbit Type
+"PEPPER": "PEPPER"
+
+# A disguise option name, has description View the different types of tree species
+"Tree Species": "Tree Species"
+
+# Description for the disguise option Tree Species
+"View the different types of tree species": "View the different types of tree species"
+
+# Used for the disguise option Tree Species
+"GENERIC": "GENERIC"
+
+# Used for the disguise option Tree Species
+"REDWOOD": "REDWOOD"
+
+# Used for the disguise option Tree Species
+"BIRCH": "BIRCH"
+
+# Used for the disguise option Tree Species
+"ACACIA": "ACACIA"
+
+# Used for the disguise option Tree Species
+"DARK_OAK": "DARK_OAK"
+
+# A disguise option name, has description Set the main hand for an entity
+"Main Hand": "Main Hand"
+
+# Description for the disguise option Main Hand
+"Set the main hand for an entity": "Set the main hand for an entity"
+
+# Used for the disguise option Main Hand
+"LEFT": "LEFT"
+
+# Used for the disguise option Main Hand
+"RIGHT": "RIGHT"
+
+# A disguise option name, has description View all the colors you can use for a llama color
+"Llama Color": "Llama Color"
+
+# Description for the disguise option Llama Color
+"View all the colors you can use for a llama color": "View all the colors you can use for a llama color"
+
+# A disguise option name, has description View the different colors a parrot can be
+"Parrot Variant": "Parrot Variant"
+
+# Description for the disguise option Parrot Variant
+"View the different colors a parrot can be": "View the different colors a parrot can be"
+
+# Used for the disguise option Parrot Variant
+"RED": "RED"
+
+# Used for the disguise option Parrot Variant
+"BLUE": "BLUE"
+
+# Used for the disguise option Parrot Variant
+"GREEN": "GREEN"
+
+# Used for the disguise option Parrot Variant
+"CYAN": "CYAN"
+
+# A disguise option name, has description The different particles of Minecraft
+"Particle": "Particle"
+
+# Description for the disguise option Particle
+"The different particles of Minecraft": "The different particles of Minecraft"
+
+# Used for the disguise option Particle
+"EXPLOSION_NORMAL": "EXPLOSION_NORMAL"
+
+# Used for the disguise option Particle
+"EXPLOSION_LARGE": "EXPLOSION_LARGE"
+
+# Used for the disguise option Particle
+"EXPLOSION_HUGE": "EXPLOSION_HUGE"
+
+# Used for the disguise option Particle
+"FIREWORKS_SPARK": "FIREWORKS_SPARK"
+
+# Used for the disguise option Particle
+"WATER_BUBBLE": "WATER_BUBBLE"
+
+# Used for the disguise option Particle
+"WATER_SPLASH": "WATER_SPLASH"
+
+# Used for the disguise option Particle
+"WATER_WAKE": "WATER_WAKE"
+
+# Used for the disguise option Particle
+"SUSPENDED": "SUSPENDED"
+
+# Used for the disguise option Particle
+"SUSPENDED_DEPTH": "SUSPENDED_DEPTH"
+
+# Used for the disguise option Particle
+"CRIT": "CRIT"
+
+# Used for the disguise option Particle
+"CRIT_MAGIC": "CRIT_MAGIC"
+
+# Used for the disguise option Particle
+"SMOKE_NORMAL": "SMOKE_NORMAL"
+
+# Used for the disguise option Particle
+"SMOKE_LARGE": "SMOKE_LARGE"
+
+# Used for the disguise option Particle
+"SPELL": "SPELL"
+
+# Used for the disguise option Particle
+"SPELL_INSTANT": "SPELL_INSTANT"
+
+# Used for the disguise option Particle
+"SPELL_MOB": "SPELL_MOB"
+
+# Used for the disguise option Particle
+"SPELL_MOB_AMBIENT": "SPELL_MOB_AMBIENT"
+
+# Used for the disguise option Particle
+"SPELL_WITCH": "SPELL_WITCH"
+
+# Used for the disguise option Particle
+"DRIP_WATER": "DRIP_WATER"
+
+# Used for the disguise option Particle
+"DRIP_LAVA": "DRIP_LAVA"
+
+# Used for the disguise option Particle
+"VILLAGER_ANGRY": "VILLAGER_ANGRY"
+
+# Used for the disguise option Particle
+"VILLAGER_HAPPY": "VILLAGER_HAPPY"
+
+# Used for the disguise option Particle
+"TOWN_AURA": "TOWN_AURA"
+
+# Used for the disguise option Particle
+"NOTE": "NOTE"
+
+# Used for the disguise option Particle
+"PORTAL": "PORTAL"
+
+# Used for the disguise option Particle
+"ENCHANTMENT_TABLE": "ENCHANTMENT_TABLE"
+
+# Used for the disguise option Particle
+"FLAME": "FLAME"
+
+# Used for the disguise option Particle
+"LAVA": "LAVA"
+
+# Used for the disguise option Particle
+"CLOUD": "CLOUD"
+
+# Used for the disguise option Particle
+"REDSTONE": "REDSTONE"
+
+# Used for the disguise option Particle
+"SNOWBALL": "SNOWBALL"
+
+# Used for the disguise option Particle
+"SNOW_SHOVEL": "SNOW_SHOVEL"
+
+# Used for the disguise option Particle
+"SLIME": "SLIME"
+
+# Used for the disguise option Particle
+"HEART": "HEART"
+
+# Used for the disguise option Particle
+"ITEM_CRACK": "ITEM_CRACK"
+
+# Used for the disguise option Particle
+"BLOCK_CRACK": "BLOCK_CRACK"
+
+# Used for the disguise option Particle
+"BLOCK_DUST": "BLOCK_DUST"
+
+# Used for the disguise option Particle
+"WATER_DROP": "WATER_DROP"
+
+# Used for the disguise option Particle
+"MOB_APPEARANCE": "MOB_APPEARANCE"
+
+# Used for the disguise option Particle
+"DRAGON_BREATH": "DRAGON_BREATH"
+
+# Used for the disguise option Particle
+"END_ROD": "END_ROD"
+
+# Used for the disguise option Particle
+"DAMAGE_INDICATOR": "DAMAGE_INDICATOR"
+
+# Used for the disguise option Particle
+"SWEEP_ATTACK": "SWEEP_ATTACK"
+
+# Used for the disguise option Particle
+"FALLING_DUST": "FALLING_DUST"
+
+# Used for the disguise option Particle
+"TOTEM": "TOTEM"
+
+# Used for the disguise option Particle
+"SPIT": "SPIT"
+
+# Used for the disguise option Particle
+"SQUID_INK": "SQUID_INK"
+
+# Used for the disguise option Particle
+"BUBBLE_POP": "BUBBLE_POP"
+
+# Used for the disguise option Particle
+"CURRENT_DOWN": "CURRENT_DOWN"
+
+# Used for the disguise option Particle
+"BUBBLE_COLUMN_UP": "BUBBLE_COLUMN_UP"
+
+# Used for the disguise option Particle
+"NAUTILUS": "NAUTILUS"
+
+# Used for the disguise option Particle
+"DOLPHIN": "DOLPHIN"
+
+# Used for the disguise option Particle
+"SNEEZE": "SNEEZE"
+
+# Used for the disguise option Particle
+"CAMPFIRE_COSY_SMOKE": "CAMPFIRE_COSY_SMOKE"
+
+# Used for the disguise option Particle
+"CAMPFIRE_SIGNAL_SMOKE": "CAMPFIRE_SIGNAL_SMOKE"
+
+# Used for the disguise option Particle
+"COMPOSTER": "COMPOSTER"
+
+# Used for the disguise option Particle
+"FLASH": "FLASH"
+
+# Used for the disguise option Particle
+"FALLING_LAVA": "FALLING_LAVA"
+
+# Used for the disguise option Particle
+"LANDING_LAVA": "LANDING_LAVA"
+
+# Used for the disguise option Particle
+"FALLING_WATER": "FALLING_WATER"
+
+# Used for the disguise option Particle
+"DRIPPING_HONEY": "DRIPPING_HONEY"
+
+# Used for the disguise option Particle
+"FALLING_HONEY": "FALLING_HONEY"
+
+# Used for the disguise option Particle
+"LANDING_HONEY": "LANDING_HONEY"
+
+# Used for the disguise option Particle
+"FALLING_NECTAR": "FALLING_NECTAR"
+
+# Used for the disguise option Particle
+"SOUL_FIRE_FLAME": "SOUL_FIRE_FLAME"
+
+# Used for the disguise option Particle
+"ASH": "ASH"
+
+# Used for the disguise option Particle
+"CRIMSON_SPORE": "CRIMSON_SPORE"
+
+# Used for the disguise option Particle
+"WARPED_SPORE": "WARPED_SPORE"
+
+# Used for the disguise option Particle
+"SOUL": "SOUL"
+
+# Used for the disguise option Particle
+"DRIPPING_OBSIDIAN_TEAR": "DRIPPING_OBSIDIAN_TEAR"
+
+# Used for the disguise option Particle
+"FALLING_OBSIDIAN_TEAR": "FALLING_OBSIDIAN_TEAR"
+
+# Used for the disguise option Particle
+"LANDING_OBSIDIAN_TEAR": "LANDING_OBSIDIAN_TEAR"
+
+# Used for the disguise option Particle
+"REVERSE_PORTAL": "REVERSE_PORTAL"
+
+# Used for the disguise option Particle
+"WHITE_ASH": "WHITE_ASH"
+
+# Used for the disguise option Particle
+"DUST_COLOR_TRANSITION": "DUST_COLOR_TRANSITION"
+
+# Used for the disguise option Particle
+"VIBRATION": "VIBRATION"
+
+# Used for the disguise option Particle
+"FALLING_SPORE_BLOSSOM": "FALLING_SPORE_BLOSSOM"
+
+# Used for the disguise option Particle
+"SPORE_BLOSSOM_AIR": "SPORE_BLOSSOM_AIR"
+
+# Used for the disguise option Particle
+"SMALL_FLAME": "SMALL_FLAME"
+
+# Used for the disguise option Particle
+"SNOWFLAKE": "SNOWFLAKE"
+
+# Used for the disguise option Particle
+"DRIPPING_DRIPSTONE_LAVA": "DRIPPING_DRIPSTONE_LAVA"
+
+# Used for the disguise option Particle
+"FALLING_DRIPSTONE_LAVA": "FALLING_DRIPSTONE_LAVA"
+
+# Used for the disguise option Particle
+"DRIPPING_DRIPSTONE_WATER": "DRIPPING_DRIPSTONE_WATER"
+
+# Used for the disguise option Particle
+"FALLING_DRIPSTONE_WATER": "FALLING_DRIPSTONE_WATER"
+
+# Used for the disguise option Particle
+"GLOW_SQUID_INK": "GLOW_SQUID_INK"
+
+# Used for the disguise option Particle
+"GLOW": "GLOW"
+
+# Used for the disguise option Particle
+"WAX_ON": "WAX_ON"
+
+# Used for the disguise option Particle
+"WAX_OFF": "WAX_OFF"
+
+# Used for the disguise option Particle
+"ELECTRIC_SPARK": "ELECTRIC_SPARK"
+
+# Used for the disguise option Particle
+"SCRAPE": "SCRAPE"
+
+# Used for the disguise option Particle
+"SONIC_BOOM": "SONIC_BOOM"
+
+# Used for the disguise option Particle
+"SCULK_SOUL": "SCULK_SOUL"
+
+# Used for the disguise option Particle
+"SCULK_CHARGE": "SCULK_CHARGE"
+
+# Used for the disguise option Particle
+"SCULK_CHARGE_POP": "SCULK_CHARGE_POP"
+
+# Used for the disguise option Particle
+"SHRIEK": "SHRIEK"
+
+# Used for the disguise option Particle
+"CHERRY_LEAVES": "CHERRY_LEAVES"
+
+# Used for the disguise option Particle
+"EGG_CRACK": "EGG_CRACK"
+
+# Used for the disguise option Particle
+"BLOCK_MARKER": "BLOCK_MARKER"
+
+# Used for the disguise option Particle
+"LEGACY_BLOCK_CRACK": "LEGACY_BLOCK_CRACK"
+
+# Used for the disguise option Particle
+"LEGACY_BLOCK_DUST": "LEGACY_BLOCK_DUST"
+
+# Used for the disguise option Particle
+"LEGACY_FALLING_DUST": "LEGACY_FALLING_DUST"
+
+# A disguise option name, has description Patterns of a tropical fish
+"Pattern": "Pattern"
+
+# Description for the disguise option Pattern
+"Patterns of a tropical fish": "Patterns of a tropical fish"
+
+# Used for the disguise option Pattern
+"KOB": "KOB"
+
+# Used for the disguise option Pattern
+"SUNSTREAK": "SUNSTREAK"
+
+# Used for the disguise option Pattern
+"SNOOPER": "SNOOPER"
+
+# Used for the disguise option Pattern
+"DASHER": "DASHER"
+
+# Used for the disguise option Pattern
+"BRINELY": "BRINELY"
+
+# Used for the disguise option Pattern
+"SPOTTY": "SPOTTY"
+
+# Used for the disguise option Pattern
+"FLOPPER": "FLOPPER"
+
+# Used for the disguise option Pattern
+"STRIPEY": "STRIPEY"
+
+# Used for the disguise option Pattern
+"GLITTER": "GLITTER"
+
+# Used for the disguise option Pattern
+"BLOCKFISH": "BLOCKFISH"
+
+# Used for the disguise option Pattern
+"BETTY": "BETTY"
+
+# Used for the disguise option Pattern
+"CLAYFISH": "CLAYFISH"
+
+# A disguise option name, has description The block data states, barrel[facing=north,open=false] as example
+"BlockData": "BlockData"
+
+# A disguise option descriptive name
+"BlockData[State=Something]": "BlockData[State=Something]"
+
+# Description for the disguise option BlockData
+"The block data states, barrel[facing=north,open=false] as example": "The block data states, barrel[facing=north,open=false] as example"
+
+# A disguise option name, has description Dye colors of many different colors
+"DyeColor": "DyeColor"
+
+# Description for the disguise option DyeColor
+"Dye colors of many different colors": "Dye colors of many different colors"
+
+# Used for the disguise option DyeColor
+"ORANGE": "ORANGE"
+
+# Used for the disguise option DyeColor
+"MAGENTA": "MAGENTA"
+
+# Used for the disguise option DyeColor
+"LIGHT_BLUE": "LIGHT_BLUE"
+
+# Used for the disguise option DyeColor
+"YELLOW": "YELLOW"
+
+# Used for the disguise option DyeColor
+"LIME": "LIME"
+
+# Used for the disguise option DyeColor
+"PINK": "PINK"
+
+# Used for the disguise option DyeColor
+"LIGHT_GRAY": "LIGHT_GRAY"
+
+# Used for the disguise option DyeColor
+"PURPLE": "PURPLE"
+
+# A disguise option name, has description Horse style which is the patterns on the horse
+"Horse Style": "Horse Style"
+
+# Description for the disguise option Horse Style
+"Horse style which is the patterns on the horse": "Horse style which is the patterns on the horse"
+
+# Used for the disguise option Horse Style
+"WHITEFIELD": "WHITEFIELD"
+
+# Used for the disguise option Horse Style
+"WHITE_DOTS": "WHITE_DOTS"
+
+# Used for the disguise option Horse Style
+"BLACK_DOTS": "BLACK_DOTS"
+
+# A disguise option name, has description The pose the entity should strike
+"EntityPose": "EntityPose"
+
+# Description for the disguise option EntityPose
+"The pose the entity should strike": "The pose the entity should strike"
+
+# Used for the disguise option EntityPose
+"STANDING": "STANDING"
+
+# Used for the disguise option EntityPose
+"FALL_FLYING": "FALL_FLYING"
+
+# Used for the disguise option EntityPose
+"SLEEPING": "SLEEPING"
+
+# Used for the disguise option EntityPose
+"SWIMMING": "SWIMMING"
+
+# Used for the disguise option EntityPose
+"SPIN_ATTACK": "SPIN_ATTACK"
+
+# Used for the disguise option EntityPose
+"SNEAKING": "SNEAKING"
+
+# Used for the disguise option EntityPose
+"LONG_JUMPING": "LONG_JUMPING"
+
+# Used for the disguise option EntityPose
+"DYING": "DYING"
+
+# Used for the disguise option EntityPose
+"CROAKING": "CROAKING"
+
+# Used for the disguise option EntityPose
+"USING_TONGUE": "USING_TONGUE"
+
+# Used for the disguise option EntityPose
+"SITTING": "SITTING"
+
+# Used for the disguise option EntityPose
+"ROARING": "ROARING"
+
+# Used for the disguise option EntityPose
+"SNIFFING": "SNIFFING"
+
+# Used for the disguise option EntityPose
+"EMERGING": "EMERGING"
+
+# Used for the disguise option EntityPose
+"DIGGING": "DIGGING"
+
+# A disguise option name, has description The type of cat
+"Cat Type": "Cat Type"
+
+# Description for the disguise option Cat Type
+"The type of cat": "The type of cat"
+
+# Used for the disguise option Cat Type
+"TABBY": "TABBY"
+
+# Used for the disguise option Cat Type
+"SIAMESE": "SIAMESE"
+
+# Used for the disguise option Cat Type
+"BRITISH_SHORTHAIR": "BRITISH_SHORTHAIR"
+
+# Used for the disguise option Cat Type
+"CALICO": "CALICO"
+
+# Used for the disguise option Cat Type
+"PERSIAN": "PERSIAN"
+
+# Used for the disguise option Cat Type
+"RAGDOLL": "RAGDOLL"
+
+# Used for the disguise option Cat Type
+"JELLIE": "JELLIE"
+
+# Used for the disguise option Cat Type
+"ALL_BLACK": "ALL_BLACK"
+
+# A disguise option name, has description The type of fox
+"Fox Type": "Fox Type"
+
+# Description for the disguise option Fox Type
+"The type of fox": "The type of fox"
+
+# A disguise option name, has description The panda gene type
+"Panda Gene": "Panda Gene"
+
+# Description for the disguise option Panda Gene
+"The panda gene type": "The panda gene type"
+
+# Used for the disguise option Panda Gene
+"NORMAL": "NORMAL"
+
+# Used for the disguise option Panda Gene
+"LAZY": "LAZY"
+
+# Used for the disguise option Panda Gene
+"WORRIED": "WORRIED"
+
+# Used for the disguise option Panda Gene
+"PLAYFUL": "PLAYFUL"
+
+# Used for the disguise option Panda Gene
+"WEAK": "WEAK"
+
+# Used for the disguise option Panda Gene
+"AGGRESSIVE": "AGGRESSIVE"
+
+# A disguise option name, has description The different variants for mushroom cows
+"Mushroom Cow Variant": "Mushroom Cow Variant"
+
+# Description for the disguise option Mushroom Cow Variant
+"The different variants for mushroom cows": "The different variants for mushroom cows"
+
+# A disguise option name, has description The variant of Axolotl
+"Axolotl Variant": "Axolotl Variant"
+
+# Description for the disguise option Axolotl Variant
+"The variant of Axolotl": "The variant of Axolotl"
+
+# Used for the disguise option Axolotl Variant
+"LUCY": "LUCY"
+
+# Used for the disguise option Axolotl Variant
+"WILD": "WILD"
+
+# A disguise option name, has description The variant of Frog
+"Frog Variant": "Frog Variant"
+
+# Description for the disguise option Frog Variant
+"The variant of Frog": "The variant of Frog"
+
+# Used for the disguise option Frog Variant
+"TEMPERATE": "TEMPERATE"
+
+# Used for the disguise option Frog Variant
+"WARM": "WARM"
+
+# Used for the disguise option Frog Variant
+"COLD": "COLD"
+
+# A disguise option name, has description 14 comma seperated numbers for a position translation
+"Transformation": "Transformation"
+
+# A disguise option descriptive name
+"Translation (Transform, Left Rotation, Scale, Right Rotation). 3, then 4, then 3, then 4 numbers. All seperated by a comma": "Translation (Transform, Left Rotation, Scale, Right Rotation). 3, then 4, then 3, then 4 numbers. All seperated by a comma"
+
+# Description for the disguise option Transformation
+"14 comma seperated numbers for a position translation": "14 comma seperated numbers for a position translation"
+
+# A disguise option name, has description Used as part of a Transformation for the Transform and Scale
+"Vector3f": "Vector3f"
+
+# A disguise option descriptive name
+"Vector3f (X, Y, Z)": "Vector3f (X, Y, Z)"
+
+# Description for the disguise option Vector3f
+"Used as part of a Transformation for the Transform and Scale": "Used as part of a Transformation for the Transform and Scale"
+
+# A disguise option name, has description Four values used to define part of a Transformation for the rotations
+"Quaternion": "Quaternion"
+
+# A disguise option descriptive name
+"Quaternion (X, Y, Z, W)": "Quaternion (X, Y, Z, W)"
+
+# Description for the disguise option Quaternion
+"Four values used to define part of a Transformation for the rotations": "Four values used to define part of a Transformation for the rotations"
+
+# A disguise option name, has description How the Item Display is transformed
+"Item Display Transform": "Item Display Transform"
+
+# Description for the disguise option Item Display Transform
+"How the Item Display is transformed": "How the Item Display is transformed"
+
+# Used for the disguise option Item Display Transform
+"THIRDPERSON_LEFTHAND": "THIRDPERSON_LEFTHAND"
+
+# Used for the disguise option Item Display Transform
+"THIRDPERSON_RIGHTHAND": "THIRDPERSON_RIGHTHAND"
+
+# Used for the disguise option Item Display Transform
+"FIRSTPERSON_LEFTHAND": "FIRSTPERSON_LEFTHAND"
+
+# Used for the disguise option Item Display Transform
+"FIRSTPERSON_RIGHTHAND": "FIRSTPERSON_RIGHTHAND"
+
+# Used for the disguise option Item Display Transform
+"HEAD": "HEAD"
+
+# Used for the disguise option Item Display Transform
+"GUI": "GUI"
+
+# Used for the disguise option Item Display Transform
+"GROUND": "GROUND"
+
+# Used for the disguise option Item Display Transform
+"FIXED": "FIXED"
+
+# A disguise option name, has description How the billboard is aligned
+"Display Billboard": "Display Billboard"
+
+# Description for the disguise option Display Billboard
+"How the billboard is aligned": "How the billboard is aligned"
+
+# Used for the disguise option Display Billboard
+"VERTICAL": "VERTICAL"
+
+# Used for the disguise option Display Billboard
+"HORIZONTAL": "HORIZONTAL"
+
+# Used for the disguise option Display Billboard
+"CENTER": "CENTER"
+
+# A disguise option name, has description How the text is aligned in the display
+"Text Display Alignment": "Text Display Alignment"
+
+# Description for the disguise option Text Display Alignment
+"How the text is aligned in the display": "How the text is aligned in the display"
+
+# A disguise option name, has description The current mindset of a Sniffer
+"Sniffer State": "Sniffer State"
+
+# Description for the disguise option Sniffer State
+"The current mindset of a Sniffer": "The current mindset of a Sniffer"
+
+# Used for the disguise option Sniffer State
+"IDLING": "IDLING"
+
+# Used for the disguise option Sniffer State
+"FEELING_HAPPY": "FEELING_HAPPY"
+
+# Used for the disguise option Sniffer State
+"SCENTING": "SCENTING"
+
+# Used for the disguise option Sniffer State
+"SEARCHING": "SEARCHING"
+
+# Used for the disguise option Sniffer State
+"RISING": "RISING"
+
+# A disguise option name, has description Where the disguised indicator should appear
+"NotifyBar": "NotifyBar"
+
+# Description for the disguise option NotifyBar
+"Where the disguised indicator should appear": "Where the disguised indicator should appear"
+
+# Used for the disguise option NotifyBar
+"BOSS_BAR": "BOSS_BAR"
+
+# Used for the disguise option NotifyBar
+"ACTION_BAR": "ACTION_BAR"
+
+# A disguise option name, has description The color of the boss bar
+"BarColor": "BarColor"
+
+# Description for the disguise option BarColor
+"The color of the boss bar": "The color of the boss bar"
+
+# A disguise option name, has description The style of the boss bar
+"BarStyle": "BarStyle"
+
+# Description for the disguise option BarStyle
+"The style of the boss bar": "The style of the boss bar"
+
+# Used for the disguise option BarStyle
+"SOLID": "SOLID"
+
+# Used for the disguise option BarStyle
+"SEGMENTED_6": "SEGMENTED_6"
+
+# Used for the disguise option BarStyle
+"SEGMENTED_10": "SEGMENTED_10"
+
+# Used for the disguise option BarStyle
+"SEGMENTED_12": "SEGMENTED_12"
+
+# Used for the disguise option BarStyle
+"SEGMENTED_20": "SEGMENTED_20"
+
+# A disguise option name, has description Set the X,Y,Z directions on an armorstand
+"Euler Angle": "Euler Angle"
+
+# A disguise option descriptive name
+"Euler Angle (X,Y,Z)": "Euler Angle (X,Y,Z)"
+
+# Description for the disguise option Euler Angle
+"Set the X,Y,Z directions on an armorstand": "Set the X,Y,Z directions on an armorstand"
+
+# A disguise option name, has description Colors that can also be defined through RGB
+"Color": "Color"
+
+# Description for the disguise option Color
+"Colors that can also be defined through RGB": "Colors that can also be defined through RGB"
+
+# Used for the disguise option Color
+"AQUA": "AQUA"
+
+# Used for the disguise option Color
+"FUCHSIA": "FUCHSIA"
+
+# Used for the disguise option Color
+"SILVER": "SILVER"
+
+# Used for the disguise option Color
+"OLIVE": "OLIVE"
+
+# Used for the disguise option Color
+"MAROON": "MAROON"
+
+# Used for the disguise option Color
+"NAVY": "NAVY"
+
+# Used for the disguise option Color
+"TEAL": "TEAL"
+
+# A disguise option name, has description A material used for blocks and items
+"Material": "Material"
+
+# Description for the disguise option Material
+"A material used for blocks and items": "A material used for blocks and items"
+
+# Used for the disguise option Material
+"STONE": "STONE"
+
+# Used for the disguise option Material
+"GRANITE": "GRANITE"
+
+# Used for the disguise option Material
+"POLISHED_GRANITE": "POLISHED_GRANITE"
+
+# Used for the disguise option Material
+"DIORITE": "DIORITE"
+
+# Used for the disguise option Material
+"POLISHED_DIORITE": "POLISHED_DIORITE"
+
+# Used for the disguise option Material
+"ANDESITE": "ANDESITE"
+
+# Used for the disguise option Material
+"POLISHED_ANDESITE": "POLISHED_ANDESITE"
+
+# Used for the disguise option Material
+"DEEPSLATE": "DEEPSLATE"
+
+# Used for the disguise option Material
+"COBBLED_DEEPSLATE": "COBBLED_DEEPSLATE"
+
+# Used for the disguise option Material
+"POLISHED_DEEPSLATE": "POLISHED_DEEPSLATE"
+
+# Used for the disguise option Material
+"CALCITE": "CALCITE"
+
+# Used for the disguise option Material
+"TUFF": "TUFF"
+
+# Used for the disguise option Material
+"DRIPSTONE_BLOCK": "DRIPSTONE_BLOCK"
+
+# Used for the disguise option Material
+"GRASS_BLOCK": "GRASS_BLOCK"
+
+# Used for the disguise option Material
+"DIRT": "DIRT"
+
+# Used for the disguise option Material
+"COARSE_DIRT": "COARSE_DIRT"
+
+# Used for the disguise option Material
+"PODZOL": "PODZOL"
+
+# Used for the disguise option Material
+"ROOTED_DIRT": "ROOTED_DIRT"
+
+# Used for the disguise option Material
+"MUD": "MUD"
+
+# Used for the disguise option Material
+"CRIMSON_NYLIUM": "CRIMSON_NYLIUM"
+
+# Used for the disguise option Material
+"WARPED_NYLIUM": "WARPED_NYLIUM"
+
+# Used for the disguise option Material
+"COBBLESTONE": "COBBLESTONE"
+
+# Used for the disguise option Material
+"OAK_PLANKS": "OAK_PLANKS"
+
+# Used for the disguise option Material
+"SPRUCE_PLANKS": "SPRUCE_PLANKS"
+
+# Used for the disguise option Material
+"BIRCH_PLANKS": "BIRCH_PLANKS"
+
+# Used for the disguise option Material
+"JUNGLE_PLANKS": "JUNGLE_PLANKS"
+
+# Used for the disguise option Material
+"ACACIA_PLANKS": "ACACIA_PLANKS"
+
+# Used for the disguise option Material
+"CHERRY_PLANKS": "CHERRY_PLANKS"
+
+# Used for the disguise option Material
+"DARK_OAK_PLANKS": "DARK_OAK_PLANKS"
+
+# Used for the disguise option Material
+"MANGROVE_PLANKS": "MANGROVE_PLANKS"
+
+# Used for the disguise option Material
+"BAMBOO_PLANKS": "BAMBOO_PLANKS"
+
+# Used for the disguise option Material
+"CRIMSON_PLANKS": "CRIMSON_PLANKS"
+
+# Used for the disguise option Material
+"WARPED_PLANKS": "WARPED_PLANKS"
+
+# Used for the disguise option Material
+"BAMBOO_MOSAIC": "BAMBOO_MOSAIC"
+
+# Used for the disguise option Material
+"OAK_SAPLING": "OAK_SAPLING"
+
+# Used for the disguise option Material
+"SPRUCE_SAPLING": "SPRUCE_SAPLING"
+
+# Used for the disguise option Material
+"BIRCH_SAPLING": "BIRCH_SAPLING"
+
+# Used for the disguise option Material
+"JUNGLE_SAPLING": "JUNGLE_SAPLING"
+
+# Used for the disguise option Material
+"ACACIA_SAPLING": "ACACIA_SAPLING"
+
+# Used for the disguise option Material
+"CHERRY_SAPLING": "CHERRY_SAPLING"
+
+# Used for the disguise option Material
+"DARK_OAK_SAPLING": "DARK_OAK_SAPLING"
+
+# Used for the disguise option Material
+"MANGROVE_PROPAGULE": "MANGROVE_PROPAGULE"
+
+# Used for the disguise option Material
+"BEDROCK": "BEDROCK"
+
+# Used for the disguise option Material
+"SAND": "SAND"
+
+# Used for the disguise option Material
+"SUSPICIOUS_SAND": "SUSPICIOUS_SAND"
+
+# Used for the disguise option Material
+"SUSPICIOUS_GRAVEL": "SUSPICIOUS_GRAVEL"
+
+# Used for the disguise option Material
+"RED_SAND": "RED_SAND"
+
+# Used for the disguise option Material
+"GRAVEL": "GRAVEL"
+
+# Used for the disguise option Material
+"COAL_ORE": "COAL_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_COAL_ORE": "DEEPSLATE_COAL_ORE"
+
+# Used for the disguise option Material
+"IRON_ORE": "IRON_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_IRON_ORE": "DEEPSLATE_IRON_ORE"
+
+# Used for the disguise option Material
+"COPPER_ORE": "COPPER_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_COPPER_ORE": "DEEPSLATE_COPPER_ORE"
+
+# Used for the disguise option Material
+"GOLD_ORE": "GOLD_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_GOLD_ORE": "DEEPSLATE_GOLD_ORE"
+
+# Used for the disguise option Material
+"REDSTONE_ORE": "REDSTONE_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_REDSTONE_ORE": "DEEPSLATE_REDSTONE_ORE"
+
+# Used for the disguise option Material
+"EMERALD_ORE": "EMERALD_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_EMERALD_ORE": "DEEPSLATE_EMERALD_ORE"
+
+# Used for the disguise option Material
+"LAPIS_ORE": "LAPIS_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_LAPIS_ORE": "DEEPSLATE_LAPIS_ORE"
+
+# Used for the disguise option Material
+"DIAMOND_ORE": "DIAMOND_ORE"
+
+# Used for the disguise option Material
+"DEEPSLATE_DIAMOND_ORE": "DEEPSLATE_DIAMOND_ORE"
+
+# Used for the disguise option Material
+"NETHER_GOLD_ORE": "NETHER_GOLD_ORE"
+
+# Used for the disguise option Material
+"NETHER_QUARTZ_ORE": "NETHER_QUARTZ_ORE"
+
+# Used for the disguise option Material
+"ANCIENT_DEBRIS": "ANCIENT_DEBRIS"
+
+# Used for the disguise option Material
+"COAL_BLOCK": "COAL_BLOCK"
+
+# Used for the disguise option Material
+"RAW_IRON_BLOCK": "RAW_IRON_BLOCK"
+
+# Used for the disguise option Material
+"RAW_COPPER_BLOCK": "RAW_COPPER_BLOCK"
+
+# Used for the disguise option Material
+"RAW_GOLD_BLOCK": "RAW_GOLD_BLOCK"
+
+# Used for the disguise option Material
+"AMETHYST_BLOCK": "AMETHYST_BLOCK"
+
+# Used for the disguise option Material
+"BUDDING_AMETHYST": "BUDDING_AMETHYST"
+
+# Used for the disguise option Material
+"IRON_BLOCK": "IRON_BLOCK"
+
+# Used for the disguise option Material
+"COPPER_BLOCK": "COPPER_BLOCK"
+
+# Used for the disguise option Material
+"GOLD_BLOCK": "GOLD_BLOCK"
+
+# Used for the disguise option Material
+"DIAMOND_BLOCK": "DIAMOND_BLOCK"
+
+# Used for the disguise option Material
+"NETHERITE_BLOCK": "NETHERITE_BLOCK"
+
+# Used for the disguise option Material
+"EXPOSED_COPPER": "EXPOSED_COPPER"
+
+# Used for the disguise option Material
+"WEATHERED_COPPER": "WEATHERED_COPPER"
+
+# Used for the disguise option Material
+"OXIDIZED_COPPER": "OXIDIZED_COPPER"
+
+# Used for the disguise option Material
+"CUT_COPPER": "CUT_COPPER"
+
+# Used for the disguise option Material
+"EXPOSED_CUT_COPPER": "EXPOSED_CUT_COPPER"
+
+# Used for the disguise option Material
+"WEATHERED_CUT_COPPER": "WEATHERED_CUT_COPPER"
+
+# Used for the disguise option Material
+"OXIDIZED_CUT_COPPER": "OXIDIZED_CUT_COPPER"
+
+# Used for the disguise option Material
+"CUT_COPPER_STAIRS": "CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"EXPOSED_CUT_COPPER_STAIRS": "EXPOSED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"WEATHERED_CUT_COPPER_STAIRS": "WEATHERED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"OXIDIZED_CUT_COPPER_STAIRS": "OXIDIZED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"CUT_COPPER_SLAB": "CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"EXPOSED_CUT_COPPER_SLAB": "EXPOSED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"WEATHERED_CUT_COPPER_SLAB": "WEATHERED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"OXIDIZED_CUT_COPPER_SLAB": "OXIDIZED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"WAXED_COPPER_BLOCK": "WAXED_COPPER_BLOCK"
+
+# Used for the disguise option Material
+"WAXED_EXPOSED_COPPER": "WAXED_EXPOSED_COPPER"
+
+# Used for the disguise option Material
+"WAXED_WEATHERED_COPPER": "WAXED_WEATHERED_COPPER"
+
+# Used for the disguise option Material
+"WAXED_OXIDIZED_COPPER": "WAXED_OXIDIZED_COPPER"
+
+# Used for the disguise option Material
+"WAXED_CUT_COPPER": "WAXED_CUT_COPPER"
+
+# Used for the disguise option Material
+"WAXED_EXPOSED_CUT_COPPER": "WAXED_EXPOSED_CUT_COPPER"
+
+# Used for the disguise option Material
+"WAXED_WEATHERED_CUT_COPPER": "WAXED_WEATHERED_CUT_COPPER"
+
+# Used for the disguise option Material
+"WAXED_OXIDIZED_CUT_COPPER": "WAXED_OXIDIZED_CUT_COPPER"
+
+# Used for the disguise option Material
+"WAXED_CUT_COPPER_STAIRS": "WAXED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"WAXED_EXPOSED_CUT_COPPER_STAIRS": "WAXED_EXPOSED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"WAXED_WEATHERED_CUT_COPPER_STAIRS": "WAXED_WEATHERED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"WAXED_OXIDIZED_CUT_COPPER_STAIRS": "WAXED_OXIDIZED_CUT_COPPER_STAIRS"
+
+# Used for the disguise option Material
+"WAXED_CUT_COPPER_SLAB": "WAXED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"WAXED_EXPOSED_CUT_COPPER_SLAB": "WAXED_EXPOSED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"WAXED_WEATHERED_CUT_COPPER_SLAB": "WAXED_WEATHERED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"WAXED_OXIDIZED_CUT_COPPER_SLAB": "WAXED_OXIDIZED_CUT_COPPER_SLAB"
+
+# Used for the disguise option Material
+"OAK_LOG": "OAK_LOG"
+
+# Used for the disguise option Material
+"SPRUCE_LOG": "SPRUCE_LOG"
+
+# Used for the disguise option Material
+"BIRCH_LOG": "BIRCH_LOG"
+
+# Used for the disguise option Material
+"JUNGLE_LOG": "JUNGLE_LOG"
+
+# Used for the disguise option Material
+"ACACIA_LOG": "ACACIA_LOG"
+
+# Used for the disguise option Material
+"CHERRY_LOG": "CHERRY_LOG"
+
+# Used for the disguise option Material
+"DARK_OAK_LOG": "DARK_OAK_LOG"
+
+# Used for the disguise option Material
+"MANGROVE_LOG": "MANGROVE_LOG"
+
+# Used for the disguise option Material
+"MANGROVE_ROOTS": "MANGROVE_ROOTS"
+
+# Used for the disguise option Material
+"MUDDY_MANGROVE_ROOTS": "MUDDY_MANGROVE_ROOTS"
+
+# Used for the disguise option Material
+"CRIMSON_STEM": "CRIMSON_STEM"
+
+# Used for the disguise option Material
+"WARPED_STEM": "WARPED_STEM"
+
+# Used for the disguise option Material
+"BAMBOO_BLOCK": "BAMBOO_BLOCK"
+
+# Used for the disguise option Material
+"STRIPPED_OAK_LOG": "STRIPPED_OAK_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_SPRUCE_LOG": "STRIPPED_SPRUCE_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_BIRCH_LOG": "STRIPPED_BIRCH_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_JUNGLE_LOG": "STRIPPED_JUNGLE_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_ACACIA_LOG": "STRIPPED_ACACIA_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_CHERRY_LOG": "STRIPPED_CHERRY_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_DARK_OAK_LOG": "STRIPPED_DARK_OAK_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_MANGROVE_LOG": "STRIPPED_MANGROVE_LOG"
+
+# Used for the disguise option Material
+"STRIPPED_CRIMSON_STEM": "STRIPPED_CRIMSON_STEM"
+
+# Used for the disguise option Material
+"STRIPPED_WARPED_STEM": "STRIPPED_WARPED_STEM"
+
+# Used for the disguise option Material
+"STRIPPED_OAK_WOOD": "STRIPPED_OAK_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_SPRUCE_WOOD": "STRIPPED_SPRUCE_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_BIRCH_WOOD": "STRIPPED_BIRCH_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_JUNGLE_WOOD": "STRIPPED_JUNGLE_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_ACACIA_WOOD": "STRIPPED_ACACIA_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_CHERRY_WOOD": "STRIPPED_CHERRY_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_DARK_OAK_WOOD": "STRIPPED_DARK_OAK_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_MANGROVE_WOOD": "STRIPPED_MANGROVE_WOOD"
+
+# Used for the disguise option Material
+"STRIPPED_CRIMSON_HYPHAE": "STRIPPED_CRIMSON_HYPHAE"
+
+# Used for the disguise option Material
+"STRIPPED_WARPED_HYPHAE": "STRIPPED_WARPED_HYPHAE"
+
+# Used for the disguise option Material
+"STRIPPED_BAMBOO_BLOCK": "STRIPPED_BAMBOO_BLOCK"
+
+# Used for the disguise option Material
+"OAK_WOOD": "OAK_WOOD"
+
+# Used for the disguise option Material
+"SPRUCE_WOOD": "SPRUCE_WOOD"
+
+# Used for the disguise option Material
+"BIRCH_WOOD": "BIRCH_WOOD"
+
+# Used for the disguise option Material
+"JUNGLE_WOOD": "JUNGLE_WOOD"
+
+# Used for the disguise option Material
+"ACACIA_WOOD": "ACACIA_WOOD"
+
+# Used for the disguise option Material
+"CHERRY_WOOD": "CHERRY_WOOD"
+
+# Used for the disguise option Material
+"DARK_OAK_WOOD": "DARK_OAK_WOOD"
+
+# Used for the disguise option Material
+"MANGROVE_WOOD": "MANGROVE_WOOD"
+
+# Used for the disguise option Material
+"CRIMSON_HYPHAE": "CRIMSON_HYPHAE"
+
+# Used for the disguise option Material
+"WARPED_HYPHAE": "WARPED_HYPHAE"
+
+# Used for the disguise option Material
+"OAK_LEAVES": "OAK_LEAVES"
+
+# Used for the disguise option Material
+"SPRUCE_LEAVES": "SPRUCE_LEAVES"
+
+# Used for the disguise option Material
+"BIRCH_LEAVES": "BIRCH_LEAVES"
+
+# Used for the disguise option Material
+"JUNGLE_LEAVES": "JUNGLE_LEAVES"
+
+# Used for the disguise option Material
+"ACACIA_LEAVES": "ACACIA_LEAVES"
+
+# Used for the disguise option Material
+"DARK_OAK_LEAVES": "DARK_OAK_LEAVES"
+
+# Used for the disguise option Material
+"MANGROVE_LEAVES": "MANGROVE_LEAVES"
+
+# Used for the disguise option Material
+"AZALEA_LEAVES": "AZALEA_LEAVES"
+
+# Used for the disguise option Material
+"FLOWERING_AZALEA_LEAVES": "FLOWERING_AZALEA_LEAVES"
+
+# Used for the disguise option Material
+"SPONGE": "SPONGE"
+
+# Used for the disguise option Material
+"WET_SPONGE": "WET_SPONGE"
+
+# Used for the disguise option Material
+"GLASS": "GLASS"
+
+# Used for the disguise option Material
+"TINTED_GLASS": "TINTED_GLASS"
+
+# Used for the disguise option Material
+"LAPIS_BLOCK": "LAPIS_BLOCK"
+
+# Used for the disguise option Material
+"SANDSTONE": "SANDSTONE"
+
+# Used for the disguise option Material
+"CHISELED_SANDSTONE": "CHISELED_SANDSTONE"
+
+# Used for the disguise option Material
+"CUT_SANDSTONE": "CUT_SANDSTONE"
+
+# Used for the disguise option Material
+"COBWEB": "COBWEB"
+
+# Used for the disguise option Material
+"GRASS": "GRASS"
+
+# Used for the disguise option Material
+"FERN": "FERN"
+
+# Used for the disguise option Material
+"AZALEA": "AZALEA"
+
+# Used for the disguise option Material
+"FLOWERING_AZALEA": "FLOWERING_AZALEA"
+
+# Used for the disguise option Material
+"DEAD_BUSH": "DEAD_BUSH"
+
+# Used for the disguise option Material
+"SEAGRASS": "SEAGRASS"
+
+# Used for the disguise option Material
+"SEA_PICKLE": "SEA_PICKLE"
+
+# Used for the disguise option Material
+"WHITE_WOOL": "WHITE_WOOL"
+
+# Used for the disguise option Material
+"ORANGE_WOOL": "ORANGE_WOOL"
+
+# Used for the disguise option Material
+"MAGENTA_WOOL": "MAGENTA_WOOL"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_WOOL": "LIGHT_BLUE_WOOL"
+
+# Used for the disguise option Material
+"YELLOW_WOOL": "YELLOW_WOOL"
+
+# Used for the disguise option Material
+"LIME_WOOL": "LIME_WOOL"
+
+# Used for the disguise option Material
+"PINK_WOOL": "PINK_WOOL"
+
+# Used for the disguise option Material
+"GRAY_WOOL": "GRAY_WOOL"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_WOOL": "LIGHT_GRAY_WOOL"
+
+# Used for the disguise option Material
+"CYAN_WOOL": "CYAN_WOOL"
+
+# Used for the disguise option Material
+"PURPLE_WOOL": "PURPLE_WOOL"
+
+# Used for the disguise option Material
+"BLUE_WOOL": "BLUE_WOOL"
+
+# Used for the disguise option Material
+"BROWN_WOOL": "BROWN_WOOL"
+
+# Used for the disguise option Material
+"GREEN_WOOL": "GREEN_WOOL"
+
+# Used for the disguise option Material
+"RED_WOOL": "RED_WOOL"
+
+# Used for the disguise option Material
+"BLACK_WOOL": "BLACK_WOOL"
+
+# Used for the disguise option Material
+"DANDELION": "DANDELION"
+
+# Used for the disguise option Material
+"POPPY": "POPPY"
+
+# Used for the disguise option Material
+"BLUE_ORCHID": "BLUE_ORCHID"
+
+# Used for the disguise option Material
+"ALLIUM": "ALLIUM"
+
+# Used for the disguise option Material
+"AZURE_BLUET": "AZURE_BLUET"
+
+# Used for the disguise option Material
+"RED_TULIP": "RED_TULIP"
+
+# Used for the disguise option Material
+"ORANGE_TULIP": "ORANGE_TULIP"
+
+# Used for the disguise option Material
+"WHITE_TULIP": "WHITE_TULIP"
+
+# Used for the disguise option Material
+"PINK_TULIP": "PINK_TULIP"
+
+# Used for the disguise option Material
+"OXEYE_DAISY": "OXEYE_DAISY"
+
+# Used for the disguise option Material
+"CORNFLOWER": "CORNFLOWER"
+
+# Used for the disguise option Material
+"LILY_OF_THE_VALLEY": "LILY_OF_THE_VALLEY"
+
+# Used for the disguise option Material
+"WITHER_ROSE": "WITHER_ROSE"
+
+# Used for the disguise option Material
+"TORCHFLOWER": "TORCHFLOWER"
+
+# Used for the disguise option Material
+"PITCHER_PLANT": "PITCHER_PLANT"
+
+# Used for the disguise option Material
+"SPORE_BLOSSOM": "SPORE_BLOSSOM"
+
+# Used for the disguise option Material
+"BROWN_MUSHROOM": "BROWN_MUSHROOM"
+
+# Used for the disguise option Material
+"RED_MUSHROOM": "RED_MUSHROOM"
+
+# Used for the disguise option Material
+"CRIMSON_FUNGUS": "CRIMSON_FUNGUS"
+
+# Used for the disguise option Material
+"WARPED_FUNGUS": "WARPED_FUNGUS"
+
+# Used for the disguise option Material
+"CRIMSON_ROOTS": "CRIMSON_ROOTS"
+
+# Used for the disguise option Material
+"WARPED_ROOTS": "WARPED_ROOTS"
+
+# Used for the disguise option Material
+"NETHER_SPROUTS": "NETHER_SPROUTS"
+
+# Used for the disguise option Material
+"WEEPING_VINES": "WEEPING_VINES"
+
+# Used for the disguise option Material
+"TWISTING_VINES": "TWISTING_VINES"
+
+# Used for the disguise option Material
+"SUGAR_CANE": "SUGAR_CANE"
+
+# Used for the disguise option Material
+"KELP": "KELP"
+
+# Used for the disguise option Material
+"MOSS_CARPET": "MOSS_CARPET"
+
+# Used for the disguise option Material
+"PINK_PETALS": "PINK_PETALS"
+
+# Used for the disguise option Material
+"MOSS_BLOCK": "MOSS_BLOCK"
+
+# Used for the disguise option Material
+"HANGING_ROOTS": "HANGING_ROOTS"
+
+# Used for the disguise option Material
+"BIG_DRIPLEAF": "BIG_DRIPLEAF"
+
+# Used for the disguise option Material
+"SMALL_DRIPLEAF": "SMALL_DRIPLEAF"
+
+# Used for the disguise option Material
+"BAMBOO": "BAMBOO"
+
+# Used for the disguise option Material
+"OAK_SLAB": "OAK_SLAB"
+
+# Used for the disguise option Material
+"SPRUCE_SLAB": "SPRUCE_SLAB"
+
+# Used for the disguise option Material
+"BIRCH_SLAB": "BIRCH_SLAB"
+
+# Used for the disguise option Material
+"JUNGLE_SLAB": "JUNGLE_SLAB"
+
+# Used for the disguise option Material
+"ACACIA_SLAB": "ACACIA_SLAB"
+
+# Used for the disguise option Material
+"CHERRY_SLAB": "CHERRY_SLAB"
+
+# Used for the disguise option Material
+"DARK_OAK_SLAB": "DARK_OAK_SLAB"
+
+# Used for the disguise option Material
+"MANGROVE_SLAB": "MANGROVE_SLAB"
+
+# Used for the disguise option Material
+"BAMBOO_SLAB": "BAMBOO_SLAB"
+
+# Used for the disguise option Material
+"BAMBOO_MOSAIC_SLAB": "BAMBOO_MOSAIC_SLAB"
+
+# Used for the disguise option Material
+"CRIMSON_SLAB": "CRIMSON_SLAB"
+
+# Used for the disguise option Material
+"WARPED_SLAB": "WARPED_SLAB"
+
+# Used for the disguise option Material
+"STONE_SLAB": "STONE_SLAB"
+
+# Used for the disguise option Material
+"SMOOTH_STONE_SLAB": "SMOOTH_STONE_SLAB"
+
+# Used for the disguise option Material
+"SANDSTONE_SLAB": "SANDSTONE_SLAB"
+
+# Used for the disguise option Material
+"CUT_SANDSTONE_SLAB": "CUT_SANDSTONE_SLAB"
+
+# Used for the disguise option Material
+"PETRIFIED_OAK_SLAB": "PETRIFIED_OAK_SLAB"
+
+# Used for the disguise option Material
+"COBBLESTONE_SLAB": "COBBLESTONE_SLAB"
+
+# Used for the disguise option Material
+"BRICK_SLAB": "BRICK_SLAB"
+
+# Used for the disguise option Material
+"STONE_BRICK_SLAB": "STONE_BRICK_SLAB"
+
+# Used for the disguise option Material
+"MUD_BRICK_SLAB": "MUD_BRICK_SLAB"
+
+# Used for the disguise option Material
+"NETHER_BRICK_SLAB": "NETHER_BRICK_SLAB"
+
+# Used for the disguise option Material
+"QUARTZ_SLAB": "QUARTZ_SLAB"
+
+# Used for the disguise option Material
+"RED_SANDSTONE_SLAB": "RED_SANDSTONE_SLAB"
+
+# Used for the disguise option Material
+"CUT_RED_SANDSTONE_SLAB": "CUT_RED_SANDSTONE_SLAB"
+
+# Used for the disguise option Material
+"PURPUR_SLAB": "PURPUR_SLAB"
+
+# Used for the disguise option Material
+"PRISMARINE_SLAB": "PRISMARINE_SLAB"
+
+# Used for the disguise option Material
+"PRISMARINE_BRICK_SLAB": "PRISMARINE_BRICK_SLAB"
+
+# Used for the disguise option Material
+"DARK_PRISMARINE_SLAB": "DARK_PRISMARINE_SLAB"
+
+# Used for the disguise option Material
+"SMOOTH_QUARTZ": "SMOOTH_QUARTZ"
+
+# Used for the disguise option Material
+"SMOOTH_RED_SANDSTONE": "SMOOTH_RED_SANDSTONE"
+
+# Used for the disguise option Material
+"SMOOTH_SANDSTONE": "SMOOTH_SANDSTONE"
+
+# Used for the disguise option Material
+"SMOOTH_STONE": "SMOOTH_STONE"
+
+# Used for the disguise option Material
+"BRICKS": "BRICKS"
+
+# Used for the disguise option Material
+"BOOKSHELF": "BOOKSHELF"
+
+# Used for the disguise option Material
+"CHISELED_BOOKSHELF": "CHISELED_BOOKSHELF"
+
+# Used for the disguise option Material
+"DECORATED_POT": "DECORATED_POT"
+
+# Used for the disguise option Material
+"MOSSY_COBBLESTONE": "MOSSY_COBBLESTONE"
+
+# Used for the disguise option Material
+"OBSIDIAN": "OBSIDIAN"
+
+# Used for the disguise option Material
+"TORCH": "TORCH"
+
+# Used for the disguise option Material
+"CHORUS_PLANT": "CHORUS_PLANT"
+
+# Used for the disguise option Material
+"CHORUS_FLOWER": "CHORUS_FLOWER"
+
+# Used for the disguise option Material
+"PURPUR_BLOCK": "PURPUR_BLOCK"
+
+# Used for the disguise option Material
+"PURPUR_PILLAR": "PURPUR_PILLAR"
+
+# Used for the disguise option Material
+"PURPUR_STAIRS": "PURPUR_STAIRS"
+
+# Used for the disguise option Material
+"SPAWNER": "SPAWNER"
+
+# Used for the disguise option Material
+"CHEST": "CHEST"
+
+# Used for the disguise option Material
+"CRAFTING_TABLE": "CRAFTING_TABLE"
+
+# Used for the disguise option Material
+"FARMLAND": "FARMLAND"
+
+# Used for the disguise option Material
+"FURNACE": "FURNACE"
+
+# Used for the disguise option Material
+"LADDER": "LADDER"
+
+# Used for the disguise option Material
+"COBBLESTONE_STAIRS": "COBBLESTONE_STAIRS"
+
+# Used for the disguise option Material
+"ICE": "ICE"
+
+# Used for the disguise option Material
+"SNOW_BLOCK": "SNOW_BLOCK"
+
+# Used for the disguise option Material
+"CACTUS": "CACTUS"
+
+# Used for the disguise option Material
+"CLAY": "CLAY"
+
+# Used for the disguise option Material
+"JUKEBOX": "JUKEBOX"
+
+# Used for the disguise option Material
+"OAK_FENCE": "OAK_FENCE"
+
+# Used for the disguise option Material
+"SPRUCE_FENCE": "SPRUCE_FENCE"
+
+# Used for the disguise option Material
+"BIRCH_FENCE": "BIRCH_FENCE"
+
+# Used for the disguise option Material
+"JUNGLE_FENCE": "JUNGLE_FENCE"
+
+# Used for the disguise option Material
+"ACACIA_FENCE": "ACACIA_FENCE"
+
+# Used for the disguise option Material
+"CHERRY_FENCE": "CHERRY_FENCE"
+
+# Used for the disguise option Material
+"DARK_OAK_FENCE": "DARK_OAK_FENCE"
+
+# Used for the disguise option Material
+"MANGROVE_FENCE": "MANGROVE_FENCE"
+
+# Used for the disguise option Material
+"BAMBOO_FENCE": "BAMBOO_FENCE"
+
+# Used for the disguise option Material
+"CRIMSON_FENCE": "CRIMSON_FENCE"
+
+# Used for the disguise option Material
+"WARPED_FENCE": "WARPED_FENCE"
+
+# Used for the disguise option Material
+"PUMPKIN": "PUMPKIN"
+
+# Used for the disguise option Material
+"CARVED_PUMPKIN": "CARVED_PUMPKIN"
+
+# Used for the disguise option Material
+"JACK_O_LANTERN": "JACK_O_LANTERN"
+
+# Used for the disguise option Material
+"NETHERRACK": "NETHERRACK"
+
+# Used for the disguise option Material
+"SOUL_SAND": "SOUL_SAND"
+
+# Used for the disguise option Material
+"SOUL_SOIL": "SOUL_SOIL"
+
+# Used for the disguise option Material
+"BASALT": "BASALT"
+
+# Used for the disguise option Material
+"POLISHED_BASALT": "POLISHED_BASALT"
+
+# Used for the disguise option Material
+"SMOOTH_BASALT": "SMOOTH_BASALT"
+
+# Used for the disguise option Material
+"SOUL_TORCH": "SOUL_TORCH"
+
+# Used for the disguise option Material
+"GLOWSTONE": "GLOWSTONE"
+
+# Used for the disguise option Material
+"INFESTED_STONE": "INFESTED_STONE"
+
+# Used for the disguise option Material
+"INFESTED_COBBLESTONE": "INFESTED_COBBLESTONE"
+
+# Used for the disguise option Material
+"INFESTED_STONE_BRICKS": "INFESTED_STONE_BRICKS"
+
+# Used for the disguise option Material
+"INFESTED_MOSSY_STONE_BRICKS": "INFESTED_MOSSY_STONE_BRICKS"
+
+# Used for the disguise option Material
+"INFESTED_CRACKED_STONE_BRICKS": "INFESTED_CRACKED_STONE_BRICKS"
+
+# Used for the disguise option Material
+"INFESTED_CHISELED_STONE_BRICKS": "INFESTED_CHISELED_STONE_BRICKS"
+
+# Used for the disguise option Material
+"INFESTED_DEEPSLATE": "INFESTED_DEEPSLATE"
+
+# Used for the disguise option Material
+"STONE_BRICKS": "STONE_BRICKS"
+
+# Used for the disguise option Material
+"MOSSY_STONE_BRICKS": "MOSSY_STONE_BRICKS"
+
+# Used for the disguise option Material
+"CRACKED_STONE_BRICKS": "CRACKED_STONE_BRICKS"
+
+# Used for the disguise option Material
+"CHISELED_STONE_BRICKS": "CHISELED_STONE_BRICKS"
+
+# Used for the disguise option Material
+"PACKED_MUD": "PACKED_MUD"
+
+# Used for the disguise option Material
+"MUD_BRICKS": "MUD_BRICKS"
+
+# Used for the disguise option Material
+"DEEPSLATE_BRICKS": "DEEPSLATE_BRICKS"
+
+# Used for the disguise option Material
+"CRACKED_DEEPSLATE_BRICKS": "CRACKED_DEEPSLATE_BRICKS"
+
+# Used for the disguise option Material
+"DEEPSLATE_TILES": "DEEPSLATE_TILES"
+
+# Used for the disguise option Material
+"CRACKED_DEEPSLATE_TILES": "CRACKED_DEEPSLATE_TILES"
+
+# Used for the disguise option Material
+"CHISELED_DEEPSLATE": "CHISELED_DEEPSLATE"
+
+# Used for the disguise option Material
+"REINFORCED_DEEPSLATE": "REINFORCED_DEEPSLATE"
+
+# Used for the disguise option Material
+"BROWN_MUSHROOM_BLOCK": "BROWN_MUSHROOM_BLOCK"
+
+# Used for the disguise option Material
+"RED_MUSHROOM_BLOCK": "RED_MUSHROOM_BLOCK"
+
+# Used for the disguise option Material
+"MUSHROOM_STEM": "MUSHROOM_STEM"
+
+# Used for the disguise option Material
+"IRON_BARS": "IRON_BARS"
+
+# Used for the disguise option Material
+"CHAIN": "CHAIN"
+
+# Used for the disguise option Material
+"GLASS_PANE": "GLASS_PANE"
+
+# Used for the disguise option Material
+"MELON": "MELON"
+
+# Used for the disguise option Material
+"VINE": "VINE"
+
+# Used for the disguise option Material
+"GLOW_LICHEN": "GLOW_LICHEN"
+
+# Used for the disguise option Material
+"BRICK_STAIRS": "BRICK_STAIRS"
+
+# Used for the disguise option Material
+"STONE_BRICK_STAIRS": "STONE_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"MUD_BRICK_STAIRS": "MUD_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"MYCELIUM": "MYCELIUM"
+
+# Used for the disguise option Material
+"LILY_PAD": "LILY_PAD"
+
+# Used for the disguise option Material
+"NETHER_BRICKS": "NETHER_BRICKS"
+
+# Used for the disguise option Material
+"CRACKED_NETHER_BRICKS": "CRACKED_NETHER_BRICKS"
+
+# Used for the disguise option Material
+"CHISELED_NETHER_BRICKS": "CHISELED_NETHER_BRICKS"
+
+# Used for the disguise option Material
+"NETHER_BRICK_FENCE": "NETHER_BRICK_FENCE"
+
+# Used for the disguise option Material
+"NETHER_BRICK_STAIRS": "NETHER_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"SCULK": "SCULK"
+
+# Used for the disguise option Material
+"SCULK_VEIN": "SCULK_VEIN"
+
+# Used for the disguise option Material
+"SCULK_CATALYST": "SCULK_CATALYST"
+
+# Used for the disguise option Material
+"SCULK_SHRIEKER": "SCULK_SHRIEKER"
+
+# Used for the disguise option Material
+"ENCHANTING_TABLE": "ENCHANTING_TABLE"
+
+# Used for the disguise option Material
+"END_PORTAL_FRAME": "END_PORTAL_FRAME"
+
+# Used for the disguise option Material
+"END_STONE": "END_STONE"
+
+# Used for the disguise option Material
+"END_STONE_BRICKS": "END_STONE_BRICKS"
+
+# Used for the disguise option Material
+"DRAGON_EGG": "DRAGON_EGG"
+
+# Used for the disguise option Material
+"SANDSTONE_STAIRS": "SANDSTONE_STAIRS"
+
+# Used for the disguise option Material
+"ENDER_CHEST": "ENDER_CHEST"
+
+# Used for the disguise option Material
+"EMERALD_BLOCK": "EMERALD_BLOCK"
+
+# Used for the disguise option Material
+"OAK_STAIRS": "OAK_STAIRS"
+
+# Used for the disguise option Material
+"SPRUCE_STAIRS": "SPRUCE_STAIRS"
+
+# Used for the disguise option Material
+"BIRCH_STAIRS": "BIRCH_STAIRS"
+
+# Used for the disguise option Material
+"JUNGLE_STAIRS": "JUNGLE_STAIRS"
+
+# Used for the disguise option Material
+"ACACIA_STAIRS": "ACACIA_STAIRS"
+
+# Used for the disguise option Material
+"CHERRY_STAIRS": "CHERRY_STAIRS"
+
+# Used for the disguise option Material
+"DARK_OAK_STAIRS": "DARK_OAK_STAIRS"
+
+# Used for the disguise option Material
+"MANGROVE_STAIRS": "MANGROVE_STAIRS"
+
+# Used for the disguise option Material
+"BAMBOO_STAIRS": "BAMBOO_STAIRS"
+
+# Used for the disguise option Material
+"BAMBOO_MOSAIC_STAIRS": "BAMBOO_MOSAIC_STAIRS"
+
+# Used for the disguise option Material
+"CRIMSON_STAIRS": "CRIMSON_STAIRS"
+
+# Used for the disguise option Material
+"WARPED_STAIRS": "WARPED_STAIRS"
+
+# Used for the disguise option Material
+"COMMAND_BLOCK": "COMMAND_BLOCK"
+
+# Used for the disguise option Material
+"BEACON": "BEACON"
+
+# Used for the disguise option Material
+"COBBLESTONE_WALL": "COBBLESTONE_WALL"
+
+# Used for the disguise option Material
+"MOSSY_COBBLESTONE_WALL": "MOSSY_COBBLESTONE_WALL"
+
+# Used for the disguise option Material
+"BRICK_WALL": "BRICK_WALL"
+
+# Used for the disguise option Material
+"PRISMARINE_WALL": "PRISMARINE_WALL"
+
+# Used for the disguise option Material
+"RED_SANDSTONE_WALL": "RED_SANDSTONE_WALL"
+
+# Used for the disguise option Material
+"MOSSY_STONE_BRICK_WALL": "MOSSY_STONE_BRICK_WALL"
+
+# Used for the disguise option Material
+"GRANITE_WALL": "GRANITE_WALL"
+
+# Used for the disguise option Material
+"STONE_BRICK_WALL": "STONE_BRICK_WALL"
+
+# Used for the disguise option Material
+"MUD_BRICK_WALL": "MUD_BRICK_WALL"
+
+# Used for the disguise option Material
+"NETHER_BRICK_WALL": "NETHER_BRICK_WALL"
+
+# Used for the disguise option Material
+"ANDESITE_WALL": "ANDESITE_WALL"
+
+# Used for the disguise option Material
+"RED_NETHER_BRICK_WALL": "RED_NETHER_BRICK_WALL"
+
+# Used for the disguise option Material
+"SANDSTONE_WALL": "SANDSTONE_WALL"
+
+# Used for the disguise option Material
+"END_STONE_BRICK_WALL": "END_STONE_BRICK_WALL"
+
+# Used for the disguise option Material
+"DIORITE_WALL": "DIORITE_WALL"
+
+# Used for the disguise option Material
+"BLACKSTONE_WALL": "BLACKSTONE_WALL"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_WALL": "POLISHED_BLACKSTONE_WALL"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_BRICK_WALL": "POLISHED_BLACKSTONE_BRICK_WALL"
+
+# Used for the disguise option Material
+"COBBLED_DEEPSLATE_WALL": "COBBLED_DEEPSLATE_WALL"
+
+# Used for the disguise option Material
+"POLISHED_DEEPSLATE_WALL": "POLISHED_DEEPSLATE_WALL"
+
+# Used for the disguise option Material
+"DEEPSLATE_BRICK_WALL": "DEEPSLATE_BRICK_WALL"
+
+# Used for the disguise option Material
+"DEEPSLATE_TILE_WALL": "DEEPSLATE_TILE_WALL"
+
+# Used for the disguise option Material
+"ANVIL": "ANVIL"
+
+# Used for the disguise option Material
+"CHIPPED_ANVIL": "CHIPPED_ANVIL"
+
+# Used for the disguise option Material
+"DAMAGED_ANVIL": "DAMAGED_ANVIL"
+
+# Used for the disguise option Material
+"CHISELED_QUARTZ_BLOCK": "CHISELED_QUARTZ_BLOCK"
+
+# Used for the disguise option Material
+"QUARTZ_BLOCK": "QUARTZ_BLOCK"
+
+# Used for the disguise option Material
+"QUARTZ_BRICKS": "QUARTZ_BRICKS"
+
+# Used for the disguise option Material
+"QUARTZ_PILLAR": "QUARTZ_PILLAR"
+
+# Used for the disguise option Material
+"QUARTZ_STAIRS": "QUARTZ_STAIRS"
+
+# Used for the disguise option Material
+"WHITE_TERRACOTTA": "WHITE_TERRACOTTA"
+
+# Used for the disguise option Material
+"ORANGE_TERRACOTTA": "ORANGE_TERRACOTTA"
+
+# Used for the disguise option Material
+"MAGENTA_TERRACOTTA": "MAGENTA_TERRACOTTA"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_TERRACOTTA": "LIGHT_BLUE_TERRACOTTA"
+
+# Used for the disguise option Material
+"YELLOW_TERRACOTTA": "YELLOW_TERRACOTTA"
+
+# Used for the disguise option Material
+"LIME_TERRACOTTA": "LIME_TERRACOTTA"
+
+# Used for the disguise option Material
+"PINK_TERRACOTTA": "PINK_TERRACOTTA"
+
+# Used for the disguise option Material
+"GRAY_TERRACOTTA": "GRAY_TERRACOTTA"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_TERRACOTTA": "LIGHT_GRAY_TERRACOTTA"
+
+# Used for the disguise option Material
+"CYAN_TERRACOTTA": "CYAN_TERRACOTTA"
+
+# Used for the disguise option Material
+"PURPLE_TERRACOTTA": "PURPLE_TERRACOTTA"
+
+# Used for the disguise option Material
+"BLUE_TERRACOTTA": "BLUE_TERRACOTTA"
+
+# Used for the disguise option Material
+"BROWN_TERRACOTTA": "BROWN_TERRACOTTA"
+
+# Used for the disguise option Material
+"GREEN_TERRACOTTA": "GREEN_TERRACOTTA"
+
+# Used for the disguise option Material
+"RED_TERRACOTTA": "RED_TERRACOTTA"
+
+# Used for the disguise option Material
+"BLACK_TERRACOTTA": "BLACK_TERRACOTTA"
+
+# Used for the disguise option Material
+"BARRIER": "BARRIER"
+
+# Used for the disguise option Material
+"LIGHT": "LIGHT"
+
+# Used for the disguise option Material
+"HAY_BLOCK": "HAY_BLOCK"
+
+# Used for the disguise option Material
+"WHITE_CARPET": "WHITE_CARPET"
+
+# Used for the disguise option Material
+"ORANGE_CARPET": "ORANGE_CARPET"
+
+# Used for the disguise option Material
+"MAGENTA_CARPET": "MAGENTA_CARPET"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_CARPET": "LIGHT_BLUE_CARPET"
+
+# Used for the disguise option Material
+"YELLOW_CARPET": "YELLOW_CARPET"
+
+# Used for the disguise option Material
+"LIME_CARPET": "LIME_CARPET"
+
+# Used for the disguise option Material
+"PINK_CARPET": "PINK_CARPET"
+
+# Used for the disguise option Material
+"GRAY_CARPET": "GRAY_CARPET"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_CARPET": "LIGHT_GRAY_CARPET"
+
+# Used for the disguise option Material
+"CYAN_CARPET": "CYAN_CARPET"
+
+# Used for the disguise option Material
+"PURPLE_CARPET": "PURPLE_CARPET"
+
+# Used for the disguise option Material
+"BLUE_CARPET": "BLUE_CARPET"
+
+# Used for the disguise option Material
+"BROWN_CARPET": "BROWN_CARPET"
+
+# Used for the disguise option Material
+"GREEN_CARPET": "GREEN_CARPET"
+
+# Used for the disguise option Material
+"RED_CARPET": "RED_CARPET"
+
+# Used for the disguise option Material
+"BLACK_CARPET": "BLACK_CARPET"
+
+# Used for the disguise option Material
+"TERRACOTTA": "TERRACOTTA"
+
+# Used for the disguise option Material
+"PACKED_ICE": "PACKED_ICE"
+
+# Used for the disguise option Material
+"DIRT_PATH": "DIRT_PATH"
+
+# Used for the disguise option Material
+"SUNFLOWER": "SUNFLOWER"
+
+# Used for the disguise option Material
+"LILAC": "LILAC"
+
+# Used for the disguise option Material
+"ROSE_BUSH": "ROSE_BUSH"
+
+# Used for the disguise option Material
+"PEONY": "PEONY"
+
+# Used for the disguise option Material
+"TALL_GRASS": "TALL_GRASS"
+
+# Used for the disguise option Material
+"LARGE_FERN": "LARGE_FERN"
+
+# Used for the disguise option Material
+"WHITE_STAINED_GLASS": "WHITE_STAINED_GLASS"
+
+# Used for the disguise option Material
+"ORANGE_STAINED_GLASS": "ORANGE_STAINED_GLASS"
+
+# Used for the disguise option Material
+"MAGENTA_STAINED_GLASS": "MAGENTA_STAINED_GLASS"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_STAINED_GLASS": "LIGHT_BLUE_STAINED_GLASS"
+
+# Used for the disguise option Material
+"YELLOW_STAINED_GLASS": "YELLOW_STAINED_GLASS"
+
+# Used for the disguise option Material
+"LIME_STAINED_GLASS": "LIME_STAINED_GLASS"
+
+# Used for the disguise option Material
+"PINK_STAINED_GLASS": "PINK_STAINED_GLASS"
+
+# Used for the disguise option Material
+"GRAY_STAINED_GLASS": "GRAY_STAINED_GLASS"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_STAINED_GLASS": "LIGHT_GRAY_STAINED_GLASS"
+
+# Used for the disguise option Material
+"CYAN_STAINED_GLASS": "CYAN_STAINED_GLASS"
+
+# Used for the disguise option Material
+"PURPLE_STAINED_GLASS": "PURPLE_STAINED_GLASS"
+
+# Used for the disguise option Material
+"BLUE_STAINED_GLASS": "BLUE_STAINED_GLASS"
+
+# Used for the disguise option Material
+"BROWN_STAINED_GLASS": "BROWN_STAINED_GLASS"
+
+# Used for the disguise option Material
+"GREEN_STAINED_GLASS": "GREEN_STAINED_GLASS"
+
+# Used for the disguise option Material
+"RED_STAINED_GLASS": "RED_STAINED_GLASS"
+
+# Used for the disguise option Material
+"BLACK_STAINED_GLASS": "BLACK_STAINED_GLASS"
+
+# Used for the disguise option Material
+"WHITE_STAINED_GLASS_PANE": "WHITE_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"ORANGE_STAINED_GLASS_PANE": "ORANGE_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"MAGENTA_STAINED_GLASS_PANE": "MAGENTA_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_STAINED_GLASS_PANE": "LIGHT_BLUE_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"YELLOW_STAINED_GLASS_PANE": "YELLOW_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"LIME_STAINED_GLASS_PANE": "LIME_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"PINK_STAINED_GLASS_PANE": "PINK_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"GRAY_STAINED_GLASS_PANE": "GRAY_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_STAINED_GLASS_PANE": "LIGHT_GRAY_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"CYAN_STAINED_GLASS_PANE": "CYAN_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"PURPLE_STAINED_GLASS_PANE": "PURPLE_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"BLUE_STAINED_GLASS_PANE": "BLUE_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"BROWN_STAINED_GLASS_PANE": "BROWN_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"GREEN_STAINED_GLASS_PANE": "GREEN_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"RED_STAINED_GLASS_PANE": "RED_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"BLACK_STAINED_GLASS_PANE": "BLACK_STAINED_GLASS_PANE"
+
+# Used for the disguise option Material
+"PRISMARINE": "PRISMARINE"
+
+# Used for the disguise option Material
+"PRISMARINE_BRICKS": "PRISMARINE_BRICKS"
+
+# Used for the disguise option Material
+"DARK_PRISMARINE": "DARK_PRISMARINE"
+
+# Used for the disguise option Material
+"PRISMARINE_STAIRS": "PRISMARINE_STAIRS"
+
+# Used for the disguise option Material
+"PRISMARINE_BRICK_STAIRS": "PRISMARINE_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"DARK_PRISMARINE_STAIRS": "DARK_PRISMARINE_STAIRS"
+
+# Used for the disguise option Material
+"SEA_LANTERN": "SEA_LANTERN"
+
+# Used for the disguise option Material
+"RED_SANDSTONE": "RED_SANDSTONE"
+
+# Used for the disguise option Material
+"CHISELED_RED_SANDSTONE": "CHISELED_RED_SANDSTONE"
+
+# Used for the disguise option Material
+"CUT_RED_SANDSTONE": "CUT_RED_SANDSTONE"
+
+# Used for the disguise option Material
+"RED_SANDSTONE_STAIRS": "RED_SANDSTONE_STAIRS"
+
+# Used for the disguise option Material
+"REPEATING_COMMAND_BLOCK": "REPEATING_COMMAND_BLOCK"
+
+# Used for the disguise option Material
+"CHAIN_COMMAND_BLOCK": "CHAIN_COMMAND_BLOCK"
+
+# Used for the disguise option Material
+"MAGMA_BLOCK": "MAGMA_BLOCK"
+
+# Used for the disguise option Material
+"NETHER_WART_BLOCK": "NETHER_WART_BLOCK"
+
+# Used for the disguise option Material
+"WARPED_WART_BLOCK": "WARPED_WART_BLOCK"
+
+# Used for the disguise option Material
+"RED_NETHER_BRICKS": "RED_NETHER_BRICKS"
+
+# Used for the disguise option Material
+"BONE_BLOCK": "BONE_BLOCK"
+
+# Used for the disguise option Material
+"STRUCTURE_VOID": "STRUCTURE_VOID"
+
+# Used for the disguise option Material
+"SHULKER_BOX": "SHULKER_BOX"
+
+# Used for the disguise option Material
+"WHITE_SHULKER_BOX": "WHITE_SHULKER_BOX"
+
+# Used for the disguise option Material
+"ORANGE_SHULKER_BOX": "ORANGE_SHULKER_BOX"
+
+# Used for the disguise option Material
+"MAGENTA_SHULKER_BOX": "MAGENTA_SHULKER_BOX"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_SHULKER_BOX": "LIGHT_BLUE_SHULKER_BOX"
+
+# Used for the disguise option Material
+"YELLOW_SHULKER_BOX": "YELLOW_SHULKER_BOX"
+
+# Used for the disguise option Material
+"LIME_SHULKER_BOX": "LIME_SHULKER_BOX"
+
+# Used for the disguise option Material
+"PINK_SHULKER_BOX": "PINK_SHULKER_BOX"
+
+# Used for the disguise option Material
+"GRAY_SHULKER_BOX": "GRAY_SHULKER_BOX"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_SHULKER_BOX": "LIGHT_GRAY_SHULKER_BOX"
+
+# Used for the disguise option Material
+"CYAN_SHULKER_BOX": "CYAN_SHULKER_BOX"
+
+# Used for the disguise option Material
+"PURPLE_SHULKER_BOX": "PURPLE_SHULKER_BOX"
+
+# Used for the disguise option Material
+"BLUE_SHULKER_BOX": "BLUE_SHULKER_BOX"
+
+# Used for the disguise option Material
+"BROWN_SHULKER_BOX": "BROWN_SHULKER_BOX"
+
+# Used for the disguise option Material
+"GREEN_SHULKER_BOX": "GREEN_SHULKER_BOX"
+
+# Used for the disguise option Material
+"RED_SHULKER_BOX": "RED_SHULKER_BOX"
+
+# Used for the disguise option Material
+"BLACK_SHULKER_BOX": "BLACK_SHULKER_BOX"
+
+# Used for the disguise option Material
+"WHITE_GLAZED_TERRACOTTA": "WHITE_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"ORANGE_GLAZED_TERRACOTTA": "ORANGE_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"MAGENTA_GLAZED_TERRACOTTA": "MAGENTA_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_GLAZED_TERRACOTTA": "LIGHT_BLUE_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"YELLOW_GLAZED_TERRACOTTA": "YELLOW_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"LIME_GLAZED_TERRACOTTA": "LIME_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"PINK_GLAZED_TERRACOTTA": "PINK_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"GRAY_GLAZED_TERRACOTTA": "GRAY_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_GLAZED_TERRACOTTA": "LIGHT_GRAY_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"CYAN_GLAZED_TERRACOTTA": "CYAN_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"PURPLE_GLAZED_TERRACOTTA": "PURPLE_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"BLUE_GLAZED_TERRACOTTA": "BLUE_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"BROWN_GLAZED_TERRACOTTA": "BROWN_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"GREEN_GLAZED_TERRACOTTA": "GREEN_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"RED_GLAZED_TERRACOTTA": "RED_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"BLACK_GLAZED_TERRACOTTA": "BLACK_GLAZED_TERRACOTTA"
+
+# Used for the disguise option Material
+"WHITE_CONCRETE": "WHITE_CONCRETE"
+
+# Used for the disguise option Material
+"ORANGE_CONCRETE": "ORANGE_CONCRETE"
+
+# Used for the disguise option Material
+"MAGENTA_CONCRETE": "MAGENTA_CONCRETE"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_CONCRETE": "LIGHT_BLUE_CONCRETE"
+
+# Used for the disguise option Material
+"YELLOW_CONCRETE": "YELLOW_CONCRETE"
+
+# Used for the disguise option Material
+"LIME_CONCRETE": "LIME_CONCRETE"
+
+# Used for the disguise option Material
+"PINK_CONCRETE": "PINK_CONCRETE"
+
+# Used for the disguise option Material
+"GRAY_CONCRETE": "GRAY_CONCRETE"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_CONCRETE": "LIGHT_GRAY_CONCRETE"
+
+# Used for the disguise option Material
+"CYAN_CONCRETE": "CYAN_CONCRETE"
+
+# Used for the disguise option Material
+"PURPLE_CONCRETE": "PURPLE_CONCRETE"
+
+# Used for the disguise option Material
+"BLUE_CONCRETE": "BLUE_CONCRETE"
+
+# Used for the disguise option Material
+"BROWN_CONCRETE": "BROWN_CONCRETE"
+
+# Used for the disguise option Material
+"GREEN_CONCRETE": "GREEN_CONCRETE"
+
+# Used for the disguise option Material
+"RED_CONCRETE": "RED_CONCRETE"
+
+# Used for the disguise option Material
+"BLACK_CONCRETE": "BLACK_CONCRETE"
+
+# Used for the disguise option Material
+"WHITE_CONCRETE_POWDER": "WHITE_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"ORANGE_CONCRETE_POWDER": "ORANGE_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"MAGENTA_CONCRETE_POWDER": "MAGENTA_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_CONCRETE_POWDER": "LIGHT_BLUE_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"YELLOW_CONCRETE_POWDER": "YELLOW_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"LIME_CONCRETE_POWDER": "LIME_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"PINK_CONCRETE_POWDER": "PINK_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"GRAY_CONCRETE_POWDER": "GRAY_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_CONCRETE_POWDER": "LIGHT_GRAY_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"CYAN_CONCRETE_POWDER": "CYAN_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"PURPLE_CONCRETE_POWDER": "PURPLE_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"BLUE_CONCRETE_POWDER": "BLUE_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"BROWN_CONCRETE_POWDER": "BROWN_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"GREEN_CONCRETE_POWDER": "GREEN_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"RED_CONCRETE_POWDER": "RED_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"BLACK_CONCRETE_POWDER": "BLACK_CONCRETE_POWDER"
+
+# Used for the disguise option Material
+"TURTLE_EGG": "TURTLE_EGG"
+
+# Used for the disguise option Material
+"SNIFFER_EGG": "SNIFFER_EGG"
+
+# Used for the disguise option Material
+"DEAD_TUBE_CORAL_BLOCK": "DEAD_TUBE_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"DEAD_BRAIN_CORAL_BLOCK": "DEAD_BRAIN_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"DEAD_BUBBLE_CORAL_BLOCK": "DEAD_BUBBLE_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"DEAD_FIRE_CORAL_BLOCK": "DEAD_FIRE_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"DEAD_HORN_CORAL_BLOCK": "DEAD_HORN_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"TUBE_CORAL_BLOCK": "TUBE_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"BRAIN_CORAL_BLOCK": "BRAIN_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"BUBBLE_CORAL_BLOCK": "BUBBLE_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"FIRE_CORAL_BLOCK": "FIRE_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"HORN_CORAL_BLOCK": "HORN_CORAL_BLOCK"
+
+# Used for the disguise option Material
+"TUBE_CORAL": "TUBE_CORAL"
+
+# Used for the disguise option Material
+"BRAIN_CORAL": "BRAIN_CORAL"
+
+# Used for the disguise option Material
+"BUBBLE_CORAL": "BUBBLE_CORAL"
+
+# Used for the disguise option Material
+"FIRE_CORAL": "FIRE_CORAL"
+
+# Used for the disguise option Material
+"HORN_CORAL": "HORN_CORAL"
+
+# Used for the disguise option Material
+"DEAD_BRAIN_CORAL": "DEAD_BRAIN_CORAL"
+
+# Used for the disguise option Material
+"DEAD_BUBBLE_CORAL": "DEAD_BUBBLE_CORAL"
+
+# Used for the disguise option Material
+"DEAD_FIRE_CORAL": "DEAD_FIRE_CORAL"
+
+# Used for the disguise option Material
+"DEAD_HORN_CORAL": "DEAD_HORN_CORAL"
+
+# Used for the disguise option Material
+"DEAD_TUBE_CORAL": "DEAD_TUBE_CORAL"
+
+# Used for the disguise option Material
+"TUBE_CORAL_FAN": "TUBE_CORAL_FAN"
+
+# Used for the disguise option Material
+"BRAIN_CORAL_FAN": "BRAIN_CORAL_FAN"
+
+# Used for the disguise option Material
+"BUBBLE_CORAL_FAN": "BUBBLE_CORAL_FAN"
+
+# Used for the disguise option Material
+"FIRE_CORAL_FAN": "FIRE_CORAL_FAN"
+
+# Used for the disguise option Material
+"HORN_CORAL_FAN": "HORN_CORAL_FAN"
+
+# Used for the disguise option Material
+"DEAD_TUBE_CORAL_FAN": "DEAD_TUBE_CORAL_FAN"
+
+# Used for the disguise option Material
+"DEAD_BRAIN_CORAL_FAN": "DEAD_BRAIN_CORAL_FAN"
+
+# Used for the disguise option Material
+"DEAD_BUBBLE_CORAL_FAN": "DEAD_BUBBLE_CORAL_FAN"
+
+# Used for the disguise option Material
+"DEAD_FIRE_CORAL_FAN": "DEAD_FIRE_CORAL_FAN"
+
+# Used for the disguise option Material
+"DEAD_HORN_CORAL_FAN": "DEAD_HORN_CORAL_FAN"
+
+# Used for the disguise option Material
+"BLUE_ICE": "BLUE_ICE"
+
+# Used for the disguise option Material
+"CONDUIT": "CONDUIT"
+
+# Used for the disguise option Material
+"POLISHED_GRANITE_STAIRS": "POLISHED_GRANITE_STAIRS"
+
+# Used for the disguise option Material
+"SMOOTH_RED_SANDSTONE_STAIRS": "SMOOTH_RED_SANDSTONE_STAIRS"
+
+# Used for the disguise option Material
+"MOSSY_STONE_BRICK_STAIRS": "MOSSY_STONE_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"POLISHED_DIORITE_STAIRS": "POLISHED_DIORITE_STAIRS"
+
+# Used for the disguise option Material
+"MOSSY_COBBLESTONE_STAIRS": "MOSSY_COBBLESTONE_STAIRS"
+
+# Used for the disguise option Material
+"END_STONE_BRICK_STAIRS": "END_STONE_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"STONE_STAIRS": "STONE_STAIRS"
+
+# Used for the disguise option Material
+"SMOOTH_SANDSTONE_STAIRS": "SMOOTH_SANDSTONE_STAIRS"
+
+# Used for the disguise option Material
+"SMOOTH_QUARTZ_STAIRS": "SMOOTH_QUARTZ_STAIRS"
+
+# Used for the disguise option Material
+"GRANITE_STAIRS": "GRANITE_STAIRS"
+
+# Used for the disguise option Material
+"ANDESITE_STAIRS": "ANDESITE_STAIRS"
+
+# Used for the disguise option Material
+"RED_NETHER_BRICK_STAIRS": "RED_NETHER_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"POLISHED_ANDESITE_STAIRS": "POLISHED_ANDESITE_STAIRS"
+
+# Used for the disguise option Material
+"DIORITE_STAIRS": "DIORITE_STAIRS"
+
+# Used for the disguise option Material
+"COBBLED_DEEPSLATE_STAIRS": "COBBLED_DEEPSLATE_STAIRS"
+
+# Used for the disguise option Material
+"POLISHED_DEEPSLATE_STAIRS": "POLISHED_DEEPSLATE_STAIRS"
+
+# Used for the disguise option Material
+"DEEPSLATE_BRICK_STAIRS": "DEEPSLATE_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"DEEPSLATE_TILE_STAIRS": "DEEPSLATE_TILE_STAIRS"
+
+# Used for the disguise option Material
+"POLISHED_GRANITE_SLAB": "POLISHED_GRANITE_SLAB"
+
+# Used for the disguise option Material
+"SMOOTH_RED_SANDSTONE_SLAB": "SMOOTH_RED_SANDSTONE_SLAB"
+
+# Used for the disguise option Material
+"MOSSY_STONE_BRICK_SLAB": "MOSSY_STONE_BRICK_SLAB"
+
+# Used for the disguise option Material
+"POLISHED_DIORITE_SLAB": "POLISHED_DIORITE_SLAB"
+
+# Used for the disguise option Material
+"MOSSY_COBBLESTONE_SLAB": "MOSSY_COBBLESTONE_SLAB"
+
+# Used for the disguise option Material
+"END_STONE_BRICK_SLAB": "END_STONE_BRICK_SLAB"
+
+# Used for the disguise option Material
+"SMOOTH_SANDSTONE_SLAB": "SMOOTH_SANDSTONE_SLAB"
+
+# Used for the disguise option Material
+"SMOOTH_QUARTZ_SLAB": "SMOOTH_QUARTZ_SLAB"
+
+# Used for the disguise option Material
+"GRANITE_SLAB": "GRANITE_SLAB"
+
+# Used for the disguise option Material
+"ANDESITE_SLAB": "ANDESITE_SLAB"
+
+# Used for the disguise option Material
+"RED_NETHER_BRICK_SLAB": "RED_NETHER_BRICK_SLAB"
+
+# Used for the disguise option Material
+"POLISHED_ANDESITE_SLAB": "POLISHED_ANDESITE_SLAB"
+
+# Used for the disguise option Material
+"DIORITE_SLAB": "DIORITE_SLAB"
+
+# Used for the disguise option Material
+"COBBLED_DEEPSLATE_SLAB": "COBBLED_DEEPSLATE_SLAB"
+
+# Used for the disguise option Material
+"POLISHED_DEEPSLATE_SLAB": "POLISHED_DEEPSLATE_SLAB"
+
+# Used for the disguise option Material
+"DEEPSLATE_BRICK_SLAB": "DEEPSLATE_BRICK_SLAB"
+
+# Used for the disguise option Material
+"DEEPSLATE_TILE_SLAB": "DEEPSLATE_TILE_SLAB"
+
+# Used for the disguise option Material
+"SCAFFOLDING": "SCAFFOLDING"
+
+# Used for the disguise option Material
+"REDSTONE_TORCH": "REDSTONE_TORCH"
+
+# Used for the disguise option Material
+"REDSTONE_BLOCK": "REDSTONE_BLOCK"
+
+# Used for the disguise option Material
+"REPEATER": "REPEATER"
+
+# Used for the disguise option Material
+"COMPARATOR": "COMPARATOR"
+
+# Used for the disguise option Material
+"PISTON": "PISTON"
+
+# Used for the disguise option Material
+"STICKY_PISTON": "STICKY_PISTON"
+
+# Used for the disguise option Material
+"SLIME_BLOCK": "SLIME_BLOCK"
+
+# Used for the disguise option Material
+"HONEY_BLOCK": "HONEY_BLOCK"
+
+# Used for the disguise option Material
+"OBSERVER": "OBSERVER"
+
+# Used for the disguise option Material
+"HOPPER": "HOPPER"
+
+# Used for the disguise option Material
+"DISPENSER": "DISPENSER"
+
+# Used for the disguise option Material
+"DROPPER": "DROPPER"
+
+# Used for the disguise option Material
+"LECTERN": "LECTERN"
+
+# Used for the disguise option Material
+"TARGET": "TARGET"
+
+# Used for the disguise option Material
+"LEVER": "LEVER"
+
+# Used for the disguise option Material
+"LIGHTNING_ROD": "LIGHTNING_ROD"
+
+# Used for the disguise option Material
+"DAYLIGHT_DETECTOR": "DAYLIGHT_DETECTOR"
+
+# Used for the disguise option Material
+"SCULK_SENSOR": "SCULK_SENSOR"
+
+# Used for the disguise option Material
+"CALIBRATED_SCULK_SENSOR": "CALIBRATED_SCULK_SENSOR"
+
+# Used for the disguise option Material
+"TRIPWIRE_HOOK": "TRIPWIRE_HOOK"
+
+# Used for the disguise option Material
+"TRAPPED_CHEST": "TRAPPED_CHEST"
+
+# Used for the disguise option Material
+"TNT": "TNT"
+
+# Used for the disguise option Material
+"REDSTONE_LAMP": "REDSTONE_LAMP"
+
+# Used for the disguise option Material
+"NOTE_BLOCK": "NOTE_BLOCK"
+
+# Used for the disguise option Material
+"STONE_BUTTON": "STONE_BUTTON"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_BUTTON": "POLISHED_BLACKSTONE_BUTTON"
+
+# Used for the disguise option Material
+"OAK_BUTTON": "OAK_BUTTON"
+
+# Used for the disguise option Material
+"SPRUCE_BUTTON": "SPRUCE_BUTTON"
+
+# Used for the disguise option Material
+"BIRCH_BUTTON": "BIRCH_BUTTON"
+
+# Used for the disguise option Material
+"JUNGLE_BUTTON": "JUNGLE_BUTTON"
+
+# Used for the disguise option Material
+"ACACIA_BUTTON": "ACACIA_BUTTON"
+
+# Used for the disguise option Material
+"CHERRY_BUTTON": "CHERRY_BUTTON"
+
+# Used for the disguise option Material
+"DARK_OAK_BUTTON": "DARK_OAK_BUTTON"
+
+# Used for the disguise option Material
+"MANGROVE_BUTTON": "MANGROVE_BUTTON"
+
+# Used for the disguise option Material
+"BAMBOO_BUTTON": "BAMBOO_BUTTON"
+
+# Used for the disguise option Material
+"CRIMSON_BUTTON": "CRIMSON_BUTTON"
+
+# Used for the disguise option Material
+"WARPED_BUTTON": "WARPED_BUTTON"
+
+# Used for the disguise option Material
+"STONE_PRESSURE_PLATE": "STONE_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_PRESSURE_PLATE": "POLISHED_BLACKSTONE_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"LIGHT_WEIGHTED_PRESSURE_PLATE": "LIGHT_WEIGHTED_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"HEAVY_WEIGHTED_PRESSURE_PLATE": "HEAVY_WEIGHTED_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"OAK_PRESSURE_PLATE": "OAK_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"SPRUCE_PRESSURE_PLATE": "SPRUCE_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"BIRCH_PRESSURE_PLATE": "BIRCH_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"JUNGLE_PRESSURE_PLATE": "JUNGLE_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"ACACIA_PRESSURE_PLATE": "ACACIA_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"CHERRY_PRESSURE_PLATE": "CHERRY_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"DARK_OAK_PRESSURE_PLATE": "DARK_OAK_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"MANGROVE_PRESSURE_PLATE": "MANGROVE_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"BAMBOO_PRESSURE_PLATE": "BAMBOO_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"CRIMSON_PRESSURE_PLATE": "CRIMSON_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"WARPED_PRESSURE_PLATE": "WARPED_PRESSURE_PLATE"
+
+# Used for the disguise option Material
+"IRON_DOOR": "IRON_DOOR"
+
+# Used for the disguise option Material
+"OAK_DOOR": "OAK_DOOR"
+
+# Used for the disguise option Material
+"SPRUCE_DOOR": "SPRUCE_DOOR"
+
+# Used for the disguise option Material
+"BIRCH_DOOR": "BIRCH_DOOR"
+
+# Used for the disguise option Material
+"JUNGLE_DOOR": "JUNGLE_DOOR"
+
+# Used for the disguise option Material
+"ACACIA_DOOR": "ACACIA_DOOR"
+
+# Used for the disguise option Material
+"CHERRY_DOOR": "CHERRY_DOOR"
+
+# Used for the disguise option Material
+"DARK_OAK_DOOR": "DARK_OAK_DOOR"
+
+# Used for the disguise option Material
+"MANGROVE_DOOR": "MANGROVE_DOOR"
+
+# Used for the disguise option Material
+"BAMBOO_DOOR": "BAMBOO_DOOR"
+
+# Used for the disguise option Material
+"CRIMSON_DOOR": "CRIMSON_DOOR"
+
+# Used for the disguise option Material
+"WARPED_DOOR": "WARPED_DOOR"
+
+# Used for the disguise option Material
+"IRON_TRAPDOOR": "IRON_TRAPDOOR"
+
+# Used for the disguise option Material
+"OAK_TRAPDOOR": "OAK_TRAPDOOR"
+
+# Used for the disguise option Material
+"SPRUCE_TRAPDOOR": "SPRUCE_TRAPDOOR"
+
+# Used for the disguise option Material
+"BIRCH_TRAPDOOR": "BIRCH_TRAPDOOR"
+
+# Used for the disguise option Material
+"JUNGLE_TRAPDOOR": "JUNGLE_TRAPDOOR"
+
+# Used for the disguise option Material
+"ACACIA_TRAPDOOR": "ACACIA_TRAPDOOR"
+
+# Used for the disguise option Material
+"CHERRY_TRAPDOOR": "CHERRY_TRAPDOOR"
+
+# Used for the disguise option Material
+"DARK_OAK_TRAPDOOR": "DARK_OAK_TRAPDOOR"
+
+# Used for the disguise option Material
+"MANGROVE_TRAPDOOR": "MANGROVE_TRAPDOOR"
+
+# Used for the disguise option Material
+"BAMBOO_TRAPDOOR": "BAMBOO_TRAPDOOR"
+
+# Used for the disguise option Material
+"CRIMSON_TRAPDOOR": "CRIMSON_TRAPDOOR"
+
+# Used for the disguise option Material
+"WARPED_TRAPDOOR": "WARPED_TRAPDOOR"
+
+# Used for the disguise option Material
+"OAK_FENCE_GATE": "OAK_FENCE_GATE"
+
+# Used for the disguise option Material
+"SPRUCE_FENCE_GATE": "SPRUCE_FENCE_GATE"
+
+# Used for the disguise option Material
+"BIRCH_FENCE_GATE": "BIRCH_FENCE_GATE"
+
+# Used for the disguise option Material
+"JUNGLE_FENCE_GATE": "JUNGLE_FENCE_GATE"
+
+# Used for the disguise option Material
+"ACACIA_FENCE_GATE": "ACACIA_FENCE_GATE"
+
+# Used for the disguise option Material
+"CHERRY_FENCE_GATE": "CHERRY_FENCE_GATE"
+
+# Used for the disguise option Material
+"DARK_OAK_FENCE_GATE": "DARK_OAK_FENCE_GATE"
+
+# Used for the disguise option Material
+"MANGROVE_FENCE_GATE": "MANGROVE_FENCE_GATE"
+
+# Used for the disguise option Material
+"BAMBOO_FENCE_GATE": "BAMBOO_FENCE_GATE"
+
+# Used for the disguise option Material
+"CRIMSON_FENCE_GATE": "CRIMSON_FENCE_GATE"
+
+# Used for the disguise option Material
+"WARPED_FENCE_GATE": "WARPED_FENCE_GATE"
+
+# Used for the disguise option Material
+"POWERED_RAIL": "POWERED_RAIL"
+
+# Used for the disguise option Material
+"DETECTOR_RAIL": "DETECTOR_RAIL"
+
+# Used for the disguise option Material
+"RAIL": "RAIL"
+
+# Used for the disguise option Material
+"ACTIVATOR_RAIL": "ACTIVATOR_RAIL"
+
+# Used for the disguise option Material
+"SADDLE": "SADDLE"
+
+# Used for the disguise option Material
+"MINECART": "MINECART"
+
+# Used for the disguise option Material
+"CHEST_MINECART": "CHEST_MINECART"
+
+# Used for the disguise option Material
+"FURNACE_MINECART": "FURNACE_MINECART"
+
+# Used for the disguise option Material
+"TNT_MINECART": "TNT_MINECART"
+
+# Used for the disguise option Material
+"HOPPER_MINECART": "HOPPER_MINECART"
+
+# Used for the disguise option Material
+"CARROT_ON_A_STICK": "CARROT_ON_A_STICK"
+
+# Used for the disguise option Material
+"WARPED_FUNGUS_ON_A_STICK": "WARPED_FUNGUS_ON_A_STICK"
+
+# Used for the disguise option Material
+"ELYTRA": "ELYTRA"
+
+# Used for the disguise option Material
+"OAK_BOAT": "OAK_BOAT"
+
+# Used for the disguise option Material
+"OAK_CHEST_BOAT": "OAK_CHEST_BOAT"
+
+# Used for the disguise option Material
+"SPRUCE_BOAT": "SPRUCE_BOAT"
+
+# Used for the disguise option Material
+"SPRUCE_CHEST_BOAT": "SPRUCE_CHEST_BOAT"
+
+# Used for the disguise option Material
+"BIRCH_BOAT": "BIRCH_BOAT"
+
+# Used for the disguise option Material
+"BIRCH_CHEST_BOAT": "BIRCH_CHEST_BOAT"
+
+# Used for the disguise option Material
+"JUNGLE_BOAT": "JUNGLE_BOAT"
+
+# Used for the disguise option Material
+"JUNGLE_CHEST_BOAT": "JUNGLE_CHEST_BOAT"
+
+# Used for the disguise option Material
+"ACACIA_BOAT": "ACACIA_BOAT"
+
+# Used for the disguise option Material
+"ACACIA_CHEST_BOAT": "ACACIA_CHEST_BOAT"
+
+# Used for the disguise option Material
+"CHERRY_BOAT": "CHERRY_BOAT"
+
+# Used for the disguise option Material
+"CHERRY_CHEST_BOAT": "CHERRY_CHEST_BOAT"
+
+# Used for the disguise option Material
+"DARK_OAK_BOAT": "DARK_OAK_BOAT"
+
+# Used for the disguise option Material
+"DARK_OAK_CHEST_BOAT": "DARK_OAK_CHEST_BOAT"
+
+# Used for the disguise option Material
+"MANGROVE_BOAT": "MANGROVE_BOAT"
+
+# Used for the disguise option Material
+"MANGROVE_CHEST_BOAT": "MANGROVE_CHEST_BOAT"
+
+# Used for the disguise option Material
+"BAMBOO_RAFT": "BAMBOO_RAFT"
+
+# Used for the disguise option Material
+"BAMBOO_CHEST_RAFT": "BAMBOO_CHEST_RAFT"
+
+# Used for the disguise option Material
+"STRUCTURE_BLOCK": "STRUCTURE_BLOCK"
+
+# Used for the disguise option Material
+"JIGSAW": "JIGSAW"
+
+# Used for the disguise option Material
+"TURTLE_HELMET": "TURTLE_HELMET"
+
+# Used for the disguise option Material
+"SCUTE": "SCUTE"
+
+# Used for the disguise option Material
+"FLINT_AND_STEEL": "FLINT_AND_STEEL"
+
+# Used for the disguise option Material
+"APPLE": "APPLE"
+
+# Used for the disguise option Material
+"BOW": "BOW"
+
+# Used for the disguise option Material
+"ARROW": "ARROW"
+
+# Used for the disguise option Material
+"COAL": "COAL"
+
+# Used for the disguise option Material
+"CHARCOAL": "CHARCOAL"
+
+# Used for the disguise option Material
+"DIAMOND": "DIAMOND"
+
+# Used for the disguise option Material
+"EMERALD": "EMERALD"
+
+# Used for the disguise option Material
+"LAPIS_LAZULI": "LAPIS_LAZULI"
+
+# Used for the disguise option Material
+"QUARTZ": "QUARTZ"
+
+# Used for the disguise option Material
+"AMETHYST_SHARD": "AMETHYST_SHARD"
+
+# Used for the disguise option Material
+"RAW_IRON": "RAW_IRON"
+
+# Used for the disguise option Material
+"IRON_INGOT": "IRON_INGOT"
+
+# Used for the disguise option Material
+"RAW_COPPER": "RAW_COPPER"
+
+# Used for the disguise option Material
+"COPPER_INGOT": "COPPER_INGOT"
+
+# Used for the disguise option Material
+"RAW_GOLD": "RAW_GOLD"
+
+# Used for the disguise option Material
+"GOLD_INGOT": "GOLD_INGOT"
+
+# Used for the disguise option Material
+"NETHERITE_INGOT": "NETHERITE_INGOT"
+
+# Used for the disguise option Material
+"NETHERITE_SCRAP": "NETHERITE_SCRAP"
+
+# Used for the disguise option Material
+"WOODEN_SWORD": "WOODEN_SWORD"
+
+# Used for the disguise option Material
+"WOODEN_SHOVEL": "WOODEN_SHOVEL"
+
+# Used for the disguise option Material
+"WOODEN_PICKAXE": "WOODEN_PICKAXE"
+
+# Used for the disguise option Material
+"WOODEN_AXE": "WOODEN_AXE"
+
+# Used for the disguise option Material
+"WOODEN_HOE": "WOODEN_HOE"
+
+# Used for the disguise option Material
+"STONE_SWORD": "STONE_SWORD"
+
+# Used for the disguise option Material
+"STONE_SHOVEL": "STONE_SHOVEL"
+
+# Used for the disguise option Material
+"STONE_PICKAXE": "STONE_PICKAXE"
+
+# Used for the disguise option Material
+"STONE_AXE": "STONE_AXE"
+
+# Used for the disguise option Material
+"STONE_HOE": "STONE_HOE"
+
+# Used for the disguise option Material
+"GOLDEN_SWORD": "GOLDEN_SWORD"
+
+# Used for the disguise option Material
+"GOLDEN_SHOVEL": "GOLDEN_SHOVEL"
+
+# Used for the disguise option Material
+"GOLDEN_PICKAXE": "GOLDEN_PICKAXE"
+
+# Used for the disguise option Material
+"GOLDEN_AXE": "GOLDEN_AXE"
+
+# Used for the disguise option Material
+"GOLDEN_HOE": "GOLDEN_HOE"
+
+# Used for the disguise option Material
+"IRON_SWORD": "IRON_SWORD"
+
+# Used for the disguise option Material
+"IRON_SHOVEL": "IRON_SHOVEL"
+
+# Used for the disguise option Material
+"IRON_PICKAXE": "IRON_PICKAXE"
+
+# Used for the disguise option Material
+"IRON_AXE": "IRON_AXE"
+
+# Used for the disguise option Material
+"IRON_HOE": "IRON_HOE"
+
+# Used for the disguise option Material
+"DIAMOND_SWORD": "DIAMOND_SWORD"
+
+# Used for the disguise option Material
+"DIAMOND_SHOVEL": "DIAMOND_SHOVEL"
+
+# Used for the disguise option Material
+"DIAMOND_PICKAXE": "DIAMOND_PICKAXE"
+
+# Used for the disguise option Material
+"DIAMOND_AXE": "DIAMOND_AXE"
+
+# Used for the disguise option Material
+"DIAMOND_HOE": "DIAMOND_HOE"
+
+# Used for the disguise option Material
+"NETHERITE_SWORD": "NETHERITE_SWORD"
+
+# Used for the disguise option Material
+"NETHERITE_SHOVEL": "NETHERITE_SHOVEL"
+
+# Used for the disguise option Material
+"NETHERITE_PICKAXE": "NETHERITE_PICKAXE"
+
+# Used for the disguise option Material
+"NETHERITE_AXE": "NETHERITE_AXE"
+
+# Used for the disguise option Material
+"NETHERITE_HOE": "NETHERITE_HOE"
+
+# Used for the disguise option Material
+"STICK": "STICK"
+
+# Used for the disguise option Material
+"BOWL": "BOWL"
+
+# Used for the disguise option Material
+"MUSHROOM_STEW": "MUSHROOM_STEW"
+
+# Used for the disguise option Material
+"STRING": "STRING"
+
+# Used for the disguise option Material
+"FEATHER": "FEATHER"
+
+# Used for the disguise option Material
+"GUNPOWDER": "GUNPOWDER"
+
+# Used for the disguise option Material
+"WHEAT_SEEDS": "WHEAT_SEEDS"
+
+# Used for the disguise option Material
+"WHEAT": "WHEAT"
+
+# Used for the disguise option Material
+"BREAD": "BREAD"
+
+# Used for the disguise option Material
+"LEATHER_HELMET": "LEATHER_HELMET"
+
+# Used for the disguise option Material
+"LEATHER_CHESTPLATE": "LEATHER_CHESTPLATE"
+
+# Used for the disguise option Material
+"LEATHER_LEGGINGS": "LEATHER_LEGGINGS"
+
+# Used for the disguise option Material
+"LEATHER_BOOTS": "LEATHER_BOOTS"
+
+# Used for the disguise option Material
+"CHAINMAIL_HELMET": "CHAINMAIL_HELMET"
+
+# Used for the disguise option Material
+"CHAINMAIL_CHESTPLATE": "CHAINMAIL_CHESTPLATE"
+
+# Used for the disguise option Material
+"CHAINMAIL_LEGGINGS": "CHAINMAIL_LEGGINGS"
+
+# Used for the disguise option Material
+"CHAINMAIL_BOOTS": "CHAINMAIL_BOOTS"
+
+# Used for the disguise option Material
+"IRON_HELMET": "IRON_HELMET"
+
+# Used for the disguise option Material
+"IRON_CHESTPLATE": "IRON_CHESTPLATE"
+
+# Used for the disguise option Material
+"IRON_LEGGINGS": "IRON_LEGGINGS"
+
+# Used for the disguise option Material
+"IRON_BOOTS": "IRON_BOOTS"
+
+# Used for the disguise option Material
+"DIAMOND_HELMET": "DIAMOND_HELMET"
+
+# Used for the disguise option Material
+"DIAMOND_CHESTPLATE": "DIAMOND_CHESTPLATE"
+
+# Used for the disguise option Material
+"DIAMOND_LEGGINGS": "DIAMOND_LEGGINGS"
+
+# Used for the disguise option Material
+"DIAMOND_BOOTS": "DIAMOND_BOOTS"
+
+# Used for the disguise option Material
+"GOLDEN_HELMET": "GOLDEN_HELMET"
+
+# Used for the disguise option Material
+"GOLDEN_CHESTPLATE": "GOLDEN_CHESTPLATE"
+
+# Used for the disguise option Material
+"GOLDEN_LEGGINGS": "GOLDEN_LEGGINGS"
+
+# Used for the disguise option Material
+"GOLDEN_BOOTS": "GOLDEN_BOOTS"
+
+# Used for the disguise option Material
+"NETHERITE_HELMET": "NETHERITE_HELMET"
+
+# Used for the disguise option Material
+"NETHERITE_CHESTPLATE": "NETHERITE_CHESTPLATE"
+
+# Used for the disguise option Material
+"NETHERITE_LEGGINGS": "NETHERITE_LEGGINGS"
+
+# Used for the disguise option Material
+"NETHERITE_BOOTS": "NETHERITE_BOOTS"
+
+# Used for the disguise option Material
+"FLINT": "FLINT"
+
+# Used for the disguise option Material
+"PORKCHOP": "PORKCHOP"
+
+# Used for the disguise option Material
+"COOKED_PORKCHOP": "COOKED_PORKCHOP"
+
+# Used for the disguise option Material
+"PAINTING": "PAINTING"
+
+# Used for the disguise option Material
+"GOLDEN_APPLE": "GOLDEN_APPLE"
+
+# Used for the disguise option Material
+"ENCHANTED_GOLDEN_APPLE": "ENCHANTED_GOLDEN_APPLE"
+
+# Used for the disguise option Material
+"OAK_SIGN": "OAK_SIGN"
+
+# Used for the disguise option Material
+"SPRUCE_SIGN": "SPRUCE_SIGN"
+
+# Used for the disguise option Material
+"BIRCH_SIGN": "BIRCH_SIGN"
+
+# Used for the disguise option Material
+"JUNGLE_SIGN": "JUNGLE_SIGN"
+
+# Used for the disguise option Material
+"ACACIA_SIGN": "ACACIA_SIGN"
+
+# Used for the disguise option Material
+"CHERRY_SIGN": "CHERRY_SIGN"
+
+# Used for the disguise option Material
+"DARK_OAK_SIGN": "DARK_OAK_SIGN"
+
+# Used for the disguise option Material
+"MANGROVE_SIGN": "MANGROVE_SIGN"
+
+# Used for the disguise option Material
+"BAMBOO_SIGN": "BAMBOO_SIGN"
+
+# Used for the disguise option Material
+"CRIMSON_SIGN": "CRIMSON_SIGN"
+
+# Used for the disguise option Material
+"WARPED_SIGN": "WARPED_SIGN"
+
+# Used for the disguise option Material
+"OAK_HANGING_SIGN": "OAK_HANGING_SIGN"
+
+# Used for the disguise option Material
+"SPRUCE_HANGING_SIGN": "SPRUCE_HANGING_SIGN"
+
+# Used for the disguise option Material
+"BIRCH_HANGING_SIGN": "BIRCH_HANGING_SIGN"
+
+# Used for the disguise option Material
+"JUNGLE_HANGING_SIGN": "JUNGLE_HANGING_SIGN"
+
+# Used for the disguise option Material
+"ACACIA_HANGING_SIGN": "ACACIA_HANGING_SIGN"
+
+# Used for the disguise option Material
+"CHERRY_HANGING_SIGN": "CHERRY_HANGING_SIGN"
+
+# Used for the disguise option Material
+"DARK_OAK_HANGING_SIGN": "DARK_OAK_HANGING_SIGN"
+
+# Used for the disguise option Material
+"MANGROVE_HANGING_SIGN": "MANGROVE_HANGING_SIGN"
+
+# Used for the disguise option Material
+"BAMBOO_HANGING_SIGN": "BAMBOO_HANGING_SIGN"
+
+# Used for the disguise option Material
+"CRIMSON_HANGING_SIGN": "CRIMSON_HANGING_SIGN"
+
+# Used for the disguise option Material
+"WARPED_HANGING_SIGN": "WARPED_HANGING_SIGN"
+
+# Used for the disguise option Material
+"BUCKET": "BUCKET"
+
+# Used for the disguise option Material
+"WATER_BUCKET": "WATER_BUCKET"
+
+# Used for the disguise option Material
+"LAVA_BUCKET": "LAVA_BUCKET"
+
+# Used for the disguise option Material
+"POWDER_SNOW_BUCKET": "POWDER_SNOW_BUCKET"
+
+# Used for the disguise option Material
+"LEATHER": "LEATHER"
+
+# Used for the disguise option Material
+"MILK_BUCKET": "MILK_BUCKET"
+
+# Used for the disguise option Material
+"PUFFERFISH_BUCKET": "PUFFERFISH_BUCKET"
+
+# Used for the disguise option Material
+"SALMON_BUCKET": "SALMON_BUCKET"
+
+# Used for the disguise option Material
+"COD_BUCKET": "COD_BUCKET"
+
+# Used for the disguise option Material
+"TROPICAL_FISH_BUCKET": "TROPICAL_FISH_BUCKET"
+
+# Used for the disguise option Material
+"AXOLOTL_BUCKET": "AXOLOTL_BUCKET"
+
+# Used for the disguise option Material
+"TADPOLE_BUCKET": "TADPOLE_BUCKET"
+
+# Used for the disguise option Material
+"BRICK": "BRICK"
+
+# Used for the disguise option Material
+"CLAY_BALL": "CLAY_BALL"
+
+# Used for the disguise option Material
+"DRIED_KELP_BLOCK": "DRIED_KELP_BLOCK"
+
+# Used for the disguise option Material
+"PAPER": "PAPER"
+
+# Used for the disguise option Material
+"BOOK": "BOOK"
+
+# Used for the disguise option Material
+"SLIME_BALL": "SLIME_BALL"
+
+# Used for the disguise option Material
+"EGG": "EGG"
+
+# Used for the disguise option Material
+"COMPASS": "COMPASS"
+
+# Used for the disguise option Material
+"RECOVERY_COMPASS": "RECOVERY_COMPASS"
+
+# Used for the disguise option Material
+"BUNDLE": "BUNDLE"
+
+# Used for the disguise option Material
+"FISHING_ROD": "FISHING_ROD"
+
+# Used for the disguise option Material
+"CLOCK": "CLOCK"
+
+# Used for the disguise option Material
+"SPYGLASS": "SPYGLASS"
+
+# Used for the disguise option Material
+"GLOWSTONE_DUST": "GLOWSTONE_DUST"
+
+# Used for the disguise option Material
+"COD": "COD"
+
+# Used for the disguise option Material
+"SALMON": "SALMON"
+
+# Used for the disguise option Material
+"TROPICAL_FISH": "TROPICAL_FISH"
+
+# Used for the disguise option Material
+"PUFFERFISH": "PUFFERFISH"
+
+# Used for the disguise option Material
+"COOKED_COD": "COOKED_COD"
+
+# Used for the disguise option Material
+"COOKED_SALMON": "COOKED_SALMON"
+
+# Used for the disguise option Material
+"INK_SAC": "INK_SAC"
+
+# Used for the disguise option Material
+"GLOW_INK_SAC": "GLOW_INK_SAC"
+
+# Used for the disguise option Material
+"COCOA_BEANS": "COCOA_BEANS"
+
+# Used for the disguise option Material
+"WHITE_DYE": "WHITE_DYE"
+
+# Used for the disguise option Material
+"ORANGE_DYE": "ORANGE_DYE"
+
+# Used for the disguise option Material
+"MAGENTA_DYE": "MAGENTA_DYE"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_DYE": "LIGHT_BLUE_DYE"
+
+# Used for the disguise option Material
+"YELLOW_DYE": "YELLOW_DYE"
+
+# Used for the disguise option Material
+"LIME_DYE": "LIME_DYE"
+
+# Used for the disguise option Material
+"PINK_DYE": "PINK_DYE"
+
+# Used for the disguise option Material
+"GRAY_DYE": "GRAY_DYE"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_DYE": "LIGHT_GRAY_DYE"
+
+# Used for the disguise option Material
+"CYAN_DYE": "CYAN_DYE"
+
+# Used for the disguise option Material
+"PURPLE_DYE": "PURPLE_DYE"
+
+# Used for the disguise option Material
+"BLUE_DYE": "BLUE_DYE"
+
+# Used for the disguise option Material
+"BROWN_DYE": "BROWN_DYE"
+
+# Used for the disguise option Material
+"GREEN_DYE": "GREEN_DYE"
+
+# Used for the disguise option Material
+"RED_DYE": "RED_DYE"
+
+# Used for the disguise option Material
+"BLACK_DYE": "BLACK_DYE"
+
+# Used for the disguise option Material
+"BONE_MEAL": "BONE_MEAL"
+
+# Used for the disguise option Material
+"BONE": "BONE"
+
+# Used for the disguise option Material
+"SUGAR": "SUGAR"
+
+# Used for the disguise option Material
+"CAKE": "CAKE"
+
+# Used for the disguise option Material
+"WHITE_BED": "WHITE_BED"
+
+# Used for the disguise option Material
+"ORANGE_BED": "ORANGE_BED"
+
+# Used for the disguise option Material
+"MAGENTA_BED": "MAGENTA_BED"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_BED": "LIGHT_BLUE_BED"
+
+# Used for the disguise option Material
+"YELLOW_BED": "YELLOW_BED"
+
+# Used for the disguise option Material
+"LIME_BED": "LIME_BED"
+
+# Used for the disguise option Material
+"PINK_BED": "PINK_BED"
+
+# Used for the disguise option Material
+"GRAY_BED": "GRAY_BED"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_BED": "LIGHT_GRAY_BED"
+
+# Used for the disguise option Material
+"CYAN_BED": "CYAN_BED"
+
+# Used for the disguise option Material
+"PURPLE_BED": "PURPLE_BED"
+
+# Used for the disguise option Material
+"BLUE_BED": "BLUE_BED"
+
+# Used for the disguise option Material
+"BROWN_BED": "BROWN_BED"
+
+# Used for the disguise option Material
+"GREEN_BED": "GREEN_BED"
+
+# Used for the disguise option Material
+"RED_BED": "RED_BED"
+
+# Used for the disguise option Material
+"BLACK_BED": "BLACK_BED"
+
+# Used for the disguise option Material
+"COOKIE": "COOKIE"
+
+# Used for the disguise option Material
+"FILLED_MAP": "FILLED_MAP"
+
+# Used for the disguise option Material
+"SHEARS": "SHEARS"
+
+# Used for the disguise option Material
+"MELON_SLICE": "MELON_SLICE"
+
+# Used for the disguise option Material
+"DRIED_KELP": "DRIED_KELP"
+
+# Used for the disguise option Material
+"PUMPKIN_SEEDS": "PUMPKIN_SEEDS"
+
+# Used for the disguise option Material
+"MELON_SEEDS": "MELON_SEEDS"
+
+# Used for the disguise option Material
+"BEEF": "BEEF"
+
+# Used for the disguise option Material
+"COOKED_BEEF": "COOKED_BEEF"
+
+# Used for the disguise option Material
+"CHICKEN": "CHICKEN"
+
+# Used for the disguise option Material
+"COOKED_CHICKEN": "COOKED_CHICKEN"
+
+# Used for the disguise option Material
+"ROTTEN_FLESH": "ROTTEN_FLESH"
+
+# Used for the disguise option Material
+"ENDER_PEARL": "ENDER_PEARL"
+
+# Used for the disguise option Material
+"BLAZE_ROD": "BLAZE_ROD"
+
+# Used for the disguise option Material
+"GHAST_TEAR": "GHAST_TEAR"
+
+# Used for the disguise option Material
+"GOLD_NUGGET": "GOLD_NUGGET"
+
+# Used for the disguise option Material
+"NETHER_WART": "NETHER_WART"
+
+# Used for the disguise option Material
+"POTION": "POTION"
+
+# Used for the disguise option Material
+"GLASS_BOTTLE": "GLASS_BOTTLE"
+
+# Used for the disguise option Material
+"SPIDER_EYE": "SPIDER_EYE"
+
+# Used for the disguise option Material
+"FERMENTED_SPIDER_EYE": "FERMENTED_SPIDER_EYE"
+
+# Used for the disguise option Material
+"BLAZE_POWDER": "BLAZE_POWDER"
+
+# Used for the disguise option Material
+"MAGMA_CREAM": "MAGMA_CREAM"
+
+# Used for the disguise option Material
+"BREWING_STAND": "BREWING_STAND"
+
+# Used for the disguise option Material
+"CAULDRON": "CAULDRON"
+
+# Used for the disguise option Material
+"ENDER_EYE": "ENDER_EYE"
+
+# Used for the disguise option Material
+"GLISTERING_MELON_SLICE": "GLISTERING_MELON_SLICE"
+
+# Used for the disguise option Material
+"ALLAY_SPAWN_EGG": "ALLAY_SPAWN_EGG"
+
+# Used for the disguise option Material
+"AXOLOTL_SPAWN_EGG": "AXOLOTL_SPAWN_EGG"
+
+# Used for the disguise option Material
+"BAT_SPAWN_EGG": "BAT_SPAWN_EGG"
+
+# Used for the disguise option Material
+"BEE_SPAWN_EGG": "BEE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"BLAZE_SPAWN_EGG": "BLAZE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"CAT_SPAWN_EGG": "CAT_SPAWN_EGG"
+
+# Used for the disguise option Material
+"CAMEL_SPAWN_EGG": "CAMEL_SPAWN_EGG"
+
+# Used for the disguise option Material
+"CAVE_SPIDER_SPAWN_EGG": "CAVE_SPIDER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"CHICKEN_SPAWN_EGG": "CHICKEN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"COD_SPAWN_EGG": "COD_SPAWN_EGG"
+
+# Used for the disguise option Material
+"COW_SPAWN_EGG": "COW_SPAWN_EGG"
+
+# Used for the disguise option Material
+"CREEPER_SPAWN_EGG": "CREEPER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"DOLPHIN_SPAWN_EGG": "DOLPHIN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"DONKEY_SPAWN_EGG": "DONKEY_SPAWN_EGG"
+
+# Used for the disguise option Material
+"DROWNED_SPAWN_EGG": "DROWNED_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ELDER_GUARDIAN_SPAWN_EGG": "ELDER_GUARDIAN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ENDER_DRAGON_SPAWN_EGG": "ENDER_DRAGON_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ENDERMAN_SPAWN_EGG": "ENDERMAN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ENDERMITE_SPAWN_EGG": "ENDERMITE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"EVOKER_SPAWN_EGG": "EVOKER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"FOX_SPAWN_EGG": "FOX_SPAWN_EGG"
+
+# Used for the disguise option Material
+"FROG_SPAWN_EGG": "FROG_SPAWN_EGG"
+
+# Used for the disguise option Material
+"GHAST_SPAWN_EGG": "GHAST_SPAWN_EGG"
+
+# Used for the disguise option Material
+"GLOW_SQUID_SPAWN_EGG": "GLOW_SQUID_SPAWN_EGG"
+
+# Used for the disguise option Material
+"GOAT_SPAWN_EGG": "GOAT_SPAWN_EGG"
+
+# Used for the disguise option Material
+"GUARDIAN_SPAWN_EGG": "GUARDIAN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"HOGLIN_SPAWN_EGG": "HOGLIN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"HORSE_SPAWN_EGG": "HORSE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"HUSK_SPAWN_EGG": "HUSK_SPAWN_EGG"
+
+# Used for the disguise option Material
+"IRON_GOLEM_SPAWN_EGG": "IRON_GOLEM_SPAWN_EGG"
+
+# Used for the disguise option Material
+"LLAMA_SPAWN_EGG": "LLAMA_SPAWN_EGG"
+
+# Used for the disguise option Material
+"MAGMA_CUBE_SPAWN_EGG": "MAGMA_CUBE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"MOOSHROOM_SPAWN_EGG": "MOOSHROOM_SPAWN_EGG"
+
+# Used for the disguise option Material
+"MULE_SPAWN_EGG": "MULE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"OCELOT_SPAWN_EGG": "OCELOT_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PANDA_SPAWN_EGG": "PANDA_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PARROT_SPAWN_EGG": "PARROT_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PHANTOM_SPAWN_EGG": "PHANTOM_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PIG_SPAWN_EGG": "PIG_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PIGLIN_SPAWN_EGG": "PIGLIN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PIGLIN_BRUTE_SPAWN_EGG": "PIGLIN_BRUTE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PILLAGER_SPAWN_EGG": "PILLAGER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"POLAR_BEAR_SPAWN_EGG": "POLAR_BEAR_SPAWN_EGG"
+
+# Used for the disguise option Material
+"PUFFERFISH_SPAWN_EGG": "PUFFERFISH_SPAWN_EGG"
+
+# Used for the disguise option Material
+"RABBIT_SPAWN_EGG": "RABBIT_SPAWN_EGG"
+
+# Used for the disguise option Material
+"RAVAGER_SPAWN_EGG": "RAVAGER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SALMON_SPAWN_EGG": "SALMON_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SHEEP_SPAWN_EGG": "SHEEP_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SHULKER_SPAWN_EGG": "SHULKER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SILVERFISH_SPAWN_EGG": "SILVERFISH_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SKELETON_SPAWN_EGG": "SKELETON_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SKELETON_HORSE_SPAWN_EGG": "SKELETON_HORSE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SLIME_SPAWN_EGG": "SLIME_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SNIFFER_SPAWN_EGG": "SNIFFER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SNOW_GOLEM_SPAWN_EGG": "SNOW_GOLEM_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SPIDER_SPAWN_EGG": "SPIDER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"SQUID_SPAWN_EGG": "SQUID_SPAWN_EGG"
+
+# Used for the disguise option Material
+"STRAY_SPAWN_EGG": "STRAY_SPAWN_EGG"
+
+# Used for the disguise option Material
+"STRIDER_SPAWN_EGG": "STRIDER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"TADPOLE_SPAWN_EGG": "TADPOLE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"TRADER_LLAMA_SPAWN_EGG": "TRADER_LLAMA_SPAWN_EGG"
+
+# Used for the disguise option Material
+"TROPICAL_FISH_SPAWN_EGG": "TROPICAL_FISH_SPAWN_EGG"
+
+# Used for the disguise option Material
+"TURTLE_SPAWN_EGG": "TURTLE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"VEX_SPAWN_EGG": "VEX_SPAWN_EGG"
+
+# Used for the disguise option Material
+"VILLAGER_SPAWN_EGG": "VILLAGER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"VINDICATOR_SPAWN_EGG": "VINDICATOR_SPAWN_EGG"
+
+# Used for the disguise option Material
+"WANDERING_TRADER_SPAWN_EGG": "WANDERING_TRADER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"WARDEN_SPAWN_EGG": "WARDEN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"WITCH_SPAWN_EGG": "WITCH_SPAWN_EGG"
+
+# Used for the disguise option Material
+"WITHER_SPAWN_EGG": "WITHER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"WITHER_SKELETON_SPAWN_EGG": "WITHER_SKELETON_SPAWN_EGG"
+
+# Used for the disguise option Material
+"WOLF_SPAWN_EGG": "WOLF_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ZOGLIN_SPAWN_EGG": "ZOGLIN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ZOMBIE_SPAWN_EGG": "ZOMBIE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ZOMBIE_HORSE_SPAWN_EGG": "ZOMBIE_HORSE_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ZOMBIE_VILLAGER_SPAWN_EGG": "ZOMBIE_VILLAGER_SPAWN_EGG"
+
+# Used for the disguise option Material
+"ZOMBIFIED_PIGLIN_SPAWN_EGG": "ZOMBIFIED_PIGLIN_SPAWN_EGG"
+
+# Used for the disguise option Material
+"EXPERIENCE_BOTTLE": "EXPERIENCE_BOTTLE"
+
+# Used for the disguise option Material
+"FIRE_CHARGE": "FIRE_CHARGE"
+
+# Used for the disguise option Material
+"WRITABLE_BOOK": "WRITABLE_BOOK"
+
+# Used for the disguise option Material
+"WRITTEN_BOOK": "WRITTEN_BOOK"
+
+# Used for the disguise option Material
+"ITEM_FRAME": "ITEM_FRAME"
+
+# Used for the disguise option Material
+"GLOW_ITEM_FRAME": "GLOW_ITEM_FRAME"
+
+# Used for the disguise option Material
+"FLOWER_POT": "FLOWER_POT"
+
+# Used for the disguise option Material
+"CARROT": "CARROT"
+
+# Used for the disguise option Material
+"POTATO": "POTATO"
+
+# Used for the disguise option Material
+"BAKED_POTATO": "BAKED_POTATO"
+
+# Used for the disguise option Material
+"POISONOUS_POTATO": "POISONOUS_POTATO"
+
+# Used for the disguise option Material
+"MAP": "MAP"
+
+# Used for the disguise option Material
+"GOLDEN_CARROT": "GOLDEN_CARROT"
+
+# Used for the disguise option Material
+"SKELETON_SKULL": "SKELETON_SKULL"
+
+# Used for the disguise option Material
+"WITHER_SKELETON_SKULL": "WITHER_SKELETON_SKULL"
+
+# Used for the disguise option Material
+"PLAYER_HEAD": "PLAYER_HEAD"
+
+# Used for the disguise option Material
+"ZOMBIE_HEAD": "ZOMBIE_HEAD"
+
+# Used for the disguise option Material
+"CREEPER_HEAD": "CREEPER_HEAD"
+
+# Used for the disguise option Material
+"DRAGON_HEAD": "DRAGON_HEAD"
+
+# Used for the disguise option Material
+"PIGLIN_HEAD": "PIGLIN_HEAD"
+
+# Used for the disguise option Material
+"NETHER_STAR": "NETHER_STAR"
+
+# Used for the disguise option Material
+"PUMPKIN_PIE": "PUMPKIN_PIE"
+
+# Used for the disguise option Material
+"FIREWORK_ROCKET": "FIREWORK_ROCKET"
+
+# Used for the disguise option Material
+"FIREWORK_STAR": "FIREWORK_STAR"
+
+# Used for the disguise option Material
+"ENCHANTED_BOOK": "ENCHANTED_BOOK"
+
+# Used for the disguise option Material
+"NETHER_BRICK": "NETHER_BRICK"
+
+# Used for the disguise option Material
+"PRISMARINE_SHARD": "PRISMARINE_SHARD"
+
+# Used for the disguise option Material
+"PRISMARINE_CRYSTALS": "PRISMARINE_CRYSTALS"
+
+# Used for the disguise option Material
+"RABBIT": "RABBIT"
+
+# Used for the disguise option Material
+"COOKED_RABBIT": "COOKED_RABBIT"
+
+# Used for the disguise option Material
+"RABBIT_STEW": "RABBIT_STEW"
+
+# Used for the disguise option Material
+"RABBIT_FOOT": "RABBIT_FOOT"
+
+# Used for the disguise option Material
+"RABBIT_HIDE": "RABBIT_HIDE"
+
+# Used for the disguise option Material
+"ARMOR_STAND": "ARMOR_STAND"
+
+# Used for the disguise option Material
+"IRON_HORSE_ARMOR": "IRON_HORSE_ARMOR"
+
+# Used for the disguise option Material
+"GOLDEN_HORSE_ARMOR": "GOLDEN_HORSE_ARMOR"
+
+# Used for the disguise option Material
+"DIAMOND_HORSE_ARMOR": "DIAMOND_HORSE_ARMOR"
+
+# Used for the disguise option Material
+"LEATHER_HORSE_ARMOR": "LEATHER_HORSE_ARMOR"
+
+# Used for the disguise option Material
+"LEAD": "LEAD"
+
+# Used for the disguise option Material
+"NAME_TAG": "NAME_TAG"
+
+# Used for the disguise option Material
+"COMMAND_BLOCK_MINECART": "COMMAND_BLOCK_MINECART"
+
+# Used for the disguise option Material
+"MUTTON": "MUTTON"
+
+# Used for the disguise option Material
+"COOKED_MUTTON": "COOKED_MUTTON"
+
+# Used for the disguise option Material
+"WHITE_BANNER": "WHITE_BANNER"
+
+# Used for the disguise option Material
+"ORANGE_BANNER": "ORANGE_BANNER"
+
+# Used for the disguise option Material
+"MAGENTA_BANNER": "MAGENTA_BANNER"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_BANNER": "LIGHT_BLUE_BANNER"
+
+# Used for the disguise option Material
+"YELLOW_BANNER": "YELLOW_BANNER"
+
+# Used for the disguise option Material
+"LIME_BANNER": "LIME_BANNER"
+
+# Used for the disguise option Material
+"PINK_BANNER": "PINK_BANNER"
+
+# Used for the disguise option Material
+"GRAY_BANNER": "GRAY_BANNER"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_BANNER": "LIGHT_GRAY_BANNER"
+
+# Used for the disguise option Material
+"CYAN_BANNER": "CYAN_BANNER"
+
+# Used for the disguise option Material
+"PURPLE_BANNER": "PURPLE_BANNER"
+
+# Used for the disguise option Material
+"BLUE_BANNER": "BLUE_BANNER"
+
+# Used for the disguise option Material
+"BROWN_BANNER": "BROWN_BANNER"
+
+# Used for the disguise option Material
+"GREEN_BANNER": "GREEN_BANNER"
+
+# Used for the disguise option Material
+"RED_BANNER": "RED_BANNER"
+
+# Used for the disguise option Material
+"BLACK_BANNER": "BLACK_BANNER"
+
+# Used for the disguise option Material
+"END_CRYSTAL": "END_CRYSTAL"
+
+# Used for the disguise option Material
+"CHORUS_FRUIT": "CHORUS_FRUIT"
+
+# Used for the disguise option Material
+"POPPED_CHORUS_FRUIT": "POPPED_CHORUS_FRUIT"
+
+# Used for the disguise option Material
+"TORCHFLOWER_SEEDS": "TORCHFLOWER_SEEDS"
+
+# Used for the disguise option Material
+"PITCHER_POD": "PITCHER_POD"
+
+# Used for the disguise option Material
+"BEETROOT": "BEETROOT"
+
+# Used for the disguise option Material
+"BEETROOT_SEEDS": "BEETROOT_SEEDS"
+
+# Used for the disguise option Material
+"BEETROOT_SOUP": "BEETROOT_SOUP"
+
+# Used for the disguise option Material
+"SPLASH_POTION": "SPLASH_POTION"
+
+# Used for the disguise option Material
+"SPECTRAL_ARROW": "SPECTRAL_ARROW"
+
+# Used for the disguise option Material
+"TIPPED_ARROW": "TIPPED_ARROW"
+
+# Used for the disguise option Material
+"LINGERING_POTION": "LINGERING_POTION"
+
+# Used for the disguise option Material
+"SHIELD": "SHIELD"
+
+# Used for the disguise option Material
+"TOTEM_OF_UNDYING": "TOTEM_OF_UNDYING"
+
+# Used for the disguise option Material
+"SHULKER_SHELL": "SHULKER_SHELL"
+
+# Used for the disguise option Material
+"IRON_NUGGET": "IRON_NUGGET"
+
+# Used for the disguise option Material
+"KNOWLEDGE_BOOK": "KNOWLEDGE_BOOK"
+
+# Used for the disguise option Material
+"DEBUG_STICK": "DEBUG_STICK"
+
+# Used for the disguise option Material
+"MUSIC_DISC_13": "MUSIC_DISC_13"
+
+# Used for the disguise option Material
+"MUSIC_DISC_CAT": "MUSIC_DISC_CAT"
+
+# Used for the disguise option Material
+"MUSIC_DISC_BLOCKS": "MUSIC_DISC_BLOCKS"
+
+# Used for the disguise option Material
+"MUSIC_DISC_CHIRP": "MUSIC_DISC_CHIRP"
+
+# Used for the disguise option Material
+"MUSIC_DISC_FAR": "MUSIC_DISC_FAR"
+
+# Used for the disguise option Material
+"MUSIC_DISC_MALL": "MUSIC_DISC_MALL"
+
+# Used for the disguise option Material
+"MUSIC_DISC_MELLOHI": "MUSIC_DISC_MELLOHI"
+
+# Used for the disguise option Material
+"MUSIC_DISC_STAL": "MUSIC_DISC_STAL"
+
+# Used for the disguise option Material
+"MUSIC_DISC_STRAD": "MUSIC_DISC_STRAD"
+
+# Used for the disguise option Material
+"MUSIC_DISC_WARD": "MUSIC_DISC_WARD"
+
+# Used for the disguise option Material
+"MUSIC_DISC_11": "MUSIC_DISC_11"
+
+# Used for the disguise option Material
+"MUSIC_DISC_WAIT": "MUSIC_DISC_WAIT"
+
+# Used for the disguise option Material
+"MUSIC_DISC_OTHERSIDE": "MUSIC_DISC_OTHERSIDE"
+
+# Used for the disguise option Material
+"MUSIC_DISC_RELIC": "MUSIC_DISC_RELIC"
+
+# Used for the disguise option Material
+"MUSIC_DISC_5": "MUSIC_DISC_5"
+
+# Used for the disguise option Material
+"MUSIC_DISC_PIGSTEP": "MUSIC_DISC_PIGSTEP"
+
+# Used for the disguise option Material
+"DISC_FRAGMENT_5": "DISC_FRAGMENT_5"
+
+# Used for the disguise option Material
+"TRIDENT": "TRIDENT"
+
+# Used for the disguise option Material
+"PHANTOM_MEMBRANE": "PHANTOM_MEMBRANE"
+
+# Used for the disguise option Material
+"NAUTILUS_SHELL": "NAUTILUS_SHELL"
+
+# Used for the disguise option Material
+"HEART_OF_THE_SEA": "HEART_OF_THE_SEA"
+
+# Used for the disguise option Material
+"CROSSBOW": "CROSSBOW"
+
+# Used for the disguise option Material
+"SUSPICIOUS_STEW": "SUSPICIOUS_STEW"
+
+# Used for the disguise option Material
+"LOOM": "LOOM"
+
+# Used for the disguise option Material
+"FLOWER_BANNER_PATTERN": "FLOWER_BANNER_PATTERN"
+
+# Used for the disguise option Material
+"CREEPER_BANNER_PATTERN": "CREEPER_BANNER_PATTERN"
+
+# Used for the disguise option Material
+"SKULL_BANNER_PATTERN": "SKULL_BANNER_PATTERN"
+
+# Used for the disguise option Material
+"MOJANG_BANNER_PATTERN": "MOJANG_BANNER_PATTERN"
+
+# Used for the disguise option Material
+"GLOBE_BANNER_PATTERN": "GLOBE_BANNER_PATTERN"
+
+# Used for the disguise option Material
+"PIGLIN_BANNER_PATTERN": "PIGLIN_BANNER_PATTERN"
+
+# Used for the disguise option Material
+"GOAT_HORN": "GOAT_HORN"
+
+# Used for the disguise option Material
+"BARREL": "BARREL"
+
+# Used for the disguise option Material
+"SMOKER": "SMOKER"
+
+# Used for the disguise option Material
+"BLAST_FURNACE": "BLAST_FURNACE"
+
+# Used for the disguise option Material
+"CARTOGRAPHY_TABLE": "CARTOGRAPHY_TABLE"
+
+# Used for the disguise option Material
+"FLETCHING_TABLE": "FLETCHING_TABLE"
+
+# Used for the disguise option Material
+"GRINDSTONE": "GRINDSTONE"
+
+# Used for the disguise option Material
+"SMITHING_TABLE": "SMITHING_TABLE"
+
+# Used for the disguise option Material
+"STONECUTTER": "STONECUTTER"
+
+# Used for the disguise option Material
+"BELL": "BELL"
+
+# Used for the disguise option Material
+"LANTERN": "LANTERN"
+
+# Used for the disguise option Material
+"SOUL_LANTERN": "SOUL_LANTERN"
+
+# Used for the disguise option Material
+"SWEET_BERRIES": "SWEET_BERRIES"
+
+# Used for the disguise option Material
+"GLOW_BERRIES": "GLOW_BERRIES"
+
+# Used for the disguise option Material
+"CAMPFIRE": "CAMPFIRE"
+
+# Used for the disguise option Material
+"SOUL_CAMPFIRE": "SOUL_CAMPFIRE"
+
+# Used for the disguise option Material
+"SHROOMLIGHT": "SHROOMLIGHT"
+
+# Used for the disguise option Material
+"HONEYCOMB": "HONEYCOMB"
+
+# Used for the disguise option Material
+"BEE_NEST": "BEE_NEST"
+
+# Used for the disguise option Material
+"BEEHIVE": "BEEHIVE"
+
+# Used for the disguise option Material
+"HONEY_BOTTLE": "HONEY_BOTTLE"
+
+# Used for the disguise option Material
+"HONEYCOMB_BLOCK": "HONEYCOMB_BLOCK"
+
+# Used for the disguise option Material
+"LODESTONE": "LODESTONE"
+
+# Used for the disguise option Material
+"CRYING_OBSIDIAN": "CRYING_OBSIDIAN"
+
+# Used for the disguise option Material
+"BLACKSTONE": "BLACKSTONE"
+
+# Used for the disguise option Material
+"BLACKSTONE_SLAB": "BLACKSTONE_SLAB"
+
+# Used for the disguise option Material
+"BLACKSTONE_STAIRS": "BLACKSTONE_STAIRS"
+
+# Used for the disguise option Material
+"GILDED_BLACKSTONE": "GILDED_BLACKSTONE"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE": "POLISHED_BLACKSTONE"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_SLAB": "POLISHED_BLACKSTONE_SLAB"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_STAIRS": "POLISHED_BLACKSTONE_STAIRS"
+
+# Used for the disguise option Material
+"CHISELED_POLISHED_BLACKSTONE": "CHISELED_POLISHED_BLACKSTONE"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_BRICKS": "POLISHED_BLACKSTONE_BRICKS"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_BRICK_SLAB": "POLISHED_BLACKSTONE_BRICK_SLAB"
+
+# Used for the disguise option Material
+"POLISHED_BLACKSTONE_BRICK_STAIRS": "POLISHED_BLACKSTONE_BRICK_STAIRS"
+
+# Used for the disguise option Material
+"CRACKED_POLISHED_BLACKSTONE_BRICKS": "CRACKED_POLISHED_BLACKSTONE_BRICKS"
+
+# Used for the disguise option Material
+"RESPAWN_ANCHOR": "RESPAWN_ANCHOR"
+
+# Used for the disguise option Material
+"CANDLE": "CANDLE"
+
+# Used for the disguise option Material
+"WHITE_CANDLE": "WHITE_CANDLE"
+
+# Used for the disguise option Material
+"ORANGE_CANDLE": "ORANGE_CANDLE"
+
+# Used for the disguise option Material
+"MAGENTA_CANDLE": "MAGENTA_CANDLE"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_CANDLE": "LIGHT_BLUE_CANDLE"
+
+# Used for the disguise option Material
+"YELLOW_CANDLE": "YELLOW_CANDLE"
+
+# Used for the disguise option Material
+"LIME_CANDLE": "LIME_CANDLE"
+
+# Used for the disguise option Material
+"PINK_CANDLE": "PINK_CANDLE"
+
+# Used for the disguise option Material
+"GRAY_CANDLE": "GRAY_CANDLE"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_CANDLE": "LIGHT_GRAY_CANDLE"
+
+# Used for the disguise option Material
+"CYAN_CANDLE": "CYAN_CANDLE"
+
+# Used for the disguise option Material
+"PURPLE_CANDLE": "PURPLE_CANDLE"
+
+# Used for the disguise option Material
+"BLUE_CANDLE": "BLUE_CANDLE"
+
+# Used for the disguise option Material
+"BROWN_CANDLE": "BROWN_CANDLE"
+
+# Used for the disguise option Material
+"GREEN_CANDLE": "GREEN_CANDLE"
+
+# Used for the disguise option Material
+"RED_CANDLE": "RED_CANDLE"
+
+# Used for the disguise option Material
+"BLACK_CANDLE": "BLACK_CANDLE"
+
+# Used for the disguise option Material
+"SMALL_AMETHYST_BUD": "SMALL_AMETHYST_BUD"
+
+# Used for the disguise option Material
+"MEDIUM_AMETHYST_BUD": "MEDIUM_AMETHYST_BUD"
+
+# Used for the disguise option Material
+"LARGE_AMETHYST_BUD": "LARGE_AMETHYST_BUD"
+
+# Used for the disguise option Material
+"AMETHYST_CLUSTER": "AMETHYST_CLUSTER"
+
+# Used for the disguise option Material
+"POINTED_DRIPSTONE": "POINTED_DRIPSTONE"
+
+# Used for the disguise option Material
+"OCHRE_FROGLIGHT": "OCHRE_FROGLIGHT"
+
+# Used for the disguise option Material
+"VERDANT_FROGLIGHT": "VERDANT_FROGLIGHT"
+
+# Used for the disguise option Material
+"PEARLESCENT_FROGLIGHT": "PEARLESCENT_FROGLIGHT"
+
+# Used for the disguise option Material
+"FROGSPAWN": "FROGSPAWN"
+
+# Used for the disguise option Material
+"ECHO_SHARD": "ECHO_SHARD"
+
+# Used for the disguise option Material
+"BRUSH": "BRUSH"
+
+# Used for the disguise option Material
+"NETHERITE_UPGRADE_SMITHING_TEMPLATE": "NETHERITE_UPGRADE_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE": "SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"DUNE_ARMOR_TRIM_SMITHING_TEMPLATE": "DUNE_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"COAST_ARMOR_TRIM_SMITHING_TEMPLATE": "COAST_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"WILD_ARMOR_TRIM_SMITHING_TEMPLATE": "WILD_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"WARD_ARMOR_TRIM_SMITHING_TEMPLATE": "WARD_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"EYE_ARMOR_TRIM_SMITHING_TEMPLATE": "EYE_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"VEX_ARMOR_TRIM_SMITHING_TEMPLATE": "VEX_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"TIDE_ARMOR_TRIM_SMITHING_TEMPLATE": "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE": "SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"RIB_ARMOR_TRIM_SMITHING_TEMPLATE": "RIB_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE": "SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE": "WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE": "SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"RAISER_ARMOR_TRIM_SMITHING_TEMPLATE": "RAISER_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"HOST_ARMOR_TRIM_SMITHING_TEMPLATE": "HOST_ARMOR_TRIM_SMITHING_TEMPLATE"
+
+# Used for the disguise option Material
+"ANGLER_POTTERY_SHERD": "ANGLER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"ARCHER_POTTERY_SHERD": "ARCHER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"ARMS_UP_POTTERY_SHERD": "ARMS_UP_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"BLADE_POTTERY_SHERD": "BLADE_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"BREWER_POTTERY_SHERD": "BREWER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"BURN_POTTERY_SHERD": "BURN_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"DANGER_POTTERY_SHERD": "DANGER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"EXPLORER_POTTERY_SHERD": "EXPLORER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"FRIEND_POTTERY_SHERD": "FRIEND_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"HEART_POTTERY_SHERD": "HEART_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"HEARTBREAK_POTTERY_SHERD": "HEARTBREAK_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"HOWL_POTTERY_SHERD": "HOWL_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"MINER_POTTERY_SHERD": "MINER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"MOURNER_POTTERY_SHERD": "MOURNER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"PLENTY_POTTERY_SHERD": "PLENTY_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"PRIZE_POTTERY_SHERD": "PRIZE_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"SHEAF_POTTERY_SHERD": "SHEAF_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"SHELTER_POTTERY_SHERD": "SHELTER_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"SKULL_POTTERY_SHERD": "SKULL_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"SNORT_POTTERY_SHERD": "SNORT_POTTERY_SHERD"
+
+# Used for the disguise option Material
+"TALL_SEAGRASS": "TALL_SEAGRASS"
+
+# Used for the disguise option Material
+"PISTON_HEAD": "PISTON_HEAD"
+
+# Used for the disguise option Material
+"MOVING_PISTON": "MOVING_PISTON"
+
+# Used for the disguise option Material
+"WALL_TORCH": "WALL_TORCH"
+
+# Used for the disguise option Material
+"SOUL_FIRE": "SOUL_FIRE"
+
+# Used for the disguise option Material
+"REDSTONE_WIRE": "REDSTONE_WIRE"
+
+# Used for the disguise option Material
+"OAK_WALL_SIGN": "OAK_WALL_SIGN"
+
+# Used for the disguise option Material
+"SPRUCE_WALL_SIGN": "SPRUCE_WALL_SIGN"
+
+# Used for the disguise option Material
+"BIRCH_WALL_SIGN": "BIRCH_WALL_SIGN"
+
+# Used for the disguise option Material
+"ACACIA_WALL_SIGN": "ACACIA_WALL_SIGN"
+
+# Used for the disguise option Material
+"CHERRY_WALL_SIGN": "CHERRY_WALL_SIGN"
+
+# Used for the disguise option Material
+"JUNGLE_WALL_SIGN": "JUNGLE_WALL_SIGN"
+
+# Used for the disguise option Material
+"DARK_OAK_WALL_SIGN": "DARK_OAK_WALL_SIGN"
+
+# Used for the disguise option Material
+"MANGROVE_WALL_SIGN": "MANGROVE_WALL_SIGN"
+
+# Used for the disguise option Material
+"BAMBOO_WALL_SIGN": "BAMBOO_WALL_SIGN"
+
+# Used for the disguise option Material
+"OAK_WALL_HANGING_SIGN": "OAK_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"SPRUCE_WALL_HANGING_SIGN": "SPRUCE_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"BIRCH_WALL_HANGING_SIGN": "BIRCH_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"ACACIA_WALL_HANGING_SIGN": "ACACIA_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"CHERRY_WALL_HANGING_SIGN": "CHERRY_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"JUNGLE_WALL_HANGING_SIGN": "JUNGLE_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"DARK_OAK_WALL_HANGING_SIGN": "DARK_OAK_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"MANGROVE_WALL_HANGING_SIGN": "MANGROVE_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"CRIMSON_WALL_HANGING_SIGN": "CRIMSON_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"WARPED_WALL_HANGING_SIGN": "WARPED_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"BAMBOO_WALL_HANGING_SIGN": "BAMBOO_WALL_HANGING_SIGN"
+
+# Used for the disguise option Material
+"REDSTONE_WALL_TORCH": "REDSTONE_WALL_TORCH"
+
+# Used for the disguise option Material
+"SOUL_WALL_TORCH": "SOUL_WALL_TORCH"
+
+# Used for the disguise option Material
+"NETHER_PORTAL": "NETHER_PORTAL"
+
+# Used for the disguise option Material
+"ATTACHED_PUMPKIN_STEM": "ATTACHED_PUMPKIN_STEM"
+
+# Used for the disguise option Material
+"ATTACHED_MELON_STEM": "ATTACHED_MELON_STEM"
+
+# Used for the disguise option Material
+"PUMPKIN_STEM": "PUMPKIN_STEM"
+
+# Used for the disguise option Material
+"MELON_STEM": "MELON_STEM"
+
+# Used for the disguise option Material
+"WATER_CAULDRON": "WATER_CAULDRON"
+
+# Used for the disguise option Material
+"LAVA_CAULDRON": "LAVA_CAULDRON"
+
+# Used for the disguise option Material
+"POWDER_SNOW_CAULDRON": "POWDER_SNOW_CAULDRON"
+
+# Used for the disguise option Material
+"END_PORTAL": "END_PORTAL"
+
+# Used for the disguise option Material
+"COCOA": "COCOA"
+
+# Used for the disguise option Material
+"TRIPWIRE": "TRIPWIRE"
+
+# Used for the disguise option Material
+"POTTED_TORCHFLOWER": "POTTED_TORCHFLOWER"
+
+# Used for the disguise option Material
+"POTTED_OAK_SAPLING": "POTTED_OAK_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_SPRUCE_SAPLING": "POTTED_SPRUCE_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_BIRCH_SAPLING": "POTTED_BIRCH_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_JUNGLE_SAPLING": "POTTED_JUNGLE_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_ACACIA_SAPLING": "POTTED_ACACIA_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_CHERRY_SAPLING": "POTTED_CHERRY_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_DARK_OAK_SAPLING": "POTTED_DARK_OAK_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_MANGROVE_PROPAGULE": "POTTED_MANGROVE_PROPAGULE"
+
+# Used for the disguise option Material
+"POTTED_FERN": "POTTED_FERN"
+
+# Used for the disguise option Material
+"POTTED_DANDELION": "POTTED_DANDELION"
+
+# Used for the disguise option Material
+"POTTED_POPPY": "POTTED_POPPY"
+
+# Used for the disguise option Material
+"POTTED_BLUE_ORCHID": "POTTED_BLUE_ORCHID"
+
+# Used for the disguise option Material
+"POTTED_ALLIUM": "POTTED_ALLIUM"
+
+# Used for the disguise option Material
+"POTTED_AZURE_BLUET": "POTTED_AZURE_BLUET"
+
+# Used for the disguise option Material
+"POTTED_RED_TULIP": "POTTED_RED_TULIP"
+
+# Used for the disguise option Material
+"POTTED_ORANGE_TULIP": "POTTED_ORANGE_TULIP"
+
+# Used for the disguise option Material
+"POTTED_WHITE_TULIP": "POTTED_WHITE_TULIP"
+
+# Used for the disguise option Material
+"POTTED_PINK_TULIP": "POTTED_PINK_TULIP"
+
+# Used for the disguise option Material
+"POTTED_OXEYE_DAISY": "POTTED_OXEYE_DAISY"
+
+# Used for the disguise option Material
+"POTTED_CORNFLOWER": "POTTED_CORNFLOWER"
+
+# Used for the disguise option Material
+"POTTED_LILY_OF_THE_VALLEY": "POTTED_LILY_OF_THE_VALLEY"
+
+# Used for the disguise option Material
+"POTTED_WITHER_ROSE": "POTTED_WITHER_ROSE"
+
+# Used for the disguise option Material
+"POTTED_RED_MUSHROOM": "POTTED_RED_MUSHROOM"
+
+# Used for the disguise option Material
+"POTTED_BROWN_MUSHROOM": "POTTED_BROWN_MUSHROOM"
+
+# Used for the disguise option Material
+"POTTED_DEAD_BUSH": "POTTED_DEAD_BUSH"
+
+# Used for the disguise option Material
+"POTTED_CACTUS": "POTTED_CACTUS"
+
+# Used for the disguise option Material
+"CARROTS": "CARROTS"
+
+# Used for the disguise option Material
+"POTATOES": "POTATOES"
+
+# Used for the disguise option Material
+"SKELETON_WALL_SKULL": "SKELETON_WALL_SKULL"
+
+# Used for the disguise option Material
+"WITHER_SKELETON_WALL_SKULL": "WITHER_SKELETON_WALL_SKULL"
+
+# Used for the disguise option Material
+"ZOMBIE_WALL_HEAD": "ZOMBIE_WALL_HEAD"
+
+# Used for the disguise option Material
+"PLAYER_WALL_HEAD": "PLAYER_WALL_HEAD"
+
+# Used for the disguise option Material
+"CREEPER_WALL_HEAD": "CREEPER_WALL_HEAD"
+
+# Used for the disguise option Material
+"DRAGON_WALL_HEAD": "DRAGON_WALL_HEAD"
+
+# Used for the disguise option Material
+"PIGLIN_WALL_HEAD": "PIGLIN_WALL_HEAD"
+
+# Used for the disguise option Material
+"WHITE_WALL_BANNER": "WHITE_WALL_BANNER"
+
+# Used for the disguise option Material
+"ORANGE_WALL_BANNER": "ORANGE_WALL_BANNER"
+
+# Used for the disguise option Material
+"MAGENTA_WALL_BANNER": "MAGENTA_WALL_BANNER"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_WALL_BANNER": "LIGHT_BLUE_WALL_BANNER"
+
+# Used for the disguise option Material
+"YELLOW_WALL_BANNER": "YELLOW_WALL_BANNER"
+
+# Used for the disguise option Material
+"LIME_WALL_BANNER": "LIME_WALL_BANNER"
+
+# Used for the disguise option Material
+"PINK_WALL_BANNER": "PINK_WALL_BANNER"
+
+# Used for the disguise option Material
+"GRAY_WALL_BANNER": "GRAY_WALL_BANNER"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_WALL_BANNER": "LIGHT_GRAY_WALL_BANNER"
+
+# Used for the disguise option Material
+"CYAN_WALL_BANNER": "CYAN_WALL_BANNER"
+
+# Used for the disguise option Material
+"PURPLE_WALL_BANNER": "PURPLE_WALL_BANNER"
+
+# Used for the disguise option Material
+"BLUE_WALL_BANNER": "BLUE_WALL_BANNER"
+
+# Used for the disguise option Material
+"BROWN_WALL_BANNER": "BROWN_WALL_BANNER"
+
+# Used for the disguise option Material
+"GREEN_WALL_BANNER": "GREEN_WALL_BANNER"
+
+# Used for the disguise option Material
+"RED_WALL_BANNER": "RED_WALL_BANNER"
+
+# Used for the disguise option Material
+"BLACK_WALL_BANNER": "BLACK_WALL_BANNER"
+
+# Used for the disguise option Material
+"TORCHFLOWER_CROP": "TORCHFLOWER_CROP"
+
+# Used for the disguise option Material
+"PITCHER_CROP": "PITCHER_CROP"
+
+# Used for the disguise option Material
+"BEETROOTS": "BEETROOTS"
+
+# Used for the disguise option Material
+"END_GATEWAY": "END_GATEWAY"
+
+# Used for the disguise option Material
+"FROSTED_ICE": "FROSTED_ICE"
+
+# Used for the disguise option Material
+"KELP_PLANT": "KELP_PLANT"
+
+# Used for the disguise option Material
+"DEAD_TUBE_CORAL_WALL_FAN": "DEAD_TUBE_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"DEAD_BRAIN_CORAL_WALL_FAN": "DEAD_BRAIN_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"DEAD_BUBBLE_CORAL_WALL_FAN": "DEAD_BUBBLE_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"DEAD_FIRE_CORAL_WALL_FAN": "DEAD_FIRE_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"DEAD_HORN_CORAL_WALL_FAN": "DEAD_HORN_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"TUBE_CORAL_WALL_FAN": "TUBE_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"BRAIN_CORAL_WALL_FAN": "BRAIN_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"BUBBLE_CORAL_WALL_FAN": "BUBBLE_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"FIRE_CORAL_WALL_FAN": "FIRE_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"HORN_CORAL_WALL_FAN": "HORN_CORAL_WALL_FAN"
+
+# Used for the disguise option Material
+"BAMBOO_SAPLING": "BAMBOO_SAPLING"
+
+# Used for the disguise option Material
+"POTTED_BAMBOO": "POTTED_BAMBOO"
+
+# Used for the disguise option Material
+"BUBBLE_COLUMN": "BUBBLE_COLUMN"
+
+# Used for the disguise option Material
+"SWEET_BERRY_BUSH": "SWEET_BERRY_BUSH"
+
+# Used for the disguise option Material
+"WEEPING_VINES_PLANT": "WEEPING_VINES_PLANT"
+
+# Used for the disguise option Material
+"TWISTING_VINES_PLANT": "TWISTING_VINES_PLANT"
+
+# Used for the disguise option Material
+"CRIMSON_WALL_SIGN": "CRIMSON_WALL_SIGN"
+
+# Used for the disguise option Material
+"WARPED_WALL_SIGN": "WARPED_WALL_SIGN"
+
+# Used for the disguise option Material
+"POTTED_CRIMSON_FUNGUS": "POTTED_CRIMSON_FUNGUS"
+
+# Used for the disguise option Material
+"POTTED_WARPED_FUNGUS": "POTTED_WARPED_FUNGUS"
+
+# Used for the disguise option Material
+"POTTED_CRIMSON_ROOTS": "POTTED_CRIMSON_ROOTS"
+
+# Used for the disguise option Material
+"POTTED_WARPED_ROOTS": "POTTED_WARPED_ROOTS"
+
+# Used for the disguise option Material
+"CANDLE_CAKE": "CANDLE_CAKE"
+
+# Used for the disguise option Material
+"WHITE_CANDLE_CAKE": "WHITE_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"ORANGE_CANDLE_CAKE": "ORANGE_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"MAGENTA_CANDLE_CAKE": "MAGENTA_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"LIGHT_BLUE_CANDLE_CAKE": "LIGHT_BLUE_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"YELLOW_CANDLE_CAKE": "YELLOW_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"LIME_CANDLE_CAKE": "LIME_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"PINK_CANDLE_CAKE": "PINK_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"GRAY_CANDLE_CAKE": "GRAY_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"LIGHT_GRAY_CANDLE_CAKE": "LIGHT_GRAY_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"CYAN_CANDLE_CAKE": "CYAN_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"PURPLE_CANDLE_CAKE": "PURPLE_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"BLUE_CANDLE_CAKE": "BLUE_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"BROWN_CANDLE_CAKE": "BROWN_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"GREEN_CANDLE_CAKE": "GREEN_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"RED_CANDLE_CAKE": "RED_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"BLACK_CANDLE_CAKE": "BLACK_CANDLE_CAKE"
+
+# Used for the disguise option Material
+"POWDER_SNOW": "POWDER_SNOW"
+
+# Used for the disguise option Material
+"CAVE_VINES": "CAVE_VINES"
+
+# Used for the disguise option Material
+"CAVE_VINES_PLANT": "CAVE_VINES_PLANT"
+
+# Used for the disguise option Material
+"BIG_DRIPLEAF_STEM": "BIG_DRIPLEAF_STEM"
+
+# Used for the disguise option Material
+"POTTED_AZALEA_BUSH": "POTTED_AZALEA_BUSH"
+
+# Used for the disguise option Material
+"POTTED_FLOWERING_AZALEA_BUSH": "POTTED_FLOWERING_AZALEA_BUSH"
+
+# A disguise option name, has description An ItemStack compromised of Material,Amount,Glow. Only requires Material
+"ItemStack": "ItemStack"
+
+# A disguise option descriptive name
+"ItemStack (Material,Amount?,Glow?)": "ItemStack (Material,Amount?,Glow?)"
+
+# Description for the disguise option ItemStack
+"An ItemStack compromised of Material,Amount,Glow. Only requires Material": "An ItemStack compromised of Material,Amount,Glow. Only requires Material"
+
+# A disguise option name, has description Four ItemStacks separated by a comma
+"ItemStack[]": "ItemStack[]"
+
+# A disguise option descriptive name
+"Four ItemStacks (Material:Amount?:Glow?,Material:Amount?:Glow?..)": "Four ItemStacks (Material:Amount?:Glow?,Material:Amount?:Glow?..)"
+
+# Description for the disguise option ItemStack[]
+"Four ItemStacks separated by a comma": "Four ItemStacks separated by a comma"
+
+# A disguise option name, has description View all the potion effects you can add
+"Potion Effect": "Potion Effect"
+
+# Description for the disguise option Potion Effect
+"View all the potion effects you can add": "View all the potion effects you can add"
+
+# Used for the disguise option Potion Effect
+"Fast_Digging": "Fast_Digging"
+
+# Used for the disguise option Potion Effect
+"Darkness": "Darkness"
+
+# Used for the disguise option Potion Effect
+"Slow": "Slow"
+
+# Used for the disguise option Potion Effect
+"Dolphins_Grace": "Dolphins_Grace"
+
+# Used for the disguise option Potion Effect
+"Increase_Damage": "Increase_Damage"
+
+# Used for the disguise option Potion Effect
+"Levitation": "Levitation"
+
+# Used for the disguise option Potion Effect
+"Confusion": "Confusion"
+
+# Used for the disguise option Potion Effect
+"Fire_Resistance": "Fire_Resistance"
+
+# Used for the disguise option Potion Effect
+"Bad_Omen": "Bad_Omen"
+
+# Used for the disguise option Potion Effect
+"Night_Vision": "Night_Vision"
+
+# Used for the disguise option Potion Effect
+"Hunger": "Hunger"
+
+# Used for the disguise option Potion Effect
+"Absorption": "Absorption"
+
+# Used for the disguise option Potion Effect
+"Weakness": "Weakness"
+
+# Used for the disguise option Potion Effect
+"Water_Breathing": "Water_Breathing"
+
+# Used for the disguise option Potion Effect
+"Wither": "Wither"
+
+# Used for the disguise option Potion Effect
+"Speed": "Speed"
+
+# Used for the disguise option Potion Effect
+"Slow_Falling": "Slow_Falling"
+
+# Used for the disguise option Potion Effect
+"Slow_Digging": "Slow_Digging"
+
+# Used for the disguise option Potion Effect
+"Damage_Resistance": "Damage_Resistance"
+
+# Used for the disguise option Potion Effect
+"Health_Boost": "Health_Boost"
+
+# Used for the disguise option Potion Effect
+"Saturation": "Saturation"
+
+# Used for the disguise option Potion Effect
+"Unluck": "Unluck"
+
+# Used for the disguise option Potion Effect
+"Heal": "Heal"
+
+# Used for the disguise option Potion Effect
+"Glowing": "Glowing"
+
+# Used for the disguise option Potion Effect
+"Jump": "Jump"
+
+# Used for the disguise option Potion Effect
+"Hero_Of_The_Village": "Hero_Of_The_Village"
+
+# Used for the disguise option Potion Effect
+"Regeneration": "Regeneration"
+
+# Used for the disguise option Potion Effect
+"Invisibility": "Invisibility"
+
+# Used for the disguise option Potion Effect
+"Luck": "Luck"
+
+# Used for the disguise option Potion Effect
+"Harm": "Harm"
+
+# Used for the disguise option Potion Effect
+"Blindness": "Blindness"
+
+# Used for the disguise option Potion Effect
+"Conduit_Power": "Conduit_Power"
+
+# Used for the disguise option Potion Effect
+"Poison": "Poison"
+
+# A disguise option name, has description Three numbers separated by a ,
+"Block Position": "Block Position"
+
+# A disguise option descriptive name
+"Block Position (num,num,num)": "Block Position (num,num,num)"
+
+# Description for the disguise option Block Position
+"Three numbers separated by a ,": "Three numbers separated by a ,"
+
+# A disguise option name, has description Get the gameprofile here https://sessionserver.mojang.com/session/minecraft/profile/PLAYER_UUID_GOES_HERE?unsigned=false
+"GameProfile": "GameProfile"
+
+# Description for the disguise option GameProfile
+"Get the gameprofile here https://sessionserver.mojang.com/session/minecraft/profile/PLAYER_UUID_GOES_HERE?unsigned=false": "Get the gameprofile here https://sessionserver.mojang.com/session/minecraft/profile/PLAYER_UUID_GOES_HERE?unsigned=false"
+
+# A disguise option name, has description Set how long the disguise lasts, <Num><Time><Num>... where <Time> is (s/sec)(m/min)(h/hour)(d/day) etc. 30m20secs = 30 minutes, 20 seconds
+"Expiry Time": "Expiry Time"
+
+# Description for the disguise option Expiry Time
+"Set how long the disguise lasts, <Num><Time><Num>... where <Time> is (s/sec)(m/min)(h/hour)(d/day) etc. 30m20secs = 30 minutes, 20 seconds": "Set how long the disguise lasts, <Num><Time><Num>... where <Time> is (s/sec)(m/min)(h/hour)(d/day) etc. 30m20secs = 30 minutes, 20 seconds"
+
+# A disguise option name, has description A chat color
+"ChatColor": "ChatColor"
+
+# Description for the disguise option ChatColor
+"A chat color": "A chat color"
+
+# Used for the disguise option ChatColor
+"DARK_BLUE": "DARK_BLUE"
+
+# Used for the disguise option ChatColor
+"DARK_GREEN": "DARK_GREEN"
+
+# Used for the disguise option ChatColor
+"DARK_AQUA": "DARK_AQUA"
+
+# Used for the disguise option ChatColor
+"DARK_RED": "DARK_RED"
+
+# Used for the disguise option ChatColor
+"DARK_PURPLE": "DARK_PURPLE"
+
+# Used for the disguise option ChatColor
+"DARK_GRAY": "DARK_GRAY"
+
+# Used for the disguise option ChatColor
+"LIGHT_PURPLE": "LIGHT_PURPLE"
+
+# Used for the disguise option ChatColor
+"MAGIC": "MAGIC"
+
+# Used for the disguise option ChatColor
+"BOLD": "BOLD"
+
+# Used for the disguise option ChatColor
+"STRIKETHROUGH": "STRIKETHROUGH"
+
+# Used for the disguise option ChatColor
+"UNDERLINE": "UNDERLINE"
+
+# Used for the disguise option ChatColor
+"ITALIC": "ITALIC"
+
+# Used for the disguise option ChatColor
+"RESET": "RESET"
+
+# A disguise option name, has description The stage a golem has been cracked
+"Golem Cracked": "Golem Cracked"
+
+# Description for the disguise option Golem Cracked
+"The stage a golem has been cracked": "The stage a golem has been cracked"
+
+# Used for the disguise option Golem Cracked
+"HEALTH_100": "HEALTH_100"
+
+# Used for the disguise option Golem Cracked
+"HEALTH_75": "HEALTH_75"
+
+# Used for the disguise option Golem Cracked
+"HEALTH_50": "HEALTH_50"
+
+# Used for the disguise option Golem Cracked
+"HEALTH_25": "HEALTH_25"
+
+# A disguise option name, has description True or False
+"Boolean": "Boolean"
+
+# A disguise option descriptive name
+"True/False": "True/False"
+
+# Description for the disguise option Boolean
+"True or False": "True or False"
+
+# Used for the disguise option Boolean
+"true": "true"
+
+# Used for the disguise option Boolean
+"false": "false"
+
+# A disguise option name, has description A line of text
+"Text": "Text"
+
+# Description for the disguise option Text
+"A line of text": "A line of text"
+
+# A disguise option name, has description A whole number without decimals
+"Number": "Number"
+
+# Description for the disguise option Number
+"A whole number without decimals": "A whole number without decimals"
+
+# A disguise option name, has description A number which can have decimal places
+"Number.0": "Number.0"
+
+# Description for the disguise option Number.0
+"A number which can have decimal places": "A number which can have decimal places"
+
+# Description for the disguise option Number.0
+"A number which can have decimal places or be null": "A number which can have decimal places or be null"
+
+# A disguise option name, has description A group of sounds
+"SoundGroup": "SoundGroup"
+
+# Description for the disguise option SoundGroup
+"A group of sounds": "A group of sounds"
+
+# Used for the disguise option SoundGroup
+"ALLAY": "ALLAY"
+
+# Used for the disguise option SoundGroup
+"AXOLOTL": "AXOLOTL"
+
+# Used for the disguise option SoundGroup
+"BAT": "BAT"
+
+# Used for the disguise option SoundGroup
+"BEE": "BEE"
+
+# Used for the disguise option SoundGroup
+"BLAZE": "BLAZE"
+
+# Used for the disguise option SoundGroup
+"BLOCK_DISPLAY": "BLOCK_DISPLAY"
+
+# Used for the disguise option SoundGroup
+"BOAT": "BOAT"
+
+# Used for the disguise option SoundGroup
+"CAMEL": "CAMEL"
+
+# Used for the disguise option SoundGroup
+"CAT": "CAT"
+
+# Used for the disguise option SoundGroup
+"CAVE_SPIDER": "CAVE_SPIDER"
+
+# Used for the disguise option SoundGroup
+"CHEST_BOAT": "CHEST_BOAT"
+
+# Used for the disguise option SoundGroup
+"COW": "COW"
+
+# Used for the disguise option SoundGroup
+"CREEPER": "CREEPER"
+
+# Used for the disguise option SoundGroup
+"DONKEY": "DONKEY"
+
+# Used for the disguise option SoundGroup
+"DROWNED": "DROWNED"
+
+# Used for the disguise option SoundGroup
+"ELDER_GUARDIAN": "ELDER_GUARDIAN"
+
+# Used for the disguise option SoundGroup
+"ENDER_DRAGON": "ENDER_DRAGON"
+
+# Used for the disguise option SoundGroup
+"ENDERMAN": "ENDERMAN"
+
+# Used for the disguise option SoundGroup
+"ENDERMITE": "ENDERMITE"
+
+# Used for the disguise option SoundGroup
+"EVOKER": "EVOKER"
+
+# Used for the disguise option SoundGroup
+"EVOKER_FANGS": "EVOKER_FANGS"
+
+# Used for the disguise option SoundGroup
+"FOX": "FOX"
+
+# Used for the disguise option SoundGroup
+"FROG": "FROG"
+
+# Used for the disguise option SoundGroup
+"GHAST": "GHAST"
+
+# Used for the disguise option SoundGroup
+"GIANT": "GIANT"
+
+# Used for the disguise option SoundGroup
+"GLOW_SQUID": "GLOW_SQUID"
+
+# Used for the disguise option SoundGroup
+"GOAT": "GOAT"
+
+# Used for the disguise option SoundGroup
+"GUARDIAN": "GUARDIAN"
+
+# Used for the disguise option SoundGroup
+"HOGLIN": "HOGLIN"
+
+# Used for the disguise option SoundGroup
+"HORSE": "HORSE"
+
+# Used for the disguise option SoundGroup
+"HUSK": "HUSK"
+
+# Used for the disguise option SoundGroup
+"ILLUSIONER": "ILLUSIONER"
+
+# Used for the disguise option SoundGroup
+"INTERACTION": "INTERACTION"
+
+# Used for the disguise option SoundGroup
+"IRON_GOLEM": "IRON_GOLEM"
+
+# Used for the disguise option SoundGroup
+"ITEM_DISPLAY": "ITEM_DISPLAY"
+
+# Used for the disguise option SoundGroup
+"LLAMA": "LLAMA"
+
+# Used for the disguise option SoundGroup
+"MAGMA_CUBE": "MAGMA_CUBE"
+
+# Used for the disguise option SoundGroup
+"MINECART_CHEST": "MINECART_CHEST"
+
+# Used for the disguise option SoundGroup
+"MINECART_COMMAND": "MINECART_COMMAND"
+
+# Used for the disguise option SoundGroup
+"MINECART_FURNACE": "MINECART_FURNACE"
+
+# Used for the disguise option SoundGroup
+"MINECART_HOPPER": "MINECART_HOPPER"
+
+# Used for the disguise option SoundGroup
+"MINECART_MOB_SPAWNER": "MINECART_MOB_SPAWNER"
+
+# Used for the disguise option SoundGroup
+"MINECART_TNT": "MINECART_TNT"
+
+# Used for the disguise option SoundGroup
+"MULE": "MULE"
+
+# Used for the disguise option SoundGroup
+"MUSHROOM_COW": "MUSHROOM_COW"
+
+# Used for the disguise option SoundGroup
+"OCELOT": "OCELOT"
+
+# Used for the disguise option SoundGroup
+"PANDA": "PANDA"
+
+# Used for the disguise option SoundGroup
+"PARROT": "PARROT"
+
+# Used for the disguise option SoundGroup
+"PHANTOM": "PHANTOM"
+
+# Used for the disguise option SoundGroup
+"PIG": "PIG"
+
+# Used for the disguise option SoundGroup
+"PIG_ZOMBIE": "PIG_ZOMBIE"
+
+# Used for the disguise option SoundGroup
+"PIGLIN": "PIGLIN"
+
+# Used for the disguise option SoundGroup
+"PIGLIN_BRUTE": "PIGLIN_BRUTE"
+
+# Used for the disguise option SoundGroup
+"PILLAGER": "PILLAGER"
+
+# Used for the disguise option SoundGroup
+"PLAYER": "PLAYER"
+
+# Used for the disguise option SoundGroup
+"POLAR_BEAR": "POLAR_BEAR"
+
+# Used for the disguise option SoundGroup
+"RAVAGER": "RAVAGER"
+
+# Used for the disguise option SoundGroup
+"SHEEP": "SHEEP"
+
+# Used for the disguise option SoundGroup
+"SHULKER": "SHULKER"
+
+# Used for the disguise option SoundGroup
+"SILVERFISH": "SILVERFISH"
+
+# Used for the disguise option SoundGroup
+"SKELETON_HORSE": "SKELETON_HORSE"
+
+# Used for the disguise option SoundGroup
+"SNIFFER": "SNIFFER"
+
+# Used for the disguise option SoundGroup
+"SNOWMAN": "SNOWMAN"
+
+# Used for the disguise option SoundGroup
+"SPIDER": "SPIDER"
+
+# Used for the disguise option SoundGroup
+"SQUID": "SQUID"
+
+# Used for the disguise option SoundGroup
+"STRAY": "STRAY"
+
+# Used for the disguise option SoundGroup
+"STRIDER": "STRIDER"
+
+# Used for the disguise option SoundGroup
+"TADPOLE": "TADPOLE"
+
+# Used for the disguise option SoundGroup
+"TEXT_DISPLAY": "TEXT_DISPLAY"
+
+# Used for the disguise option SoundGroup
+"TRADER_LLAMA": "TRADER_LLAMA"
+
+# Used for the disguise option SoundGroup
+"TURTLE": "TURTLE"
+
+# Used for the disguise option SoundGroup
+"VEX": "VEX"
+
+# Used for the disguise option SoundGroup
+"VILLAGER": "VILLAGER"
+
+# Used for the disguise option SoundGroup
+"VINDICATOR": "VINDICATOR"
+
+# Used for the disguise option SoundGroup
+"WANDERING_TRADER": "WANDERING_TRADER"
+
+# Used for the disguise option SoundGroup
+"WARDEN": "WARDEN"
+
+# Used for the disguise option SoundGroup
+"WITCH": "WITCH"
+
+# Used for the disguise option SoundGroup
+"WITHER_SKELETON": "WITHER_SKELETON"
+
+# Used for the disguise option SoundGroup
+"WOLF": "WOLF"
+
+# Used for the disguise option SoundGroup
+"ZOGLIN": "ZOGLIN"
+
+# Used for the disguise option SoundGroup
+"ZOMBIE": "ZOMBIE"
+
+# Used for the disguise option SoundGroup
+"ZOMBIE_HORSE": "ZOMBIE_HORSE"
+
+# Used for the disguise option SoundGroup
+"ZOMBIE_VILLAGER": "ZOMBIE_VILLAGER"
+
+# Used for the disguise option SoundGroup
+"ZOMBIFIED_PIGLIN": "ZOMBIFIED_PIGLIN"
+
+# Used for the disguise option SoundGroup
+"BREEZE": "BREEZE"
+
+# Used for the disguise option SoundGroup
+"WINDCHARGE": "WINDCHARGE"

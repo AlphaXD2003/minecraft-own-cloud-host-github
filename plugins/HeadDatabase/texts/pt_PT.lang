@@ -1,0 +1,59 @@
+# pt_PT.lang
+
+! &bA usar a linguagem &3"pt_PT.lang" &btraduzida por &2KUMApt
+
+# Altera aqui as mensagens, tu podes usar o símbolo & para usares cores costumizadas.
+# As mensagens de compra devem conter %Item% e %price%
+# Base de dados podem conter %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4HeadDB&8 %count% Cabeças
+messages.search: &4Encontradas&8 %count% cabeças
+messages.page: Página
+messages.price: &aPreço: &2
+messages.heads: Cabeças
+messages.head: Cabeça
+messages.other: Outras
+messages.loading: &c..A Carregar..
+messages.recentHeads: &aAdicionadas recentemente
+messages.noPermissionToBuyLore: &cSem permissão
+messages.searchCommand: &7/hdb search [entrada]
+messages.pheadCommand: /phead [nome]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: &cNão tens permissão para isto!
+messages.notEnoughMoney: &cNão tens dinheiro para isto!
+messages.notEnoughSpace: &cO teu inventário está cheio!
+messages.buyMessage: %item% &acomprado(a) por &2%price%
+messages.backToMenu: &cVoltar ao Menu
+messages.clickToSearch: &a&n&lClica aqui&b para procurares as cabeças
+messages.noHeadsFound: &eNão foram encontradas cabeças, tenta novamente!
+messages.moreSpecific: &ePor favor. Sê mais específico!
+messages.headsFound: &eCabeças encontradas!
+messages.searchForHeads: &cPesquisar cabeças.
+messages.pluginInfo: &cInformação do Plugin
+messages.pluginSuggest: &cTu poderás dar sugestões de cabeças aqui.
+messages.pluginSuggestLore: &7Por favor, verifica a Base de Dados primeiro!
+messages.chatSearch: &bDigita no chat o que procuras.
+messages.databaseStillLoading: &cAinda à procura. Tenta novamente dentro de alguns segundos.
+messages.customCommandItemName: &cVoltar ao Menu Principal.
+
+category.alphabet: Alfabeto
+category.animals: Animais
+category.blocks: Blocos
+category.decoration: Decoração
+category.food_drinks: Comida e Bebidas
+category.humans: Humanos
+category.humanoid: Humanóide
+category.miscellaneous: Diversos
+category.monsters: Monstros
+category.plants: Plantas
+category.custom: Cabeças do servidor costumizadas
+category.custom2: Cabeças do servidor costumizadas 2
+category.custom3: Cabeças do servidor costumizadas 3
+category.custom4: Cabeças do servidor costumizadas 4
+category.custom5: Cabeças do servidor costumizadas 5
+category.online_players: Jogadores Online

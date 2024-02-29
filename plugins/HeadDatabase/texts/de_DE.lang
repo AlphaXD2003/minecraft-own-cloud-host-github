@@ -1,0 +1,79 @@
+# de_DE.lang
+
+! &bVerwende &3"de_DE.lang" &berstellt von &6Knatschkopp
+
+# Hier kannst du die Nachrichten verändern, benutze & um Farben zu verwenden.
+# buyMessage muss %Item% und %price% beinhalten
+# database kann %count% enthalten
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% Köpfe
+messages.search: &4Kopf Suche&8 %count% Köpfe
+messages.page: Seite
+messages.price: &aPreis: &2
+messages.heads: Köpfe
+messages.head: Kopf
+messages.other: Andere
+messages.loading: &c..Lade..
+messages.recentHeads: &aKürzlich hinzugefügt
+messages.noPermissionToBuyLore: &cKeine Rechte
+messages.searchCommand: &7/hdb search [Eingabe]
+messages.pheadCommand: /phead [name]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bHier kannst du Köpfe vorschlagen:
+messages.noPermission: &cDu hast keine Erlaubnis dies zu tun!
+messages.notEnoughMoney: &cDu hast nicht genügend Geld um dies zu tun!
+messages.notEnoughSpace: &cDu hast nicht genügend Platz in deinem Inventar!
+messages.buyMessage: &aDu hast %item% &afür &2%price% &agekauft
+messages.backToMenu: &cZurück zum Menü
+messages.clickToSearch: &a&n&lKlicke hier&b um nach Köpfen zu suchen
+messages.noHeadsFound: &eKeine Köpfe gefunden, versuche es erneut!
+messages.moreSpecific: &eBitte sei spezifischer!
+messages.headsFound: &eKöpfe gefunden!
+messages.searchForHeads: &cSuche nach Köpfen
+messages.pluginInfo: &cPlugin Info
+messages.pluginSuggest: &cHier kannst du neue Köpfe vorschlagen
+messages.pluginSuggestLore: &7Bitte prüfe zuerst die Datenbank!
+messages.chatSearch: &bGebe deine Suche ein (nutze englische Begriffe)
+messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es gleich erneut!
+messages.customCommandItemName: &cZurück zum Hauptmenü
+messages.patience: &cBitte warte einen Moment bevor du dir den nächsten Kopf holen kannst!
+messages.overflow: &eDa dein Inventar voll ist, wurde der Kopf auf dem Boden platziert.
+
+# Kategorien
+
+category.alphabet: Alphabet
+category.animals: Tiere
+category.blocks: Blöcke
+category.decoration: Dekoration
+category.food_drinks: Essen und Trinken
+category.humans: Menschen
+category.humanoid: Humanoid
+category.miscellaneous: Sonstige
+category.monsters: Monster
+category.plants: Pflanzen
+category.custom: Benutzerdefinierte Köpfe
+category.custom2: Benutzerdefinierte Köpfe 2
+category.custom3: Benutzerdefinierte Köpfe 3
+category.custom4: Benutzerdefinierte Köpfe 4
+category.custom5: Benutzerdefinierte Köpfe 5
+category.online_players: Online-Spieler
+category.disabled: Deaktiviert
+
+# Events
+
+event.halloween: &eHalloween
+event.christmas: &bWeihnachten
+event.newYear: &6Frohes neues Jahr
+event.valentines: &cValentinstag
+event.4thOfJuly: &cFröhlichen 4. Juli
+event.easter: &fOstern
+event.winter: &fWinter
+event.summer: &6Sommer
+event.MayThe4th: &3Möge die Macht mit dir sein
+event.piDay: &3Pi Tag
+event.pokemon: &6Pokémon Tag

@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Suvrajit",
+      "uniqueId": "4e652eb0-f42e-34fb-8424-539c2da8221f"
+    },
+    "time": 1709178361973,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Z48UN9aCaF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Suvrajit",
+      "uniqueId": "4e652eb0-f42e-34fb-8424-539c2da8221f"
+    },
+    "time": 1709178316945,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Xc0ahc0sGm"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Suvrajit",
+      "uniqueId": "4e652eb0-f42e-34fb-8424-539c2da8221f"
+    },
+    "time": 1709178156394,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dfOPPXhaSl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Suvrajit",
+      "uniqueId": "4e652eb0-f42e-34fb-8424-539c2da8221f"
+    },
+    "time": 1709178088570,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/L0wdF61ZkX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Suvrajit",
+      "uniqueId": "4e652eb0-f42e-34fb-8424-539c2da8221f"
+    },
+    "time": 1706771774080,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OrxJyJSL5i"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Suvrajit",
+      "uniqueId": "4e652eb0-f42e-34fb-8424-539c2da8221f"
+    },
+    "time": 1706759681782,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2QwF4dzmPi"
+    }
+  }
+]

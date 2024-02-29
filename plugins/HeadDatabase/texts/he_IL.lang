@@ -1,0 +1,59 @@
+# he_IL.lang
+
+! &bUsing &3"he_IL.lang" &btranslated by &6AmitN
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB &8%count% ראשים
+messages.search: &4Head Search &8%count% ראשים
+messages.page: עמוד
+messages.price: &aמחיר : %price%
+messages.heads: ראשים
+messages.head: ראש
+messages.other: אחר
+messages.loading: &c..טוען..
+messages.recentHeads: &aהוסף לאחרונה
+messages.noPermissionToBuyLore: &cאין הרשאה
+messages.searchCommand: &7/hdb search [חיפוש]
+messages.pheadCommand: /phead [שם]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: אסור לך לעשות זאת!
+messages.notEnoughMoney: &cאין לך מספיק כסף בשביל זה!
+messages.notEnoughSpace: &cאין לך מספיק מקום בשביל זה!
+messages.buyMessage: &aקנית את %item% &aבשביל %price%
+messages.backToMenu: &cלחזור לתפריט
+messages.clickToSearch:&b כדי לחפש ראשים &a&n&lלחץ כאן
+messages.noHeadsFound: &e!לא מצא ראשים, נא נסה שוב
+messages.moreSpecific: &e!בבקשה תהיה יותר ספציפי
+messages.headsFound: &e!מצא ראשים
+messages.searchForHeads: &cחפש ראשים
+messages.pluginInfo: &cמידע על התוסף
+messages.pluginSuggest: &cאתה יכול להציע כאן ראשים
+messages.pluginSuggestLore: &7!בבקשה תבדוק את הממסד קודם
+messages.chatSearch: &bאנא הכנס את החיפוש שלך
+messages.databaseStillLoading: &cהממסד עדיין בטעינה, נסה שוב עוד כמה רגעים
+messages.customCommandItemName: &cתחזור לתפריט
+
+category.alphabet: אלף בית
+category.animals: חיות
+category.blocks: בלוקים
+category.decoration: תיאורה
+category.food_drinks: אוכל ומשקאות
+category.humans: בני אדם
+category.humanoid: דומה לאדם
+category.miscellaneous: שונות
+category.monsters: מפלצות
+category.plants: צמחים
+category.custom: ראשים מיוחדים
+category.custom2: ראשים מיוחדים 2
+category.custom3: ראשים מיוחדים 3
+category.custom4: ראשים מיוחדים 4
+category.custom5: ראשים מיוחדים 5
+category.online_players: שחקנים מחוברים

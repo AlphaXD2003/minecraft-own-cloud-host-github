@@ -1,0 +1,790 @@
+# To use translations in Lib's Disguises, you must have the purchased plugin
+# %s is where text is inserted, look up printf format codes if you're interested
+# To translate, follow this example 'Original Message': 'My New Message'
+# The Original Message is used as a yaml config key to get your new message!
+# To use hex color codes, use <#hexcolor> where hexcolor is the 6 char code
+# Reference: NO_DISGUISES_IN_USE
+"<red>There are no disguises in use!": "<red>There are no disguises in use!"
+
+# Reference: ACTIVE_DISGUISES_COUNT
+"<dark_green>There are %s disguises active": "<dark_green>There are %s disguises active"
+
+# Reference: ACTIVE_DISGUISES_DISGUISE
+"<green>%s: <aqua>%s": "<green>%s: <aqua>%s"
+
+# Reference: ACTIVE_DISGUISES
+"<dark_green>The disguises in use are: %s": "<dark_green>The disguises in use are: %s"
+
+# Reference: ACTIVE_DISGUISES_SEPERATOR
+"<red>, <green>": "<red>, <green>"
+
+# Reference: BLOWN_DISGUISE
+"<red>Your disguise was blown!": "<red>Your disguise was blown!"
+
+# Reference: EXPIRED_DISGUISE
+"<red>Your disguise has expired!": "<red>Your disguise has expired!"
+
+# Reference: CAN_USE_DISGS
+"<dark_green>You can use the disguises:<green> %s": "<dark_green>You can use the disguises:<green> %s"
+
+# Reference: CANNOT_FIND_PLAYER
+"<red>Cannot find the player/uuid '%s'": "<red>Cannot find the player/uuid '%s'"
+
+# Reference: CANNOT_FIND_PLAYER_NAME
+"<red>Cannot find the player '%s'": "<red>Cannot find the player '%s'"
+
+# Reference: CANNOT_FIND_PLAYER_UUID
+"<red>Cannot find the uuid '%s'": "<red>Cannot find the uuid '%s'"
+
+# Reference: CLICK_TIMER
+"<red>Right click a entity in the next %s seconds to grab the disguise reference!": "<red>Right click a entity in the next %s seconds to grab the disguise reference!"
+
+# Reference: CLONE_HELP1
+"<dark_green>Right click a entity to get a disguise reference you can pass to other disguise commands!": "<dark_green>Right click a entity to get a disguise reference you can pass to other disguise commands!"
+
+# Reference: CLONE_HELP2
+"<dark_green>Security note: Any references you create will be available to all players able to use disguise references.": "<dark_green>Security note: Any references you create will be available to all players able to use disguise references."
+
+# Reference: CLONE_HELP3
+"<dark_green>/disguiseclone IgnoreEquipment<dark_green>(<green>Optional<dark_green>)": "<dark_green>/disguiseclone IgnoreEquipment<dark_green>(<green>Optional<dark_green>)"
+
+# Reference: CUSTOM_DISGUISE_SAVED
+"<gold>Custom disguise has been saved as '%s'!": "<gold>Custom disguise has been saved as '%s'!"
+
+# Reference: D_HELP1
+"<dark_green>Disguise another player!": "<dark_green>Disguise another player!"
+
+# Reference: D_HELP3
+"<dark_green>/disguiseplayer <PlayerName> player <Name>": "<dark_green>/disguiseplayer <PlayerName> player <Name>"
+
+# Reference: D_HELP4
+"<dark_green>/disguiseplayer <PlayerName> <DisguiseType> <Baby>": "<dark_green>/disguiseplayer <PlayerName> <DisguiseType> <Baby>"
+
+# Reference: D_HELP5
+"<dark_green>/disguiseplayer <PlayerName> <Dropped_Item/Falling_Block> <Id> <Durability>": "<dark_green>/disguiseplayer <PlayerName> <Dropped_Item/Falling_Block> <Id> <Durability>"
+
+# Reference: D_PARSE_NOPERM
+"<red>You do not have permission to use the method %s": "<red>You do not have permission to use the method %s"
+
+# Reference: DHELP_CANTFIND
+"<red>Cannot find the disguise %s": "<red>Cannot find the disguise %s"
+
+# Reference: DHELP_HELP1
+"<red>/disguisehelp <DisguiseType> <green>- View the methods you can set on a disguise. Add 'show' to reveal the methods you don't have permission to use": "<red>/disguisehelp <DisguiseType> <green>- View the methods you can set on a disguise. Add 'show' to reveal the methods you don't have permission to use"
+
+# Reference: DHELP_HELP2
+"<red>/disguisehelp <DisguiseOption> <green>- View information about the disguise values such as 'RabbitType'": "<red>/disguisehelp <DisguiseOption> <green>- View information about the disguise values such as 'RabbitType'"
+
+# Reference: DHELP_HELP3
+"<red>/disguisehelp <dark_green>%s<green> - %s": "<red>/disguisehelp <dark_green>%s<green> - %s"
+
+# Reference: DHELP_HELP4
+"<red>%s: <green>%s": "<red>%s: <green>%s"
+
+# Reference: DHELP_HELP6
+"<red>%s: <dark_green>%s <green>%s": "<red>%s: <dark_green>%s <green>%s"
+
+# Reference: DHELP_OPTIONS
+"%s options: %s": "%s options: %s"
+
+# Reference: DISABLED_LIVING_TO_MISC
+"<red>Can't disguise a living entity as a misc disguise. This has been disabled in the config!": "<red>Can't disguise a living entity as a misc disguise. This has been disabled in the config!"
+
+# Reference: DISG_ENT_CLICK
+"<red>Right click an entity in the next %s seconds to disguise it as a %s!": "<red>Right click an entity in the next %s seconds to disguise it as a %s!"
+
+# Reference: DISG_ENT_HELP1
+"<dark_green>Choose a disguise then right click an entity to disguise it!": "<dark_green>Choose a disguise then right click an entity to disguise it!"
+
+# Reference: DISG_ENT_HELP3
+"<dark_green>/disguiseentity player <Name>": "<dark_green>/disguiseentity player <Name>"
+
+# Reference: DISG_ENT_HELP4
+"<dark_green>/disguiseentity <DisguiseType> <Baby>": "<dark_green>/disguiseentity <DisguiseType> <Baby>"
+
+# Reference: DISG_ENT_HELP5
+"<dark_green>/disguiseentity <Dropped_Item/Falling_Block> <Id> <Durability>": "<dark_green>/disguiseentity <Dropped_Item/Falling_Block> <Id> <Durability>"
+
+# Reference: DISG_HELP1
+"<dark_green>Choose a disguise to become the disguise!": "<dark_green>Choose a disguise to become the disguise!"
+
+# Reference: DISG_HELP2
+"<dark_green>/disguise player <Name>": "<dark_green>/disguise player <Name>"
+
+# Reference: DISG_HELP3
+"<dark_green>/disguise <DisguiseType> <Baby>": "<dark_green>/disguise <DisguiseType> <Baby>"
+
+# Reference: DISG_HELP4
+"<dark_green>/disguise <Dropped_Item/Falling_Block> <Id> <Durability>": "<dark_green>/disguise <Dropped_Item/Falling_Block> <Id> <Durability>"
+
+# Reference: DISG_PLAYER_AS_DISG
+"<red>Successfully disguised %s as a %s!": "<red>Successfully disguised %s as a %s!"
+
+# Reference: DISG_PLAYER_AS_DISG_FAIL
+"<red>Failed to disguise %s as a %s!": "<red>Failed to disguise %s as a %s!"
+
+# Reference: DISGUISED
+"<red>Now disguised as %s": "<red>Now disguised as %s"
+
+# Reference: DISRADIUS
+"<red>Successfully disguised %s entities!": "<red>Successfully disguised %s entities!"
+
+# Reference: DISRADIUS_FAIL
+"<red>Couldn't find any entities to disguise!": "<red>Couldn't find any entities to disguise!"
+
+# Reference: DMODENT_HELP1
+"<dark_green>Choose the options for a disguise then right click a entity to modify it!": "<dark_green>Choose the options for a disguise then right click a entity to modify it!"
+
+# Reference: DMODIFY_HELP1
+"<dark_green>Modify your own disguise as you wear it!": "<dark_green>Modify your own disguise as you wear it!"
+
+# Reference: DMODIFY_HELP2
+"<dark_green>/disguisemodify setBaby true setSprinting true": "<dark_green>/disguisemodify setBaby true setSprinting true"
+
+# Reference: DMODIFY_HELP3
+"<dark_green>You can modify the disguises:<green> %s": "<dark_green>You can modify the disguises:<green> %s"
+
+# Reference: DMODIFY_MODIFIED
+"<red>Your disguise has been modified!": "<red>Your disguise has been modified!"
+
+# Reference: DMODIFY_NO_PERM
+"<red>No permission to modify your disguise!": "<red>No permission to modify your disguise!"
+
+# Reference: DMODIFYENT_CLICK
+"<red>Right click a disguised entity in the next %s seconds to modify their disguise!": "<red>Right click a disguised entity in the next %s seconds to modify their disguise!"
+
+# Reference: DISGUISECOPY_INTERACT
+"<red>Right click a disguised entity in the next %s seconds to copy their disguise!": "<red>Right click a disguised entity in the next %s seconds to copy their disguise!"
+
+# Reference: DMODPLAYER_HELP1
+"<dark_green>Modify the disguise of another player!": "<dark_green>Modify the disguise of another player!"
+
+# Reference: DMODPLAYER_MODIFIED
+"<red>Modified the disguise of %s!": "<red>Modified the disguise of %s!"
+
+# Reference: DMODPLAYER_NODISGUISE
+"<red>The player '%s' is not disguised": "<red>The player '%s' is not disguised"
+
+# Reference: DMODPLAYER_NOPERM
+"<red>You do not have permission to modify this disguise": "<red>You do not have permission to modify this disguise"
+
+# Reference: DMODRADIUS
+"<red>Successfully modified the disguises of %s entities!": "<red>Successfully modified the disguises of %s entities!"
+
+# Reference: DMODRADIUS_HELP1
+"<dark_green>Modify the disguises in a radius! Caps at %s blocks!": "<dark_green>Modify the disguises in a radius! Caps at %s blocks!"
+
+# Reference: DHELP_SHOW
+"Show": "Show"
+
+# Reference: DHELP_NO_OPTIONS
+"<red>No options with permission to use": "<red>No options with permission to use"
+
+# Reference: DCLONE_EQUIP
+"ignoreEquip": "ignoreEquip"
+
+# Reference: DCLONE_ADDEDANIMATIONS
+"doAddedAnimations": "doAddedAnimations"
+
+# Reference: DMODRADIUS_HELP2
+"<dark_green>/disguisemodifyradius <<green>DisguiseType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> <<green>Disguise Methods<dark_green>>": "<dark_green>/disguisemodifyradius <<green>DisguiseType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> <<green>Disguise Methods<dark_green>>"
+
+# Reference: DMODRADIUS_HELP3
+"<dark_green>See the DisguiseType's usable by <green>/disguisemodifyradius DisguiseType": "<dark_green>See the DisguiseType's usable by <green>/disguisemodifyradius DisguiseType"
+
+# Reference: DMODRADIUS_NEEDOPTIONS
+"<red>You need to supply the disguise methods as well as the radius": "<red>You need to supply the disguise methods as well as the radius"
+
+# Reference: DMODRADIUS_NEEDOPTIONS_ENTITY
+"<red>You need to supply the disguise methods as well as the radius and EntityType": "<red>You need to supply the disguise methods as well as the radius and EntityType"
+
+# Reference: DMODRADIUS_NOENTS
+"<red>Couldn't find any disguised entities!": "<red>Couldn't find any disguised entities!"
+
+# Reference: DMODRADIUS_NOPERM
+"<red>No permission to modify %s disguises!": "<red>No permission to modify %s disguises!"
+
+# Reference: DMODRADIUS_UNRECOGNIZED
+"<red>Unrecognised DisguiseType %s": "<red>Unrecognised DisguiseType %s"
+
+# Reference: DMODRADIUS_USABLE
+"<dark_green>DisguiseTypes usable are: %s<dark_green>.": "<dark_green>DisguiseTypes usable are: %s<dark_green>."
+
+# Reference: DPLAYER_SUPPLY
+"<red>You need to supply a disguise as well as the player/uuid": "<red>You need to supply a disguise as well as the player/uuid"
+
+# Reference: DRADIUS_ENTITIES
+"<dark_green>EntityTypes usable are: %s": "<dark_green>EntityTypes usable are: %s"
+
+# Reference: DRADIUS_HELP1
+"<dark_green>Disguise all entities in a radius! Caps at %s blocks!": "<dark_green>Disguise all entities in a radius! Caps at %s blocks!"
+
+# Reference: DRADIUS_HELP3
+"<dark_green>/disguiseradius <<green>EntityType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> player <<green>Name<dark_green>>": "<dark_green>/disguiseradius <<green>EntityType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> player <<green>Name<dark_green>>"
+
+# Reference: DRADIUS_HELP4
+"<dark_green>/disguiseradius <<green>EntityType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> <<green>DisguiseType<dark_green>> <<green>Baby<dark_green>(<green>Optional<dark_green>)>": "<dark_green>/disguiseradius <<green>EntityType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> <<green>DisguiseType<dark_green>> <<green>Baby<dark_green>(<green>Optional<dark_green>)>"
+
+# Reference: DRADIUS_HELP5
+"<dark_green>/disguiseradius <<green>EntityType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> <<green>Dropped_Item/Falling_Block<dark_green>> <<green>Id<dark_green>> <<green>Durability<dark_green>(<green>Optional<dark_green>)>": "<dark_green>/disguiseradius <<green>EntityType<dark_green>(<green>Optional<dark_green>)> <<green>Radius<dark_green>> <<green>Dropped_Item/Falling_Block<dark_green>> <<green>Id<dark_green>> <<green>Durability<dark_green>(<green>Optional<dark_green>)>"
+
+# Reference: DRADIUS_HELP6
+"<dark_green>See the EntityType's usable by <green>/disguiseradius EntityTypes": "<dark_green>See the EntityType's usable by <green>/disguiseradius EntityTypes"
+
+# Reference: DRADIUS_MISCDISG
+"<red>Failed to disguise %s entities because the option to disguise a living entity as a non-living has been disabled in the config": "<red>Failed to disguise %s entities because the option to disguise a living entity as a non-living has been disabled in the config"
+
+# Reference: DRADIUS_NEEDOPTIONS
+"<red>You need to supply a disguise as well as the radius": "<red>You need to supply a disguise as well as the radius"
+
+# Reference: DRADIUS_NEEDOPTIONS_ENTITY
+"<red>You need to supply a disguise as well as the radius and EntityType": "<red>You need to supply a disguise as well as the radius and EntityType"
+
+# Reference: FAILED_DISGIUSE
+"<red>Failed to disguise as %s": "<red>Failed to disguise as %s"
+
+# Reference: GRABBED_SKIN
+"<gold>Grabbed skin and saved as %s!": "<gold>Grabbed skin and saved as %s!"
+
+# Reference: PLEASE_WAIT
+"<gray>Please wait...": "<gray>Please wait..."
+
+# Reference: INVALID_CLONE
+"<dark_red>Unknown method '%s' - Valid methods are 'IgnoreEquipment' 'DoSneakSprint' 'DoSneak' 'DoSprint'": "<dark_red>Unknown method '%s' - Valid methods are 'IgnoreEquipment' 'DoSneakSprint' 'DoSneak' 'DoSprint'"
+
+# Reference: LIBS_COMMAND_WRONG_ARG
+"<red>[LibsDisguises] Invalid argument, use /libsdisguises help": "<red>[LibsDisguises] Invalid argument, use /libsdisguises help"
+
+# Reference: LIBS_UPDATE_UNKNOWN_BRANCH
+"<red>[LibsDisguises] Invalid argument, use 'dev' or 'release' to switch branches": "<red>[LibsDisguises] Invalid argument, use 'dev' or 'release' to switch branches"
+
+# Reference: LIMITED_RADIUS
+"<red>Limited radius to %s! Don't want to make too much lag right?": "<red>Limited radius to %s! Don't want to make too much lag right?"
+
+# Reference: LISTEN_ENTITY_ENTITY_DISG_ENTITY
+"<red>Disguised %s as a %s!": "<red>Disguised %s as a %s!"
+
+# Reference: LISTEN_ENTITY_ENTITY_DISG_PLAYER
+"<red>Disguised %s as the player %s!": "<red>Disguised %s as the player %s!"
+
+# Reference: LISTEN_ENTITY_ENTITY_DISG_PLAYER_FAIL
+"<red>Failed to disguise %s as the player %s!": "<red>Failed to disguise %s as the player %s!"
+
+# Reference: LISTEN_ENTITY_PLAYER_DISG_ENTITY
+"<red>Disguised the player %s as a %s!": "<red>Disguised the player %s as a %s!"
+
+# Reference: LISTEN_ENTITY_PLAYER_DISG_ENTITY_FAIL
+"<red>Failed to disguise the player %s as a %s!": "<red>Failed to disguise the player %s as a %s!"
+
+# Reference: LISTEN_ENTITY_PLAYER_DISG_PLAYER
+"<red>Disguised the player %s as the player %s!": "<red>Disguised the player %s as the player %s!"
+
+# Reference: LISTEN_ENTITY_PLAYER_DISG_PLAYER_FAIL
+"<red>Failed to disguise the player %s as the player %s!": "<red>Failed to disguise the player %s as the player %s!"
+
+# Reference: LISTEN_UNDISG_ENT
+"<red>Undisguised the %s": "<red>Undisguised the %s"
+
+# Reference: LISTEN_UNDISG_ENT_FAIL
+"<red>%s isn't disguised!": "<red>%s isn't disguised!"
+
+# Reference: LISTEN_UNDISG_PLAYER
+"<red>Undisguised %s": "<red>Undisguised %s"
+
+# Reference: LISTEN_UNDISG_PLAYER_FAIL
+"<red>The %s isn't disguised!": "<red>The %s isn't disguised!"
+
+# Reference: LISTENER_MODIFIED_DISG
+"<red>Modified the disguise!": "<red>Modified the disguise!"
+
+# Reference: MADE_REF
+"<red>Constructed a %s disguise! Your reference is %s": "<red>Constructed a %s disguise! Your reference is %s"
+
+# Reference: MADE_REF_EXAMPLE
+"<red>Example usage: /disguise %s": "<red>Example usage: /disguise %s"
+
+# Reference: NO_CONSOLE
+"<red>You may not use this command from the console!": "<red>You may not use this command from the console!"
+
+# Reference: TOO_FAST
+"<red>You are using the disguise command too fast!": "<red>You are using the disguise command too fast!"
+
+# Reference: NO_MODS
+"<red>%s is not using any mods!": "<red>%s is not using any mods!"
+
+# Reference: MODS_LIST
+"<dark_green>%s has the mods:<aqua> %s": "<dark_green>%s has the mods:<aqua> %s"
+
+# Reference: NO_PERM
+"<red>You are forbidden to use this command.": "<red>You are forbidden to use this command."
+
+# Reference: UPDATE_ON_LATEST
+"<red>You are already on the latest version of LibsDisguises!": "<red>You are already on the latest version of LibsDisguises!"
+
+# Reference: UPDATE_ALREADY_DOWNLOADED
+"<red>That update has already been downloaded!": "<red>That update has already been downloaded!"
+
+# Reference: UPDATE_FAILED
+"<red>LibsDisguises update failed! Check console for errors.": "<red>LibsDisguises update failed! Check console for errors."
+
+# Reference: UPDATE_SUCCESS
+"<dark_green>LibsDisguises update success! Restart server to update!": "<dark_green>LibsDisguises update success! Restart server to update!"
+
+# Reference: UPDATE_REQUIRED
+"<red>LibsDisguises requies an update check before it can give you that!": "<red>LibsDisguises requies an update check before it can give you that!"
+
+# Reference: UPDATE_INFO
+"<dark_green>Lib's Disguises v%s, build %s, built %s and size %skb": "<dark_green>Lib's Disguises v%s, build %s, built %s and size %skb"
+
+# Reference: UPDATE_IN_PROGRESS
+"<dark_green>LibsDisguises is now downloading an update...": "<dark_green>LibsDisguises is now downloading an update..."
+
+# Reference: NO_PERM_DISGUISE
+"<red>You do not have permission for that disguise!": "<red>You do not have permission for that disguise!"
+
+# Reference: NO_MODS_LISTENING
+"<red>This server is not listening for mods!": "<red>This server is not listening for mods!"
+
+# Reference: NO_PERMS_USE_OPTIONS
+"<red>Ignored %s methods you do not have permission to use. Add 'show' to view unusable methods.": "<red>Ignored %s methods you do not have permission to use. Add 'show' to view unusable methods."
+
+# Reference: OWNED_BY
+"<gold>Plugin registered to '%%__USER__%%'!": "<gold>Plugin registered to '%%__USER__%%'!"
+
+# Reference: NOT_DISGUISED
+"<red>You are not disguised!": "<red>You are not disguised!"
+
+# Reference: NOT_DISGUISED_SAVE_DISGUISE
+"<red>You are not disguised! To save a disguise in disguises.yml, you must be disguised!": "<red>You are not disguised! To save a disguise in disguises.yml, you must be disguised!"
+
+# Reference: DISGUISE_REQUIRED
+"<red>You must be disguised to run this command!": "<red>You must be disguised to run this command!"
+
+# Reference: TARGET_NOT_DISGUISED
+"<red>That entity is not disguised!": "<red>That entity is not disguised!"
+
+# Reference: NOT_NUMBER
+"<red>Error! %s is not a number": "<red>Error! %s is not a number"
+
+# Reference: PARSE_CANT_DISG_UNKNOWN
+"<red>Error! You cannot disguise as <green>Unknown!": "<red>Error! You cannot disguise as <green>Unknown!"
+
+# Reference: PARSE_CANT_LOAD
+"<red>Error! This disguise couldn't be loaded!": "<red>Error! This disguise couldn't be loaded!"
+
+# Reference: PARSE_CANT_LOAD_DETAILS
+"<red>Error! This disguise couldn't be loaded! Tried to parse <green>%s<red> for <green>%s": "<red>Error! This disguise couldn't be loaded! Tried to parse <green>%s<red> for <green>%s"
+
+# Reference: PARSE_DISG_NO_EXIST
+"<red>Error! The disguise <green>%s<red> doesn't exist!": "<red>Error! The disguise <green>%s<red> doesn't exist!"
+
+# Reference: PARSE_EXPECTED_RECEIVED
+"<red>Expected <green>%s<red>, received <green>%s<red> instead for <green>%s": "<red>Expected <green>%s<red>, received <green>%s<red> instead for <green>%s"
+
+# Reference: PARSE_PARTICLE_BLOCK
+"<red>Expected <green>%s:Material<red>, received <green>%s<red> instead": "<red>Expected <green>%s:Material<red>, received <green>%s<red> instead"
+
+# Reference: PARSE_PARTICLE_ITEM
+"<red>Expected <green>%s:Material,Amount?,Glow?<red>, received <green>%s<red> instead": "<red>Expected <green>%s:Material,Amount?,Glow?<red>, received <green>%s<red> instead"
+
+# Reference: PARSE_PARTICLE_REDSTONE
+"<red>Expected <green>%s:Color,Size.0?<red>, received <green>%s<red> instead": "<red>Expected <green>%s:Color,Size.0?<red>, received <green>%s<red> instead"
+
+# Reference: PARSE_NO_ARGS
+"No arguments defined": "No arguments defined"
+
+# Reference: PARSE_NO_OPTION_VALUE
+"<red>No value was given for the method %s": "<red>No value was given for the method %s"
+
+# Reference: PARSE_NO_PERM_NAME
+"<red>Error! You don't have permission to use that name!": "<red>Error! You don't have permission to use that name!"
+
+# Reference: PARSE_NO_PERM_PARAM
+"<red>Error! You do not have permission to use the parameter %s on the %s disguise!": "<red>Error! You do not have permission to use the parameter %s on the %s disguise!"
+
+# Reference: PARSE_NO_PERM_REF
+"<red>You do not have permission to use disguise references!": "<red>You do not have permission to use disguise references!"
+
+# Reference: PARSE_NO_REF
+"<red>Cannot find a disguise under the reference %s": "<red>Cannot find a disguise under the reference %s"
+
+# Reference: PARSE_OPTION_NA
+"<red>Cannot find the method '%s'": "<red>Cannot find the method '%s'"
+
+# Reference: PARSE_SUPPLY_PLAYER
+"<red>Error! You need to give a player name!": "<red>Error! You need to give a player name!"
+
+# Reference: PARSE_TOO_MANY_ARGS
+"<red>Error! %s doesn't know what to do with %s!": "<red>Error! %s doesn't know what to do with %s!"
+
+# Reference: PARSE_INVALID_TIME
+"<red>Error! %s is not a valid time! Use s,m,h,d or secs,mins,hours,days": "<red>Error! %s is not a valid time! Use s,m,h,d or secs,mins,hours,days"
+
+# Reference: PARSE_INVALID_TIME_SEQUENCE
+"<red>Error! %s is not a valid time! Do amount then time, eg. 4min10sec": "<red>Error! %s is not a valid time! Do amount then time, eg. 4min10sec"
+
+# Reference: PARSE_USE_SECOND_NUM
+"<red>Error! Only the disguises %s and %s uses a second number!": "<red>Error! Only the disguises %s and %s uses a second number!"
+
+# Reference: REF_TOO_MANY
+"<red>Failed to store the reference, too many cloned disguises. Please raise the maximum cloned disguises, or lower the time they last": "<red>Failed to store the reference, too many cloned disguises. Please raise the maximum cloned disguises, or lower the time they last"
+
+# Reference: RELOADED_CONFIG
+"<green>[LibsDisguises] Reloaded config.": "<green>[LibsDisguises] Reloaded config."
+
+# Reference: UND_ENTITY
+"<red>Right click a disguised entity to undisguise them!": "<red>Right click a disguised entity to undisguise them!"
+
+# Reference: UNDISG
+"<red>You are no longer disguised": "<red>You are no longer disguised"
+
+# Reference: UNDISG_PLAYER
+"<red>%s is no longer disguised": "<red>%s is no longer disguised"
+
+# Reference: UNDISG_PLAYER_FAIL
+"<red>%s not disguised!": "<red>%s not disguised!"
+
+# Reference: UNDISG_PLAYER_HELP
+"<red>/undisguiseplayer <Name>": "<red>/undisguiseplayer <Name>"
+
+# Reference: UNDISRADIUS
+"<red>Successfully undisguised %s entities!": "<red>Successfully undisguised %s entities!"
+
+# Reference: UPDATE_READY
+"<red>[LibsDisguises] <dark_red>There is a update ready to be downloaded! You are using <red>v%s<dark_red>, the new version is <red>v%s<dark_red>!": "<red>[LibsDisguises] <dark_red>There is a update ready to be downloaded! You are using <red>v%s<dark_red>, the new version is <red>v%s<dark_red>!"
+
+# Reference: UPDATE_READY_SNAPSHOT
+"<red>[LibsDisguises] <dark_red>There is a new build of Lib's Disguises! You are using <red>%s<dark_red>, the latest build is <red>#%s<dark_red>!": "<red>[LibsDisguises] <dark_red>There is a new build of Lib's Disguises! You are using <red>%s<dark_red>, the latest build is <red>#%s<dark_red>!"
+
+# Reference: UPDATE_HOW
+"<dark_aqua>Use <aqua>/libsdisgusies changelog<dark_aqua> to see what changed, use <aqua>/libsdisguises update!<dark_aqua> to download the update!": "<dark_aqua>Use <aqua>/libsdisgusies changelog<dark_aqua> to see what changed, use <aqua>/libsdisguises update!<dark_aqua> to download the update!"
+
+# Reference: VIEW_SELF_ON
+"<green>Toggled viewing own disguise on!": "<green>Toggled viewing own disguise on!"
+
+# Reference: VIEW_SELF_OFF
+"<green>Toggled viewing own disguise off!": "<green>Toggled viewing own disguise off!"
+
+# Reference: VIEW_BAR_ON
+"<green>Toggled disguised notify bar on!": "<green>Toggled disguised notify bar on!"
+
+# Reference: VIEW_BAR_OFF
+"<green>Toggled disguised notify bar off!": "<green>Toggled disguised notify bar off!"
+
+# Reference: CLICK_TO_COPY
+"<green>Click to Copy:": "<green>Click to Copy:"
+
+# Reference: SKIN_DATA
+"<green>Skin Data: <yellow>%s": "<green>Skin Data: <yellow>%s"
+
+# Reference: CLICK_TO_COPY_DATA
+"<yellow>Data": "<yellow>Data"
+
+# Reference: CLICK_TO_COPY_WITH_SKIN
+"<green>Version with skin data:": "<green>Version with skin data:"
+
+# Reference: CLICK_TO_COPY_WITH_SKIN_NO_COPY
+"<green>Version with skin data: <yellow>%s": "<green>Version with skin data: <yellow>%s"
+
+# Reference: COPY_DISGUISE_NO_COPY
+"<green>Data: <yellow>%s": "<green>Data: <yellow>%s"
+
+# Reference: CLICK_TO_COPY_HOVER
+"<gold>Click to Copy": "<gold>Click to Copy"
+
+# Reference: CLICK_COPY
+"<yellow><bold>%s": "<yellow><bold>%s"
+
+# Reference: SKIN_API_UUID_3
+"<red>Using account with UUID version 3. If skin is incorrect, try change 'UUIDVersion' in protocol.yml to 3. If skin is still incorrect and you did not purchase Minecraft, this cannot be fixed.": "<red>Using account with UUID version 3. If skin is incorrect, try change 'UUIDVersion' in protocol.yml to 3. If skin is still incorrect and you did not purchase Minecraft, this cannot be fixed."
+
+# Reference: SKIN_API_IN_USE
+"<red>mineskin.org is currently in use, please try again": "<red>mineskin.org is currently in use, please try again"
+
+# Reference: SKIN_API_TIMER
+"<red>mineskin.org can be used again in %s seconds": "<red>mineskin.org can be used again in %s seconds"
+
+# Reference: SKIN_API_FAIL
+"<red>Unexpected error while accessing mineskin.org, please try again": "<red>Unexpected error while accessing mineskin.org, please try again"
+
+# Reference: SKIN_API_FAIL_TOO_FAST
+"<red>Too many requests accessing mineskin.org, please slow down!": "<red>Too many requests accessing mineskin.org, please slow down!"
+
+# Reference: SKIN_API_BAD_URL
+"<red>Invalid url provided! Please ensure it is a .png file download!": "<red>Invalid url provided! Please ensure it is a .png file download!"
+
+# Reference: SKIN_API_FAILED_URL
+"<red>Invalid url provided! mineskin.org failed to grab it!": "<red>Invalid url provided! mineskin.org failed to grab it!"
+
+# Reference: SKIN_API_FAIL_CODE
+"<red>Error %s! %s": "<red>Error %s! %s"
+
+# Reference: SKIN_API_403
+"mineskin.org denied access to that url": "mineskin.org denied access to that url"
+
+# Reference: SKIN_API_404
+"mineskin.org unable to find an image at that url": "mineskin.org unable to find an image at that url"
+
+# Reference: SKIN_API_IMAGE_TIMEOUT
+"<red>Error! mineskin.org took too long to connect! Is your image valid?": "<red>Error! mineskin.org took too long to connect! Is your image valid?"
+
+# Reference: SKIN_API_TIMEOUT_ERROR
+"<red>Error! Took too long to connect to mineskin.org!": "<red>Error! Took too long to connect to mineskin.org!"
+
+# Reference: SKIN_API_TIMEOUT_API_KEY_ERROR
+"<red>Error! Took too long to connect to mineskin.org! Is the API Key correct?": "<red>Error! Took too long to connect to mineskin.org! Is the API Key correct?"
+
+# Reference: SKIN_API_TIMEOUT
+"<red>Took too long to connect to mineskin.org!": "<red>Took too long to connect to mineskin.org!"
+
+# Reference: SKIN_API_IMAGE_HAS_ERROR
+"Your image has the error: %s": "Your image has the error: %s"
+
+# Reference: SKIN_API_USING_URL
+"<gray>Url provided, now attempting to connect to mineskin.org": "<gray>Url provided, now attempting to connect to mineskin.org"
+
+# Reference: SKIN_API_BAD_FILE_NAME
+"<red>Invalid file name provided! File not found!": "<red>Invalid file name provided! File not found!"
+
+# Reference: SKIN_API_BAD_FILE
+"<red>Invalid file provided! Please ensure it is a valid .png skin!": "<red>Invalid file provided! Please ensure it is a valid .png skin!"
+
+# Reference: SKIN_API_USING_FILE
+"<gray>File provided and found, now attempting to upload to mineskin.org": "<gray>File provided and found, now attempting to upload to mineskin.org"
+
+# Reference: SKIN_API_INVALID_NAME
+"<red>Invalid name/file/uuid provided!": "<red>Invalid name/file/uuid provided!"
+
+# Reference: SKIN_API_USING_UUID
+"<gray>UUID successfully parsed, now attempting to connect to mineskin.org": "<gray>UUID successfully parsed, now attempting to connect to mineskin.org"
+
+# Reference: SKIN_API_USING_EXISTING_NAME
+"<gray>Found a saved skin under that name locally! Using that!": "<gray>Found a saved skin under that name locally! Using that!"
+
+# Reference: SKIN_API_USING_NAME
+"<gray>Determined to be player name, now attempting to validate and connect to mineskin.org": "<gray>Determined to be player name, now attempting to validate and connect to mineskin.org"
+
+# Reference: SAVE_DISG_HELP_1
+"<green>The <DisguiseName> is what the disguise will be called in Lib's Disguises": "<green>The <DisguiseName> is what the disguise will be called in Lib's Disguises"
+
+# Reference: SAVE_DISG_HELP_2
+"<green>/savedisguise <DisguiseName> - If you don't provide arguments, it'll try make a disguise from your current disguise. This will not work if you are not disguised!": "<green>/savedisguise <DisguiseName> - If you don't provide arguments, it'll try make a disguise from your current disguise. This will not work if you are not disguised!"
+
+# Reference: SAVE_DISG_HELP_3
+"<green>/savedisguise <DisguiseName> <Arguments>": "<green>/savedisguise <DisguiseName> <Arguments>"
+
+# Reference: SAVE_DISG_HELP_4
+"<green>Your arguments need to be as if you're using /disguise. So '/disguise player Notch setsneaking' - Means '/savedisguise Notch player Notch setsneaking'": "<green>Your arguments need to be as if you're using /disguise. So '/disguise player Notch setsneaking' - Means '/savedisguise Notch player Notch setsneaking'"
+
+# Reference: SAVE_DISG_HELP_5
+"<green>Remember! You can upload your own skins, then reference those skins!": "<green>Remember! You can upload your own skins, then reference those skins!"
+
+# Reference: SAVE_DISG_HELP_6
+"<green>If you are using setSkin, you can append :slim to your skin path to get the slim Alex model. So myskin.png:slim": "<green>If you are using setSkin, you can append :slim to your skin path to get the slim Alex model. So myskin.png:slim"
+
+# Reference: GRAB_DISG_HELP_1
+"<green>You can choose a name to save the skins under, the names will be usable as if it was an actual player skin": "<green>You can choose a name to save the skins under, the names will be usable as if it was an actual player skin"
+
+# Reference: GRAB_DISG_HELP_2
+"<dark_green>/grabskin <Optional Name> https://somesite.com/myskin.png": "<dark_green>/grabskin <Optional Name> https://somesite.com/myskin.png"
+
+# Reference: GRAB_DISG_HELP_3
+"<dark_green>/grabskin <Optional Name> myskin.png - Skins must be in the folder!": "<dark_green>/grabskin <Optional Name> myskin.png - Skins must be in the folder!"
+
+# Reference: GRAB_DISG_HELP_4
+"<dark_green>/grabskin <Optional Name> <Player name or UUID>": "<dark_green>/grabskin <Optional Name> <Player name or UUID>"
+
+# Reference: GRAB_DISG_HELP_5
+"<green>If you want the slim Alex version of the skin, append :slim. So 'myskin.png:slim'": "<green>If you want the slim Alex version of the skin, append :slim. So 'myskin.png:slim'"
+
+# Reference: GRAB_DISG_HELP_6
+"<green>You will be sent the skin data, but you can also use the saved names in disguises": "<green>You will be sent the skin data, but you can also use the saved names in disguises"
+
+# Reference: GRAB_HEAD_SUCCESS
+"<green>Head successfully grabbed and added to inventory!": "<green>Head successfully grabbed and added to inventory!"
+
+# Reference: GRAB_HEAD_HELP_1
+"<green>Grab the head of a file, player or url! This is a Lib's Disguises feature.": "<green>Grab the head of a file, player or url! This is a Lib's Disguises feature."
+
+# Reference: GRAB_HEAD_HELP_2
+"<dark_green>/grabhead https://somesite.com/myskin.png": "<dark_green>/grabhead https://somesite.com/myskin.png"
+
+# Reference: GRAB_HEAD_HELP_3
+"<dark_green>/grabhead myskin.png - Skins must be in the folder!": "<dark_green>/grabhead myskin.png - Skins must be in the folder!"
+
+# Reference: GRAB_HEAD_HELP_4
+"<dark_green>/grabhead <Player name or UUID>": "<dark_green>/grabhead <Player name or UUID>"
+
+# Reference: CUSTOM_DISGUISE_NAME_CONFLICT
+"<red>Cannot create the custom disguise '%s' as there is a name conflict!": "<red>Cannot create the custom disguise '%s' as there is a name conflict!"
+
+# Reference: ERROR_LOADING_CUSTOM_DISGUISE
+"<red>Error while loading custom disguise '%s'%s": "<red>Error while loading custom disguise '%s'%s"
+
+# Reference: SKIN_API_INTERNAL_ERROR
+"<red>Internal error in the skin API, perhaps bad data?": "<red>Internal error in the skin API, perhaps bad data?"
+
+# Reference: META_INFO
+"<green>Name: %s, Watcher: %s, Index: %s, Type: %s, Default: %s": "<green>Name: %s, Watcher: %s, Index: %s, Type: %s, Default: %s"
+
+# Reference: META_NOT_FOUND
+"<red>No meta exists under that name!": "<red>No meta exists under that name!"
+
+# Reference: META_VALUES
+"<blue>Metas: <dark_aqua>": "<blue>Metas: <dark_aqua>"
+
+# Reference: META_VALUES_NO_CLICK
+"<blue>Metas, use as param for more info: <dark_aqua>": "<blue>Metas, use as param for more info: <dark_aqua>"
+
+# Reference: META_VALUE_SEPERATOR
+"<aqua>, <dark_aqua>": "<aqua>, <dark_aqua>"
+
+# Reference: META_CLICK_SHOW
+"<gold>Click to show %s": "<gold>Click to show %s"
+
+# Reference: LIBS_PERM_CHECK_NON_PREM
+"<red>This server is not premium, non-admins should not be able to use commands": "<red>This server is not premium, non-admins should not be able to use commands"
+
+# Reference: LIBS_PERM_CHECK_CAN_TARGET
+"<gold>You can specify a player target with /ld permtest <Target> instead!": "<gold>You can specify a player target with /ld permtest <Target> instead!"
+
+# Reference: LIBS_PERM_CHECK_USING_TARGET
+"<gold>Running the permission test on '%s'": "<gold>Running the permission test on '%s'"
+
+# Reference: LIBS_PERM_CHECK_INFO_1
+"<aqua>Now checking for the permission 'libsdisguises.disguise.pig'": "<aqua>Now checking for the permission 'libsdisguises.disguise.pig'"
+
+# Reference: LIBS_PERM_CHECK_INFO_2
+"<aqua>If you did not give this permission, please set it.": "<aqua>If you did not give this permission, please set it."
+
+# Reference: NORMAL_PERM_CHECK_SUCCESS
+"<gold>Normal permission check, success.": "<gold>Normal permission check, success."
+
+# Reference: NORMAL_PERM_CHECK_FAIL
+"<red>Normal permission check, fail.": "<red>Normal permission check, fail."
+
+# Reference: LIBS_PERM_CHECK_SUCCESS
+"<gold>Lib's Disguises permission check, success. Pig disguise should be usable!": "<gold>Lib's Disguises permission check, success. Pig disguise should be usable!"
+
+# Reference: LIBS_PERM_CHECK_FAIL
+"<gold>Lib's Disguises permission check, fail. Your permission plugin isn't compliant!": "<gold>Lib's Disguises permission check, fail. Your permission plugin isn't compliant!"
+
+# Reference: LIBS_PERM_CHECK_ZOMBIE_PERMISSIONS
+"<gold>Tested libsdisguises.disguise.zombie, which your player seems to have! There may be a problem in your permissions setup!": "<gold>Tested libsdisguises.disguise.zombie, which your player seems to have! There may be a problem in your permissions setup!"
+
+# Reference: LIBS_PERM_CHECK_COMMAND_UNREGISTERED
+"<red>The /disguise command seems to be unregistered! Check your config!": "<red>The /disguise command seems to be unregistered! Check your config!"
+
+# Reference: LIBS_PERM_COMMAND_SUCCESS
+"<gold>Tested permission '%s' for /disguise command access, permission success!": "<gold>Tested permission '%s' for /disguise command access, permission success!"
+
+# Reference: LIBS_PERM_COMMAND_FAIL
+"<red>Tested permission '%s' for /disguise command access, permission failed!": "<red>Tested permission '%s' for /disguise command access, permission failed!"
+
+# Reference: CANT_ATTACK_DISGUISED
+"<red>Cannot fight while disguised!": "<red>Cannot fight while disguised!"
+
+# Reference: CANT_ATTACK_DISGUISED_RECENTLY
+"<red>You were disguised recently! Can't attack yet!": "<red>You were disguised recently! Can't attack yet!"
+
+# Reference: SWITCH_WORLD_DISGUISE_REMOVED
+"<red>Disguise removed as you've switched worlds!": "<red>Disguise removed as you've switched worlds!"
+
+# Reference: ACTION_BAR_MESSAGE
+"<gold>Currently disguised as %s": "<gold>Currently disguised as %s"
+
+# Reference: ITEM_SERIALIZED
+"<gold>Json Serialized, click to copy: ": "<gold>Json Serialized, click to copy: "
+
+# Reference: ITEM_SERIALIZED_MC
+"<gold>MC Serialized, click to copy: ": "<gold>MC Serialized, click to copy: "
+
+# Reference: ITEM_SERIALIZED_MC_LD
+"<gold>MC Serialized for LD, click to copy: ": "<gold>MC Serialized for LD, click to copy: "
+
+# Reference: ITEM_SIMPLE_STRING
+"<gold>Simple, click to copy: ": "<gold>Simple, click to copy: "
+
+# Reference: ITEM_SERIALIZED_NO_COPY
+"<gold>Json Serialized: <yellow>%s": "<gold>Json Serialized: <yellow>%s"
+
+# Reference: ITEM_SERIALIZED_MC_NO_COPY
+"<gold>MC Serialized: <yellow>%s": "<gold>MC Serialized: <yellow>%s"
+
+# Reference: ITEM_SERIALIZED_MC_LD_NO_COPY
+"<gold>MC Serialized for LD: <yellow>%s": "<gold>MC Serialized for LD: <yellow>%s"
+
+# Reference: ITEM_SIMPLE_STRING_NO_COPY
+"<gold>Simple: <yellow>%s": "<gold>Simple: <yellow>%s"
+
+# Reference: LIBS_SCOREBOARD_NO_TEAM
+"<red>Not on a scoreboard team!": "<red>Not on a scoreboard team!"
+
+# Reference: LIBS_SCOREBOARD_SUCCESS
+"<gold>On scoreboard team '%s' with pushing disabled! If you're still having issues and you are disguised right now, then you have a plugin modifying scoreboard through packets. Example of this is a plugin that modifies your name above head, or the tablist. Check their configs for pushing disabling options\nSay 'I read to the end' if you still need help with this, or we'll assume you can't read.": "<gold>On scoreboard team '%s' with pushing disabled! If you're still having issues and you are disguised right now, then you have a plugin modifying scoreboard through packets. Example of this is a plugin that modifies your name above head, or the tablist. Check their configs for pushing disabling options\nSay 'I read to the end' if you still need help with this, or we'll assume you can't read."
+
+# Reference: LIBS_SCOREBOARD_NAMES_DISABLED
+"<red>Scoreboard names has been disabled, the test for player disguises has failed before it started": "<red>Scoreboard names has been disabled, the test for player disguises has failed before it started"
+
+# Reference: LIBS_SCOREBOARD_IGNORE_TEST
+"<green>This was a seperate test from the self disguising collision test that will follow!": "<green>This was a seperate test from the self disguising collision test that will follow!"
+
+# Reference: USING_DEFAULT_CONFIG
+"<dark_green>Using the default config!": "<dark_green>Using the default config!"
+
+# Reference: LIBS_SCOREBOARD_ISSUES
+"<green>Too many issues found, hidden %s": "<green>Too many issues found, hidden %s"
+
+# Reference: LIBS_SCOREBOARD_NO_ISSUES
+"<green>No issues found in player disguise scoreboard name teams": "<green>No issues found in player disguise scoreboard name teams"
+
+# Reference: LD_COMMAND_UPDATEPROTOCOLLIB
+"<blue>/libsdisguises updateprotocollib - <aqua>Updates ProtocolLib to the latest development version": "<blue>/libsdisguises updateprotocollib - <aqua>Updates ProtocolLib to the latest development version"
+
+# Reference: LD_COMMAND_HELP
+"<blue>/libsdisguises help - <aqua>Returns this!": "<blue>/libsdisguises help - <aqua>Returns this!"
+
+# Reference: LD_COMMAND_COUNT
+"<blue>/libsdisguises count - <aqua>Tells you how many active disguises there are": "<blue>/libsdisguises count - <aqua>Tells you how many active disguises there are"
+
+# Reference: LD_COMMAND_METAINFO
+"<blue>/libsdisguises metainfo - <aqua>Debugging info, tells you what the metadata is for a disguise": "<blue>/libsdisguises metainfo - <aqua>Debugging info, tells you what the metadata is for a disguise"
+
+# Reference: LD_COMMAND_CONFIG
+"<blue>/libsdisguises config - <aqua>Tells you what's not normal in your config": "<blue>/libsdisguises config - <aqua>Tells you what's not normal in your config"
+
+# Reference: LD_COMMAND_UPDATE
+"<blue>/libsdisguises update - <aqua>'update' will fetch an update, 'update dev' will fetch a dev build update, 'update release' will fetch a release build update and 'update!' will download that update!": "<blue>/libsdisguises update - <aqua>'update' will fetch an update, 'update dev' will fetch a dev build update, 'update release' will fetch a release build update and 'update!' will download that update!"
+
+# Reference: LD_COMMAND_CHANGELOG
+"<blue>/libsdisguises changelog - <aqua>Gives you the changelog of the current update fetched": "<blue>/libsdisguises changelog - <aqua>Gives you the changelog of the current update fetched"
+
+# Reference: LD_DEBUG_MINESKIN
+"<blue>/libsdisguises mineskin - <aqua>Prints debug information about MineSkin to console": "<blue>/libsdisguises mineskin - <aqua>Prints debug information about MineSkin to console"
+
+# Reference: LD_DEBUG_MINESKIN_TOGGLE
+"<blue>MineSkin debug is now %s, this command toggles the printing of MineSkin information to console": "<blue>MineSkin debug is now %s, this command toggles the printing of MineSkin information to console"
+
+# Reference: LD_COMMAND_JSON
+"<blue>/libsdisguises json - <aqua>Turns the current held item into a string format": "<blue>/libsdisguises json - <aqua>Turns the current held item into a string format"
+
+# Reference: LD_COMMAND_MODS
+"<blue>/libsdisguises mods <Player?> - <aqua>If using modded entities, this will tell you what mods a player is using if possible": "<blue>/libsdisguises mods <Player?> - <aqua>If using modded entities, this will tell you what mods a player is using if possible"
+
+# Reference: LD_COMMAND_PERMTEST
+"<blue>/libsdisguises permtest <Player?> - <aqua>Does a quick test to see if your permissions are working": "<blue>/libsdisguises permtest <Player?> - <aqua>Does a quick test to see if your permissions are working"
+
+# Reference: LD_COMMAND_SCOREBOARD
+"<blue>/libsdisguises scoreboard <Player?> - <aqua>Does a test to see if there's any scoreboard issues it can detect": "<blue>/libsdisguises scoreboard <Player?> - <aqua>Does a test to see if there's any scoreboard issues it can detect"
+
+# Reference: LD_COMMAND_RELOAD
+"<blue>/libsdisguises reload - <aqua>Reload's the plugin config and possibly blows disguises": "<blue>/libsdisguises reload - <aqua>Reload's the plugin config and possibly blows disguises"
+
+# Reference: LD_COMMAND_DEBUG
+"<blue>/libsdisguises debug - <aqua>Used to help debug scoreboard issues on a player disguise": "<blue>/libsdisguises debug - <aqua>Used to help debug scoreboard issues on a player disguise"
+
+# Reference: LD_COMMAND_UPLOAD_LOGS
+"<blue>/libsdisguises uploadlogs - <aqua>Uploads latest.log, disguises.yml and configs and gives you the link to share. Used when seeking assistance.": "<blue>/libsdisguises uploadlogs - <aqua>Uploads latest.log, disguises.yml and configs and gives you the link to share. Used when seeking assistance."
+
+# Reference: SELF_DISGUISE_HIDDEN
+"<green>Self disguise hidden as it's too tall..": "<green>Self disguise hidden as it's too tall.."

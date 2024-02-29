@@ -1,0 +1,558 @@
+# To use translations in Lib's Disguises, you must have the purchased plugin
+# To translate, follow this example 'Original Message': 'My New Message'
+# The Original Message is used as a yaml config key to get your new message!
+# To use hex color codes, use <#hexcolor> where hexcolor is the 6 char code
+# Name for the ALLAY disguise
+"Allay": "Allay"
+
+# Name for the AREA_EFFECT_CLOUD disguise
+"Area Effect Cloud": "Area Effect Cloud"
+
+# Name for the ARMOR_STAND disguise
+"Armor Stand": "Armor Stand"
+
+# Name for the ARROW disguise
+"Arrow": "Arrow"
+
+# Name for the AXOLOTL disguise
+"Axolotl": "Axolotl"
+
+# Name for the BAT disguise
+"Bat": "Bat"
+
+# Name for the BEE disguise
+"Bee": "Bee"
+
+# Name for the BLAZE disguise
+"Blaze": "Blaze"
+
+# Name for the BLOCK_DISPLAY disguise
+"Block Display": "Block Display"
+
+# Name for the BOAT disguise
+"Boat": "Boat"
+
+# Name for the CAMEL disguise
+"Camel": "Camel"
+
+# Name for the CAT disguise
+"Cat": "Cat"
+
+# Name for the CAVE_SPIDER disguise
+"Cave Spider": "Cave Spider"
+
+# Name for the CHICKEN disguise
+"Chicken": "Chicken"
+
+# Name for the CHEST_BOAT disguise
+"Chest Boat": "Chest Boat"
+
+# Name for the COD disguise
+"Cod": "Cod"
+
+# Name for the COW disguise
+"Cow": "Cow"
+
+# Name for the CREEPER disguise
+"Creeper": "Creeper"
+
+# Name for the DOLPHIN disguise
+"Dolphin": "Dolphin"
+
+# Name for the DONKEY disguise
+"Donkey": "Donkey"
+
+# Name for the DRAGON_FIREBALL disguise
+"Dragon Fireball": "Dragon Fireball"
+
+# Name for the DROWNED disguise
+"Drowned": "Drowned"
+
+# Name for the DROPPED_ITEM disguise
+"Dropped Item": "Dropped Item"
+
+# Name for the EGG disguise
+"Egg": "Egg"
+
+# Name for the ELDER_GUARDIAN disguise
+"Elder Guardian": "Elder Guardian"
+
+# Name for the ENDER_CRYSTAL disguise
+"Ender Crystal": "Ender Crystal"
+
+# Name for the ENDER_DRAGON disguise
+"Ender Dragon": "Ender Dragon"
+
+# Name for the ENDER_PEARL disguise
+"Ender Pearl": "Ender Pearl"
+
+# Name for the ENDER_SIGNAL disguise
+"Ender Signal": "Ender Signal"
+
+# Name for the ENDERMAN disguise
+"Enderman": "Enderman"
+
+# Name for the ENDERMITE disguise
+"Endermite": "Endermite"
+
+# Name for the EVOKER disguise
+"Evoker": "Evoker"
+
+# Name for the EVOKER_FANGS disguise
+"Evoker Fangs": "Evoker Fangs"
+
+# Name for the EXPERIENCE_ORB disguise
+"Experience Orb": "Experience Orb"
+
+# Name for the FALLING_BLOCK disguise
+"Falling Block": "Falling Block"
+
+# Name for the FIREBALL disguise
+"Fireball": "Fireball"
+
+# Name for the FIREWORK disguise
+"Firework": "Firework"
+
+# Name for the FISHING_HOOK disguise
+"Fishing Hook": "Fishing Hook"
+
+# Name for the FROG disguise
+"Frog": "Frog"
+
+# Name for the FOX disguise
+"Fox": "Fox"
+
+# Name for the GHAST disguise
+"Ghast": "Ghast"
+
+# Name for the GIANT disguise
+"Giant": "Giant"
+
+# Name for the GLOW_ITEM_FRAME disguise
+"Glow Item Frame": "Glow Item Frame"
+
+# Name for the GLOW_SQUID disguise
+"Glow Squid": "Glow Squid"
+
+# Name for the GOAT disguise
+"Goat": "Goat"
+
+# Name for the GUARDIAN disguise
+"Guardian": "Guardian"
+
+# Name for the HOGLIN disguise
+"Hoglin": "Hoglin"
+
+# Name for the HORSE disguise
+"Horse": "Horse"
+
+# Name for the HUSK disguise
+"Husk": "Husk"
+
+# Name for the ILLUSIONER disguise
+"Illusioner": "Illusioner"
+
+# Name for the INTERACTION disguise
+"Interaction": "Interaction"
+
+# Name for the IRON_GOLEM disguise
+"Iron Golem": "Iron Golem"
+
+# Name for the ITEM_DISPLAY disguise
+"Item Display": "Item Display"
+
+# Name for the ITEM_FRAME disguise
+"Item Frame": "Item Frame"
+
+# Name for the LLAMA disguise
+"Llama": "Llama"
+
+# Name for the LLAMA_SPIT disguise
+"Llama Spit": "Llama Spit"
+
+# Name for the LEASH_HITCH disguise
+"Leash Hitch": "Leash Hitch"
+
+# Name for the MAGMA_CUBE disguise
+"Magma Cube": "Magma Cube"
+
+# Name for the MARKER disguise
+"Marker": "Marker"
+
+# Name for the MINECART disguise
+"Minecart": "Minecart"
+
+# Name for the MINECART_CHEST disguise
+"Minecart Chest": "Minecart Chest"
+
+# Name for the MINECART_COMMAND disguise
+"Minecart Command": "Minecart Command"
+
+# Name for the MINECART_FURNACE disguise
+"Minecart Furnace": "Minecart Furnace"
+
+# Name for the MINECART_HOPPER disguise
+"Minecart Hopper": "Minecart Hopper"
+
+# Name for the MINECART_MOB_SPAWNER disguise
+"Minecart Mob Spawner": "Minecart Mob Spawner"
+
+# Name for the MINECART_TNT disguise
+"Minecart Tnt": "Minecart Tnt"
+
+# Name for the MODDED_MISC disguise
+"Modded Misc": "Modded Misc"
+
+# Name for the MODDED_LIVING disguise
+"Modded Living": "Modded Living"
+
+# Name for the MULE disguise
+"Mule": "Mule"
+
+# Name for the MUSHROOM_COW disguise
+"Mushroom Cow": "Mushroom Cow"
+
+# Name for the OCELOT disguise
+"Ocelot": "Ocelot"
+
+# Name for the PAINTING disguise
+"Painting": "Painting"
+
+# Name for the PANDA disguise
+"Panda": "Panda"
+
+# Name for the PARROT disguise
+"Parrot": "Parrot"
+
+# Name for the PHANTOM disguise
+"Phantom": "Phantom"
+
+# Name for the PIG disguise
+"Pig": "Pig"
+
+# Name for the PIG_ZOMBIE disguise
+"Pig Zombie": "Pig Zombie"
+
+# Name for the PIGLIN disguise
+"Piglin": "Piglin"
+
+# Name for the PIGLIN_BRUTE disguise
+"Piglin Brute": "Piglin Brute"
+
+# Name for the PILLAGER disguise
+"Pillager": "Pillager"
+
+# Name for the PLAYER disguise
+"Player": "Player"
+
+# Name for the POLAR_BEAR disguise
+"Polar Bear": "Polar Bear"
+
+# Name for the PRIMED_TNT disguise
+"Primed Tnt": "Primed Tnt"
+
+# Name for the PUFFERFISH disguise
+"Pufferfish": "Pufferfish"
+
+# Name for the RABBIT disguise
+"Rabbit": "Rabbit"
+
+# Name for the RAVAGER disguise
+"Ravager": "Ravager"
+
+# Name for the SALMON disguise
+"Salmon": "Salmon"
+
+# Name for the SHEEP disguise
+"Sheep": "Sheep"
+
+# Name for the SHULKER disguise
+"Shulker": "Shulker"
+
+# Name for the SHULKER_BULLET disguise
+"Shulker Bullet": "Shulker Bullet"
+
+# Name for the SILVERFISH disguise
+"Silverfish": "Silverfish"
+
+# Name for the SKELETON disguise
+"Skeleton": "Skeleton"
+
+# Name for the SKELETON_HORSE disguise
+"Skeleton Horse": "Skeleton Horse"
+
+# Name for the SLIME disguise
+"Slime": "Slime"
+
+# Name for the SMALL_FIREBALL disguise
+"Small Fireball": "Small Fireball"
+
+# Name for the SNIFFER disguise
+"Sniffer": "Sniffer"
+
+# Name for the SNOWBALL disguise
+"Snowball": "Snowball"
+
+# Name for the SNOWMAN disguise
+"Snowman": "Snowman"
+
+# Name for the SPECTRAL_ARROW disguise
+"Spectral Arrow": "Spectral Arrow"
+
+# Name for the SPIDER disguise
+"Spider": "Spider"
+
+# Name for the SPLASH_POTION disguise
+"Splash Potion": "Splash Potion"
+
+# Name for the SQUID disguise
+"Squid": "Squid"
+
+# Name for the STRAY disguise
+"Stray": "Stray"
+
+# Name for the STRIDER disguise
+"Strider": "Strider"
+
+# Name for the TADPOLE disguise
+"Tadpole": "Tadpole"
+
+# Name for the TEXT_DISPLAY disguise
+"Text Display": "Text Display"
+
+# Name for the THROWN_EXP_BOTTLE disguise
+"Thrown Exp Bottle": "Thrown Exp Bottle"
+
+# Name for the TIPPED_ARROW disguise
+"Tipped Arrow": "Tipped Arrow"
+
+# Name for the TRIDENT disguise
+"Trident": "Trident"
+
+# Name for the TRADER_LLAMA disguise
+"Trader Llama": "Trader Llama"
+
+# Name for the TROPICAL_FISH disguise
+"Tropical Fish": "Tropical Fish"
+
+# Name for the TURTLE disguise
+"Turtle": "Turtle"
+
+# Name for the UNKNOWN disguise
+"Unknown": "Unknown"
+
+# Name for the VEX disguise
+"Vex": "Vex"
+
+# Name for the VILLAGER disguise
+"Villager": "Villager"
+
+# Name for the VINDICATOR disguise
+"Vindicator": "Vindicator"
+
+# Name for the WANDERING_TRADER disguise
+"Wandering Trader": "Wandering Trader"
+
+# Name for the WARDEN disguise
+"Warden": "Warden"
+
+# Name for the WITCH disguise
+"Witch": "Witch"
+
+# Name for the WITHER disguise
+"Wither": "Wither"
+
+# Name for the WITHER_SKELETON disguise
+"Wither Skeleton": "Wither Skeleton"
+
+# Name for the WITHER_SKULL disguise
+"Wither Skull": "Wither Skull"
+
+# Name for the WOLF disguise
+"Wolf": "Wolf"
+
+# Name for the ZOGLIN disguise
+"Zoglin": "Zoglin"
+
+# Name for the ZOMBIE disguise
+"Zombie": "Zombie"
+
+# Name for the ZOMBIE_HORSE disguise
+"Zombie Horse": "Zombie Horse"
+
+# Name for the ZOMBIE_VILLAGER disguise
+"Zombie Villager": "Zombie Villager"
+
+# Name for the ZOMBIFIED_PIGLIN disguise
+"Zombified Piglin": "Zombified Piglin"
+
+# Name for the Item EntityType, this is used in radius commands
+"Item": "Item"
+
+# Name for the ExperienceOrb EntityType, this is used in radius commands
+"ExperienceOrb": "ExperienceOrb"
+
+# Name for the AreaEffectCloud EntityType, this is used in radius commands
+"AreaEffectCloud": "AreaEffectCloud"
+
+# Name for the ElderGuardian EntityType, this is used in radius commands
+"ElderGuardian": "ElderGuardian"
+
+# Name for the WitherSkeleton EntityType, this is used in radius commands
+"WitherSkeleton": "WitherSkeleton"
+
+# Name for the LeashHitch EntityType, this is used in radius commands
+"LeashHitch": "LeashHitch"
+
+# Name for the LargeFireball EntityType, this is used in radius commands
+"LargeFireball": "LargeFireball"
+
+# Name for the SmallFireball EntityType, this is used in radius commands
+"SmallFireball": "SmallFireball"
+
+# Name for the EnderPearl EntityType, this is used in radius commands
+"EnderPearl": "EnderPearl"
+
+# Name for the EnderSignal EntityType, this is used in radius commands
+"EnderSignal": "EnderSignal"
+
+# Name for the ThrownPotion EntityType, this is used in radius commands
+"ThrownPotion": "ThrownPotion"
+
+# Name for the ThrownExpBottle EntityType, this is used in radius commands
+"ThrownExpBottle": "ThrownExpBottle"
+
+# Name for the ItemFrame EntityType, this is used in radius commands
+"ItemFrame": "ItemFrame"
+
+# Name for the WitherSkull EntityType, this is used in radius commands
+"WitherSkull": "WitherSkull"
+
+# Name for the TNTPrimed EntityType, this is used in radius commands
+"TNTPrimed": "TNTPrimed"
+
+# Name for the FallingBlock EntityType, this is used in radius commands
+"FallingBlock": "FallingBlock"
+
+# Name for the SpectralArrow EntityType, this is used in radius commands
+"SpectralArrow": "SpectralArrow"
+
+# Name for the ShulkerBullet EntityType, this is used in radius commands
+"ShulkerBullet": "ShulkerBullet"
+
+# Name for the DragonFireball EntityType, this is used in radius commands
+"DragonFireball": "DragonFireball"
+
+# Name for the ZombieVillager EntityType, this is used in radius commands
+"ZombieVillager": "ZombieVillager"
+
+# Name for the SkeletonHorse EntityType, this is used in radius commands
+"SkeletonHorse": "SkeletonHorse"
+
+# Name for the ZombieHorse EntityType, this is used in radius commands
+"ZombieHorse": "ZombieHorse"
+
+# Name for the ArmorStand EntityType, this is used in radius commands
+"ArmorStand": "ArmorStand"
+
+# Name for the EvokerFangs EntityType, this is used in radius commands
+"EvokerFangs": "EvokerFangs"
+
+# Name for the CommandMinecart EntityType, this is used in radius commands
+"CommandMinecart": "CommandMinecart"
+
+# Name for the RideableMinecart EntityType, this is used in radius commands
+"RideableMinecart": "RideableMinecart"
+
+# Name for the StorageMinecart EntityType, this is used in radius commands
+"StorageMinecart": "StorageMinecart"
+
+# Name for the PoweredMinecart EntityType, this is used in radius commands
+"PoweredMinecart": "PoweredMinecart"
+
+# Name for the ExplosiveMinecart EntityType, this is used in radius commands
+"ExplosiveMinecart": "ExplosiveMinecart"
+
+# Name for the HopperMinecart EntityType, this is used in radius commands
+"HopperMinecart": "HopperMinecart"
+
+# Name for the SpawnerMinecart EntityType, this is used in radius commands
+"SpawnerMinecart": "SpawnerMinecart"
+
+# Name for the PigZombie EntityType, this is used in radius commands
+"PigZombie": "PigZombie"
+
+# Name for the CaveSpider EntityType, this is used in radius commands
+"CaveSpider": "CaveSpider"
+
+# Name for the MagmaCube EntityType, this is used in radius commands
+"MagmaCube": "MagmaCube"
+
+# Name for the EnderDragon EntityType, this is used in radius commands
+"EnderDragon": "EnderDragon"
+
+# Name for the MushroomCow EntityType, this is used in radius commands
+"MushroomCow": "MushroomCow"
+
+# Name for the IronGolem EntityType, this is used in radius commands
+"IronGolem": "IronGolem"
+
+# Name for the PolarBear EntityType, this is used in radius commands
+"PolarBear": "PolarBear"
+
+# Name for the LlamaSpit EntityType, this is used in radius commands
+"LlamaSpit": "LlamaSpit"
+
+# Name for the EnderCrystal EntityType, this is used in radius commands
+"EnderCrystal": "EnderCrystal"
+
+# Name for the PufferFish EntityType, this is used in radius commands
+"PufferFish": "PufferFish"
+
+# Name for the TropicalFish EntityType, this is used in radius commands
+"TropicalFish": "TropicalFish"
+
+# Name for the TraderLlama EntityType, this is used in radius commands
+"TraderLlama": "TraderLlama"
+
+# Name for the WanderingTrader EntityType, this is used in radius commands
+"WanderingTrader": "WanderingTrader"
+
+# Name for the PiglinBrute EntityType, this is used in radius commands
+"PiglinBrute": "PiglinBrute"
+
+# Name for the GlowItemFrame EntityType, this is used in radius commands
+"GlowItemFrame": "GlowItemFrame"
+
+# Name for the GlowSquid EntityType, this is used in radius commands
+"GlowSquid": "GlowSquid"
+
+# Name for the ChestBoat EntityType, this is used in radius commands
+"ChestBoat": "ChestBoat"
+
+# Name for the BlockDisplay EntityType, this is used in radius commands
+"BlockDisplay": "BlockDisplay"
+
+# Name for the ItemDisplay EntityType, this is used in radius commands
+"ItemDisplay": "ItemDisplay"
+
+# Name for the TextDisplay EntityType, this is used in radius commands
+"TextDisplay": "TextDisplay"
+
+# Name for the FishHook EntityType, this is used in radius commands
+"FishHook": "FishHook"
+
+# Name for the LightningStrike EntityType, this is used in radius commands
+"LightningStrike": "LightningStrike"
+
+# Used for the disgiuse radius command to list all entitytypes
+"EntityType": "EntityType"
+
+# Used for the disgiuse modify radius command to list all disguisetypes
+"DisgiseType": "DisgiseType"
+
+# Name for the BREEZE disguise
+"Breeze": "Breeze"
+
+# Name for the WIND_CHARGE disguise
+"Wind Charge": "Wind Charge"

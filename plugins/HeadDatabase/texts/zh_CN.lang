@@ -1,0 +1,78 @@
+# zh_CN.lang
+
+! &bUsing &3"zh_CN.lang" &btranslated by &6奕博丶
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6头颅系统> &r
+messages.database: &4自定义头颅 &8 %count% 个已加载
+messages.search: &4头颅搜索 &8 %count% 个头颅
+messages.page: 页
+messages.price: &a价格: &2
+messages.heads: 头颅
+messages.head: 头颅
+messages.other: 其它
+messages.loading: &c..加载中..
+messages.recentHeads: &e新加入
+messages.noPermissionToBuyLore: &c没有权限
+messages.searchCommand: &7/hdb search [input]
+messages.pheadCommand: /phead [name]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &c建议头颅:
+messages.submit: &c提交头颅:
+messages.noPermission: &c你没有权限!
+messages.notEnoughMoney: &c你的钱不够!
+messages.notEnoughSpace: &c背包内空间不够
+messages.buyMessage: &a你购买了 %item% &a并花费金钱 &2%price%
+messages.backToMenu: &c返回主菜单
+messages.clickToSearch: &a&n&l点击这里&b 搜索头颅
+messages.noHeadsFound: &e没有找到任何头颅!
+messages.moreSpecific: &e请详细一些!
+messages.headsFound: &e找到头颅!
+messages.searchForHeads: &c搜索头颅
+messages.pluginInfo: &c插件信息
+messages.pluginSuggest: &c建议头颅
+messages.pluginSuggestLore: &7请先检查数据库
+messages.chatSearch: &b输入你要搜索的内容
+messages.databaseStillLoading: &c头颅数据库正在加载中！ 请稍等一会再进行此操作
+messages.customCommandItemName: &c返回主菜单
+
+# CATEGORY NAMES
+
+category.alphabet: 字母
+category.animals: 动物
+category.blocks: 方块
+category.decoration: 装饰品
+category.food_drinks: 食物 & 饮料
+category.humans: 人类
+category.humanoid: 人形
+category.miscellaneous: 杂物
+category.monsters: 怪物
+category.plants: 植物
+category.custom: 自定义
+category.custom2: 自定义 2
+category.custom3: 自定义 3
+category.custom4: 自定义 4
+category.custom5: 自定义 5
+category.online_players: 在线玩家
+category.disabled: 禁用
+
+# EVENT NAMES
+
+event.halloween: &e万圣节
+event.christmas: &b圣诞节
+event.newYear: &6新年
+event.valentines: &c情人节
+event.4thOfJuly: &c国庆节
+event.easter: &f复活节
+event.winter: &f冬季
+event.summer: &6夏日
+event.MayThe4th: &3原力与你同在
+event.piDay: &3派日
+event.pokemon: &6宝可梦

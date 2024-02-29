@@ -1,0 +1,59 @@
+# pl_PL.lang
+
+! &bUżywasz wersji językowej &3"pl_PL.lang" &bstworzonej przez &6Incredibad
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4HeadDB &7zawiera &8%count% &7główek
+messages.search: &4Head Search&8 %count% główek
+messages.page: Page
+messages.price: &aCena: &2
+messages.heads: główek
+messages.head: główka
+messages.other: inne
+messages.loading: &c..Ładuję..
+messages.recentHeads: &aOstatnio dodane
+messages.noPermissionToBuyLore: &cBrak pozwolenia
+messages.searchCommand: &7/hdb search [fraza]
+messages.pheadCommand: /phead [nick gracza]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.noPermission: &cNie możesz tego zrobić!
+messages.notEnoughMoney: &cMasz za mało pieniędzy by to zrobić!
+messages.notEnoughSpace: &cMasz za mało miejsca w ekwipunku!
+messages.buyMessage: &aKupiłeś %item% &aza &2%price%
+messages.backToMenu: &cPowrót do menu
+messages.clickToSearch: &a&n&lKliknij tutaj&b by szukać główek
+messages.noHeadsFound: &eNie znaleziono główek! Spróbuj jeszcze raz
+messages.moreSpecific: &eDoprecyzuj frazę!
+messages.headsFound: &eZnaleziono Główki!
+messages.searchForHeads: &cSzukanie Główek
+messages.pluginInfo: &cInformacje o pluginie
+messages.pluginSuggest: &cTutaj możesz zasugerować główki
+messages.pluginSuggestLore: &7Najpierw sprawdź bazę danych!
+messages.chatSearch: &bWpisz szukaną frazę
+messages.databaseStillLoading: &cBaza główek się wczytuje! Spróbuj za moment.
+messages.customCommandItemName: &cPowrót do głównego menu
+
+category.alphabet: Alfabet
+category.animals: Zwierzęta
+category.blocks: Bloki
+category.decoration: Dekoracje
+category.food_drinks: Jedzenie i Picie
+category.humans: Ludzie
+category.humanoid: Humanoidy
+category.miscellaneous: Użytkowe
+category.monsters: Potwory
+category.plants: Rośliny
+category.custom: Unikatowe Główki Serwera
+category.custom2: Unikatowe Główki Serwera 2
+category.custom3: Unikatowe Główki Serwera 3
+category.custom4: Unikatowe Główki Serwera 4
+category.custom5: Unikatowe Główki Serwera 5
+category.online_players: Gracze Online

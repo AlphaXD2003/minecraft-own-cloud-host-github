@@ -1,0 +1,76 @@
+# ru_Ru.lang
+
+! &bUsing &3"ru_Ru.lang" &btranslated by &6MenaR
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% голов
+messages.search: &4Найдено &8%count% &4голов.
+messages.page: Страница
+messages.price: &aЦена: &2
+messages.heads: головы
+messages.head: голова
+messages.other: другое
+messages.loading: &c..Загрузка..
+messages.recentHeads: &aНедавно добавленные
+messages.noPermissionToBuyLore: &cУ вас недостаточно прав
+messages.searchCommand: &7/hdb search [запрос]
+messages.pheadCommand: /phead [имя]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bВы можете предложить головы здесь:
+messages.noPermission: &cВам не разрешено это делать!
+messages.notEnoughMoney: &cУ вас недостаточно денег, чтобы сделать это!
+messages.notEnoughSpace: &cУ вас недостаточно места в инвентаре!
+messages.buyMessage: &aВы купили %item% &aза &2%price%
+messages.backToMenu: &cВернутся в меню
+messages.clickToSearch: &a&n&lКликни сюда&b чтобы искать головы
+messages.noHeadsFound: &eТаких голов не нашлось, попробуй снова!
+messages.moreSpecific: &eПожалуйста, будьте более конкретными!
+messages.headsFound: &eГолов не найдено!
+messages.searchForHeads: &cSearch for heads
+messages.pluginInfo: &cИнформация о плагине
+messages.pluginSuggest: &cВы можете предложить головы здесь
+messages.pluginSuggestLore: &7Пожалуйста сначало проверьте базу данных!
+messages.chatSearch: &bВведите свой поисковый запрос
+messages.databaseStillLoading: &cБаза данных всё ещё загружается, попробуйте через секунду!
+messages.customCommandItemName: &cВернутся в главное меню
+
+# CATEGORY NAMES
+
+category.alphabet: Алфавит
+category.animals: Животные
+category.blocks: Блоки
+category.decoration: Декорации
+category.food_drinks: Еда и напитки
+category.humans: Люди
+category.humanoid: Гуманоиды
+category.miscellaneous: Прочее
+category.monsters: Монстры
+category.plants: Растения
+category.custom: Пользовательские головы сервера
+category.custom2: Пользовательские головы сервера 2
+category.custom3: Пользовательские головы сервера 3
+category.custom4: Пользовательские головы сервера 4
+category.custom5: Пользовательские головы сервера 5
+category.online_players: Игроки онлайн
+
+# EVENT NAMES
+
+event.halloween: &eХэллоуин
+event.christmas: &bРождество
+event.newYear: &6Новый год
+event.valentines: &cДень Святого Валентина
+event.4thOfJuly: &cДень независимости США
+event.easter: &fПасха
+event.winter: &fЗима
+event.summer: &6Лето
+event.MayThe4th: &3Да прибудет с тобой 4-ое мая
+event.piDay: &3День Пи
+event.pokemon: &6День Покемона

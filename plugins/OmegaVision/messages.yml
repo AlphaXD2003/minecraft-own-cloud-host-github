@@ -1,0 +1,78 @@
+# -------------------------------------------------------------------------------------------
+#
+#  Welcome to OmegaVision's messages file.
+#
+#  Here you'll find all the messages that you can
+#  customize to your server needs.
+#
+# -------------------------------------------------------------------------------------------
+
+# Sets the plugins prefix to use in all the messages.
+# NOTE: A space will automatically be added after the prefix.
+# If set to 'none' it will disable the plugin prefix
+Plugin_Prefix: "#8c8c8c[#2b9bbf&lOV#8c8c8c]"
+
+Night_Vision_Messages:
+  # Sets the message for when pleased have night vision applied.
+  Night_Vision_Applied: "#2b9bbfNight Vision has been applied!"
+  
+  # Sets the message for when players have night vision removed.
+  Night_Vision_Removed: "#f63e3eNight Vision has been removed!"
+  
+  # Sets the message for when night vision gets automatically disabled when entering a specific world
+  Night_Vision_World_Disable: "#f63e3eYour night vision has been disabled."
+  
+  # Sets the message players get when they apply night vision temporary for someone.
+  Night_Vision_Appplied_Temp: "#2b9bbfNight vision has now been temporarily applied for %player%."
+  
+  # Sets the message all players get when night vision has been applied globally
+  Night_Vision_Applied_Global: "#2b9bbfNight Vision has been applied for all players!"
+  
+  # Sets the message all players get when night vision has been removed globally
+  Night_Vision_Removed_Global: "#f63e3eNight Vision has been removed for all players!"
+  
+  # Sets the actionbar message that is displayed when night vision is applied!
+  ActionBar_Night_Vision_Applied: "#2b9bbfNight vision has been applied!"
+  
+  # Sets the actionbar message that is displayed when night vision is removed!
+  ActionBar_Night_Vision_Removed: "#f63e3eNight vision has been removed!"
+  
+  # Sets the message players get when they drink milk bucket
+  # to remove the particle and icon when using night vision
+  Bucket_Message: "#2b9bbfThe particle effects and the icon have been removed!"
+
+  # Sets the message players get when they are successfully charged for using night vision.
+  # Use the placeholder `%NightVisionCost%` to get the cost of night vision set in the config.yml.
+  Night_Vision_Cost_Approved: "#2b9bbfYou have been charged #f63e3e$%NightVisionCost% #2b9bbfto use Night Vision!"
+
+  # Sets the message players get when they don't have enough money to use night vision.
+  Night_Vision_Cost_Denied: "#f63e3eSorry, you do not have enough money to use that command!"
+
+# Set the different messages for the night vision command limits
+Night_Vision_Limit:
+  # Sets the message players get when the limit has been reached
+  Limit_Reached: "#f63e3eSorry, you have reached the limit for the night vision command!"
+
+  # Sets the message players get when their limit amount has been reset
+  Limit_Reset: "#1fe3e0Your night vision limits have reset! You can use the night vision command again!"
+
+  # Sets the message players get when their limit count has been increased
+  Limit_Amount_Increased: "#1fe3e0Your limit amount now stands at: #f63e3e%currentLimitAmount% / %maxLimitAmount%"
+
+  # Sets the message players get when they use the limit check command
+  Limit_Check: "#1fe3e0Your limit amount currently stands at: #f63e3e%currentLimitAmount% / %maxLimitAmount%"
+
+  # Sets the message players get when they check another players command limits
+  Limit_Check_Others: "#f63e3e%player%'s #1fe3e0limit amount currently stands at: #f63e3e%currentLimitAmount% / %maxLimitAmount%"
+
+# Set the message player receive when a player is not found
+Invalid_Player: "#f63e3eSorry, that player cannot be found."
+
+# Sets the messages for when players don't have permission to use night vision.
+No_Permission: "#f63e3eSorry, but you don't have permission to do that."
+
+# Sets the message that players get when they reload the plugin
+Plugin_Reload: "#f63e3eOmegaVision has successfully been reloaded."
+
+# DO NOT EDIT THIS!
+Config_Version: 2.2

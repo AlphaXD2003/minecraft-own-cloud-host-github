@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.175.186.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706761882870
+  login: 1706761820871
+money: '0'
+last-account-name: rt560
+logoutlocation:
+  world: 1a0965c6-e29f-4a32-8239-01e30e7cdf9f
+  world-name: world
+  x: 0.5
+  y: 108.0
+  z: 6.5
+  yaw: 0.0
+  pitch: 0.0

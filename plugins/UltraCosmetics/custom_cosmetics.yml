@@ -1,0 +1,73 @@
+# In this file, you can define custom hats, emotes, suits, or pets! How exciting!
+
+# Format for hats:
+# Start with the internal name of the cosmetic, which must be ASCII-only and less than 32 characters.
+# For example, "CraftingTable":
+#   CraftingTable:
+#       # If the hat is a player skull, 'url' should be the end of a texture URL, like if the url is:
+#       # http://textures.minecraft.net/texture/9f30ffbc0110efa34e030860da18c8a1d6b223de0f00d9e4c5d0cfa7ecfafa48
+#       # Then the 'url' option should be:
+#       url: 9f30ffbc0110efa34e030860da18c8a1d6b223de0f00d9e4c5d0cfa7ecfafa48
+# Here's another example, this time with custom model data:
+#   CarvedPumpkinBlock:
+#       # 'type' should be the material name of the hat. If not present (like in the above example,) 'PLAYER_HEAD' is assumed.
+#       type: CARVED_PUMPKIN
+#       # 'custom-model-data' should be the custom model data of the hat. If not present, 0 is assumed.
+#       custom-model-data: 10
+# Once the hat is loaded, you will be able to change the display name and description in the messages file.
+Hats:
+
+# Format for emotes:
+# Again, start with the internal name of the cosmetic. The same rules apply.
+# This example is a built-in emote so don't activate it.
+#   DealWithIt:
+#       # 'ticksPerFrame' is how many ticks should be between each frame change.
+#       # 1 second = 20 ticks, so a value of 2 means update 10 times per second.
+#       ticksPerFrame: 2
+#       # 'urls' should be a list of ends of texture URLs, just like with hats.
+#       # But for emotes, you need a list of them.
+#       urls:
+#       - 72bb8ba79648718fe80687ed4df2b9e284e732583e05658e227efd7fdf80f4
+#       - 29b5b1f2c92a1283456f608b29ec3617191aba2bd31bd4b4b08e6cba6806227
+#       - 7959ef5fabb3f83fb19bba6ca67bb97758eec60235cf46e71d834b237337c4
+#       - 6313411e97963d104322218967a85a5d691330bad5f7192e3781d9565ebbdf
+#       - fa3f7f2f6970d32db284261520c8c441fe4b3268ac0c99aeb4a5248656bd
+# Again, once it's set up, you can change the name and description in the messages file.
+Emotes:
+
+# This allows you to create "more specific" pets. To customize a pet, the pet must already exist.
+# For example, you cannot customize an Ender Dragon pet, because it doesn't exist as a normal pet.
+# To customize a pet, specify the entity type of the new pet, the item it displays in the menu, and the customization string.
+# Valid entity types: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+# Valid dye colors: (BLACK, BLUE, BROWN, CYAN, GRAY, GREEN, LIGHT_BLUE, LIGHT_GRAY [SILVER if <1.13], LIME, MAGENTA, ORANGE, PINK, PURPLE, RED, WHITE, YELLOW)
+# Valid blocks/items: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+# Customization options:
+#     Axolotl: specify a color, options are (BLUE, CYAN, GOLD, LUCY, WILD)
+#     Creeper: charged, options are (true)
+#     Wolf: collar color, options are any valid dye color (see above)
+#     Enderman: held item, options are any valid block (see above)
+#     Fox: fox type, options are (RED, SNOW)
+#     Frog: frog type (controls color) options are (COLD, TEMPERATE, WARM)
+#     Goat: left horn, right horn, and screaming, (true/false separated by ':') for example a screaming goat with no horns would be "false,false,true"
+#     Horse: color and style, separated by ':'. Options for color are (BLACK, BROWN, CHESTNUT, CREAMY, DARK_BROWN, GRAY, WHITE), options for style are (BLACK_DOTS, NONE, WHITE, WHITE_DOTS, WHITEFIELD)
+#     Iron Golem: held item, options are any item with optional custom model data separated by ':'
+#     Cat: style, options are (ALL_BLACK, BLACK, BRITISH_SHORTHAIR, CALICO, JELLIE, PERSIAN, RAGDOLL, RED, SIAMESE, TABBY, WHITE)
+#     Llama: color and optionally carpet, separated by ':', color options are (BROWN, CREAMY, GRAY, WHITE) and carpet options are technically any valid block, but carpets are standard.
+#     Mooshroom: variant, options are (BROWN, RED)
+#     Panda: personality, options are (AGGRESSIVE, BROWN, LAZY, NORMAL, PLAYFUL, WEAK, WORRIED)
+#     Parrot: color, options are (BLUE, CYAN, GRAY, GREEN, RED)
+#     Sheep: color, options are any valid dye color.
+#     Slime: size, options are any number 1 to 127. (4 is the largest that spawns naturally.)
+#     Snowman: sheared (no pumpkin), options are (true). Not supported on 1.8.8.
+#     Villager: biome and profession, separated by ':'. Only suppored on 1.14.4 or higher. Biome options: (DESERT, JUNGLE, PLAINS, SAVANNA, SNOW, SWAMP, TAIGA), profession options: (ARMORER, BUTCHER, CARTOGRAPHER, CLERIC, FARMER, FISHERMAN, FLETCHER, LEATHERWORKER, LIBRARIAN, MASON, NITWIT, NONE, SHEPHERD, TOOLSMITH, WEAPONSMITH)
+# Here's an example:
+#   ExamplePet:
+#       type: AXOLOTL
+#       item: AXOLOTL_BUCKET
+#       customization: BLUE
+
+Pets:
+
+# Not yet implemented
+Suits:
+

@@ -1,0 +1,39 @@
+# This config file is for settings that are about the players themselves, and the player disguises!
+
+# MineSkin will at a later date give you less delay for skin requests, if you fill this in with a valid API you too can take advantage of this!
+# This requires you to have a Minecraft account registered with MineSkin, that account must be owned by you and will have its skin changed constantly.
+# https://mineskin.org/apikey
+MineSkinAPIKey: 'N/A'
+
+# Shall the players view their disguises?
+# Best used when viewing yourself in 3rd person
+ViewSelfDisguises: true
+
+# Are self disguises enabled by default
+# Default is true
+ViewSelfDisguisesDefault: true
+
+# Shall the disguised hear their disguise sounds or their damage sounds.
+# I disable this as it can be a little confusing when not used with self disguises
+HearSelfDisguise: true
+
+# Some disguises are rather big and tall and block your vision
+# By default those disguises are disabled, such as zombies, players, etc.
+# The baby versions however, are normally short enough that it's a non-issue
+TallSelfDisguises: true
+
+# Hide players in tab when disguised? This means a disguised player cannot be seen when you press tab! This can be toggled on/off per disguise
+HideDisguisedPlayersFromTab: false
+
+# Always show player disguises in tab? The names will continue to appear in tab until the disguise is removed.
+ShowPlayerDisguisesInTab: false
+
+# On player disguise, a fake player is added to tablist so the skin can load properly.
+# This option is ignored if 'ShowPlayerDisguisesInTab' is enabled.
+# How many ticks before tab packet is sent to remove from tablist. This shouldn't need to be touched
+TablistRemoveDelay: 3
+
+# To prevent skins from defaulting to alex/steve, there is a timer that only expires after X ticks or when the player moves
+# You shouldn't actually touch this, but eh. Your server.
+# Default is 5 seconds
+PlayerDisguisesTablistExpiresMove: 100
