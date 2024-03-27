@@ -1,0 +1,19 @@
+useSSL: false
+StoreType: JKS
+KeyStore: plugins/WebConsole/keystore.jks
+StorePassword: storepassword
+KeyPassword: keypassword
+host: 0.0.0.0
+port: 8080
+language: en
+passwords:
+  admin:
+    user1:Oreo_God
+      password: wik1wik7756
+      commandWhitelist:
+        enabled: false
+        commandWhitelistActsAsBlacklist: false
+        whitelist:
+        - whisper
+        - gamemode survival
+  viewer: {}
